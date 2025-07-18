@@ -1,0 +1,13 @@
+clock,afr_site_with_mutations,afr_site_without_mutations,sas_site_with_mutations,sas_site_without_mutations,amr_site_with_mutations,amr_site_without_mutations,eas_site_with_mutations,eas_site_without_mutations,fin_site_with_mutations,fin_site_without_mutations,nfe_site_with_mutations,nfe_site_without_mutations,asj_site_with_mutations,asj_site_without_mutations,ami_site_with_mutations,ami_site_without_mutations,mid_site_with_mutations,mid_site_without_mutations,sa_site_with_mutations,sa_site_without_mutations
+DunedinPACE,1,117,1,117,2,116,1,117,2,116,1,117,2,116,1,117,1,117,0,118
+Horvath-multi-tissue,4,349,5,348,4,349,4,349,5,348,5,348,6,347,3,350,5,348,2,351
+Chunxiao,2,81,3,80,3,80,3,80,3,80,3,80,3,80,2,81,3,80,0,82
+Hannum,2,48,0,50,1,49,1,49,1,49,1,49,1,49,0,50,2,48,0,50
+Xiaohui,4,85,1,88,2,87,1,88,1,88,1,88,1,88,1,88,1,88,0,89
+Horvath-blood_skin_others,8,383,4,387,7,384,4,387,4,387,4,387,4,387,3,388,8,383,2,389
+Monika,0,5,0,5,0,5,0,5,0,5,0,5,0,5,0,5,0,5,0,5
+PedBE,3,91,1,93,2,92,2,92,1,93,1,93,1,93,1,93,1,93,1,93
+Carola,0,3,0,3,0,3,0,3,0,3,0,3,0,3,0,3,0,3,0,3
+PhenoAge-blood,12,501,9,504,8,505,8,505,6,507,8,505,8,505,6,507,9,504,1,512
+Horvath-pan-mammalian,29,1274,13,1290,18,1285,11,1292,14,1289,14,1289,14,1289,12,1291,17,1286,5,1298
+Maria,0,49,0,49,0,49,0,49,0,49,0,49,0,49,1,48,0,49,1,48

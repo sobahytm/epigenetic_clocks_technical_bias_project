@@ -14,14 +14,21 @@ To address this, we systematically evaluated the impact of SNP-CpG site overlaps
 ```
 epigenetic-clocks-simulation/
 ├── scripts/
-│   ├── Clocks_weights_based_analysis_polished.py
-│   ├── Simulation_framework_polished.py
-│   ├── Simulation_framework-2_polished.py
-│   ├── Run_clocks_polished.py
-│   └── Post-simulation_analysis_polished.py
-├── data/                # Optional (sample input files or instructions)
+│   ├── enrichment_analysis_clocks.py 
+|   |── enrichment_analysis_populations.py
+|   |── clocks_weights_based_analysis.py
+│   ├── simulation_framework-1.py
+│   ├── simulation_framework-2.py
+│   ├── run_clocks.py
+│   └── post-simulation_analysis.py
+├── data/
+│   ├── summary_CpG_all_snps.txt
+|   |── gnomAD_overlap_table.snps.csv
+|   |── clock_coefficient.txt
+|   |── intersected_data/
+|   |── common_snps/
+|   |── all_snps/
 ├── results/             # Optional (example outputs)
-├── docs/                # Optional (extended documentation or figures)
 ├── LICENSE
 ├── .gitignore
 └── README.md
@@ -33,57 +40,56 @@ epigenetic-clocks-simulation/
 
 Each script is independently executable from the command line using Python 3.8+.
 
-### 1. Enrichment Analysis: Populations
+
+### 1. Enrichment Analysis: Clocks
 ```bash
-python scripts/Enrichment_analysis.Populations_polished.py \
-    path/to/variants_overlap_table.snps.csv
+python scripts/Enrichment_analysis_clocks.py \
+    path/to/summary_CpG_all_snps.txt
 ```
 
-### 2. Enrichment Analysis: Clocks
+### 2. Enrichment Analysis: Populations
 ```bash
-python scripts/Enrichment_Clocks_Enhanced.py \
-    path/to/summary_CpG_all_mutations.txt
+python scripts/enrichment_analysis_populations.py \
+    path/to/gnomAD_overlap_table.snps.csv
 ```
-
 
 ### 3. CpG Weight-Based Enrichment
 ```bash
-python scripts/Clocks_weights_based_analysis_polished.py \
-    path/to/clocks_coefficient.txt \
-    path/to/mutation_directory/
+python scripts/Clocks_weights_based_analysis.py \
+    path/to/clock_coefficient.txt \
+    path/to/intersected_data/
 ```
 
 ### 4. Simulation Test I
 ```bash
-python scripts/Simulation_framework_polished.py \
-    path/to/population.common_mutations_in_CpG.with_zygosity.txt \
-    path/to/intersected_data_directory/ \
-    path/to/beta_matrix.tsv
+python scripts/simulation_framework-1.py \
+    path/to/common_snps/[population].with_zygosity.txt \
+    path/to/intersected_data/ \
+    path/to/beta_matrix.txt
 ```
 
 ### 5. Simulation Test II
 ```bash
-python scripts/Simulation_framework-2_polished.py \
-    path/to/population.common_mutations_in_CpG.with_zygosity.txt \
-    path/to/intersected_data_directory/ \
-    path/to/beta_matrix.tsv
+python scripts/simulation_framework-2.py \
+    path/to/all_snps/[population].with_zygosity.txt \
+    path/to/intersected_data/ \
+    path/to/beta_matrix.txt
 ```
 
 ### 6. Run Epigenetic Clock Models
 ```bash
-python scripts/Run_clocks_polished.py \
-    path/to/simulation_results_directory/
+python scripts/run_clocks.py \
+    path/to/DNA_methylation_directory/
 ```
 
 ### 7. Post-Simulation Analysis
 ```bash
-python scripts/Post-simulation_analysis_polished.py \
+python scripts/post-simulation_analysis.py \
     path/to/original_clock_output.csv \
     path/to/simulated_outputs_directory/
 ```
 
 ---
-
 
 
 ## ⚖️ License

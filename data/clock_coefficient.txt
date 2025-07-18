@@ -1,0 +1,3699 @@
+Clock	Marker	Coefficient	
+Hannum	cg20822990	-15.7	
+Hannum	cg22512670	1.05	
+Hannum	cg25410668	3.87	
+Hannum	cg04400972	9.62	
+Hannum	cg16054275	-11.1	
+Hannum	cg10501210	-6.46	
+Hannum	cg09809672	-0.74	
+Hannum	cg22158769	-2.06	
+Hannum	cg02085953	1.02	
+Hannum	cg06639320	8.95	
+Hannum	cg22454769	4.85	
+Hannum	cg24079702	2.48	
+Hannum	cg23606718	8.35	
+Hannum	cg22016779	1.79	
+Hannum	cg04474832	-7.1	
+Hannum	cg03607117	10.7	
+Hannum	cg07553761	3.72	
+Hannum	cg00481951	-2.72	
+Hannum	cg25478614	4.01	
+Hannum	cg25428494	-1.81	
+Hannum	cg02650266	10.2	
+Hannum	cg08234504	-3.16	
+Hannum	cg23500537	5.67	
+Hannum	cg20052760	-12.6	
+Hannum	cg16867657	10.8	
+Hannum	cg22736354	4.42	
+Hannum	cg06493994	9.42	
+Hannum	cg06685111	-13.1	
+Hannum	cg00486113	-10.7	
+Hannum	cg13001142	-5.8	
+Hannum	cg20426994	19.1	
+Hannum	cg14361627	10.7	
+Hannum	cg08097417	27.3	
+Hannum	cg07955995	13.7	
+Hannum	cg22285878	-20.7	
+Hannum	cg03473532	-3.31	
+Hannum	cg08540945	9.41	
+Hannum	cg07927379	-1.42	
+Hannum	cg16419235	-1.6	
+Hannum	cg07583137	3.03	
+Hannum	cg22796704	-10.6	
+Hannum	cg19935065	13.4	
+Hannum	cg23091758	-0.392	
+Hannum	cg23744638	0.0859	
+Hannum	cg04940570	11.6	
+Hannum	cg11067179	14.7	
+Hannum	cg22213242	23.7	
+Hannum	cg06419846	13.4	
+Hannum	cg02046143	-10.2	
+Hannum	cg00748589	8.21	
+Hannum	cg19722847	-5.66	
+Hannum	cg18473521	8.85	
+Hannum	cg01528542	-2.98	
+Hannum	cg03032497	8.4	
+Hannum	cg04875128	-4.37	
+Hannum	cg21296230	8.39	
+Hannum	cg09651136	-15.8	
+Hannum	cg03399905	28	
+Hannum	cg04416734	11.9	
+Hannum	cg07082267	2.87	
+Hannum	cg14692377	19.1	
+Hannum	cg06874016	-4.37	
+Hannum	cg21139312	17.1	
+Hannum	cg02867102	-12.5	
+Hannum	cg19283806	-4.29	
+Hannum	cg14556683	-4.04	
+Hannum	cg07547549	3.11	
+Hannum	cg05442902	-22.7	
+Hannum	cg08415592	-6.92	
+Horvath-blood_skin_others	cg12140144	0.36318117	
+Horvath-blood_skin_others	cg26933021	-0.09050009	
+Horvath-blood_skin_others	cg20822990	-0.007025234	
+Horvath-blood_skin_others	cg07312601	-0.1350924	
+Horvath-blood_skin_others	cg09993145	-0.04263934	
+Horvath-blood_skin_others	cg23605843	0.079387235	
+Horvath-blood_skin_others	cg25410668	0.278005252	
+Horvath-blood_skin_others	cg17879376	-0.202709389	
+Horvath-blood_skin_others	cg14962509	0.18231053	
+Horvath-blood_skin_others	cg24375409	-0.023804586	
+Horvath-blood_skin_others	cg22851420	0.097197819	
+Horvath-blood_skin_others	cg24107728	-0.106542738	
+Horvath-blood_skin_others	cg14614643	-0.043392987	
+Horvath-blood_skin_others	cg00257455	-0.161698597	
+Horvath-blood_skin_others	cg23045908	0.137327056	
+Horvath-blood_skin_others	cg15201877	0.39209762	
+Horvath-blood_skin_others	cg18933331	-0.231762834	
+Horvath-blood_skin_others	cg05675373	0.024479256	
+Horvath-blood_skin_others	cg19269039	-0.017557985	
+Horvath-blood_skin_others	cg16008966	-0.203907755	
+Horvath-blood_skin_others	cg14565725	-0.035564076	
+Horvath-blood_skin_others	cg05940231	-0.106704842	
+Horvath-blood_skin_others	cg03984502	0.222121301	
+Horvath-blood_skin_others	cg25256723	-0.120981399	
+Horvath-blood_skin_others	cg16054275	-0.233968201	
+Horvath-blood_skin_others	cg01459453	0.041907941	
+Horvath-blood_skin_others	cg16599143	0.141980111	
+Horvath-blood_skin_others	cg02275294	-0.142869288	
+Horvath-blood_skin_others	cg21870884	-0.012681435	
+Horvath-blood_skin_others	cg10501210	-0.316526361	
+Horvath-blood_skin_others	cg02901139	-0.073114832	
+Horvath-blood_skin_others	cg11298786	-0.196433893	
+Horvath-blood_skin_others	cg09809672	-0.100326137	
+Horvath-blood_skin_others	cg05940691	-0.059992468	
+Horvath-blood_skin_others	cg12869659	-0.042567598	
+Horvath-blood_skin_others	cg23028740	-0.009884695	
+Horvath-blood_skin_others	cg10959651	-0.038209171	
+Horvath-blood_skin_others	cg00522231	0.018122037	
+Horvath-blood_skin_others	cg01752203	-0.0219794	
+Horvath-blood_skin_others	cg23643435	0.012875413	
+Horvath-blood_skin_others	cg01243072	-0.00132993	
+Horvath-blood_skin_others	cg07589899	0.106602051	
+Horvath-blood_skin_others	cg10855531	-0.300557382	
+Horvath-blood_skin_others	cg22943590	-0.083177673	
+Horvath-blood_skin_others	cg23398076	0.005661222	
+Horvath-blood_skin_others	cg12082609	0.154152131	
+Horvath-blood_skin_others	cg01447660	-0.115749983	
+Horvath-blood_skin_others	cg02085953	0.019920164	
+Horvath-blood_skin_others	cg15149655	0.200278685	
+Horvath-blood_skin_others	cg22809047	0.118967117	
+Horvath-blood_skin_others	cg06639320	0.019738695	
+Horvath-blood_skin_others	cg22454769	0.05186605	
+Horvath-blood_skin_others	cg00017842	0.156359902	
+Horvath-blood_skin_others	cg23606718	0.700747251	
+Horvath-blood_skin_others	cg22061831	-0.177458031	
+Horvath-blood_skin_others	cg12757011	0.155998605	
+Horvath-blood_skin_others	cg01620164	-0.065414051	
+Horvath-blood_skin_others	cg12105450	0.009944802	
+Horvath-blood_skin_others	cg00760938	0.077199533	
+Horvath-blood_skin_others	cg10376763	-0.092087268	
+Horvath-blood_skin_others	cg23077820	0.061010377	
+Horvath-blood_skin_others	cg08166272	0.105439453	
+Horvath-blood_skin_others	cg10523019	0.126151862	
+Horvath-blood_skin_others	cg23462687	-0.18373491	
+Horvath-blood_skin_others	cg20669012	0.126231651	
+Horvath-blood_skin_others	cg03183882	-1.007388736	
+Horvath-blood_skin_others	cg15910502	-0.133774268	
+Horvath-blood_skin_others	cg12941369	0.024191779	
+Horvath-blood_skin_others	cg02244028	0.004509242	
+Horvath-blood_skin_others	cg24888989	1.230382387	
+Horvath-blood_skin_others	cg00702638	0.725076159	
+Horvath-blood_skin_others	cg07303143	0.734120702	
+Horvath-blood_skin_others	cg26614073	-0.12422813	
+Horvath-blood_skin_others	cg15988232	-0.058416229	
+Horvath-blood_skin_others	cg16933388	0.133862484	
+Horvath-blood_skin_others	cg19381811	-0.028321608	
+Horvath-blood_skin_others	cg03019000	-0.084379082	
+Horvath-blood_skin_others	cg01844642	0.093411763	
+Horvath-blood_skin_others	cg04474832	0.120529911	
+Horvath-blood_skin_others	cg03891319	-0.256080839	
+Horvath-blood_skin_others	cg03607117	0.16978081	
+Horvath-blood_skin_others	cg22264409	0.025065715	
+Horvath-blood_skin_others	cg11205552	0.03974515	
+Horvath-blood_skin_others	cg17321954	0.473386142	
+Horvath-blood_skin_others	cg06796779	0.053573181	
+Horvath-blood_skin_others	cg18303397	0.021787708	
+Horvath-blood_skin_others	cg09025210	0.038797211	
+Horvath-blood_skin_others	cg14423778	0.060485029	
+Horvath-blood_skin_others	cg15277914	-0.033373318	
+Horvath-blood_skin_others	cg07553761	0.26245025	
+Horvath-blood_skin_others	cg06737494	0.063912268	
+Horvath-blood_skin_others	cg01059398	-0.008853384	
+Horvath-blood_skin_others	cg26824216	-0.160472039	
+Horvath-blood_skin_others	cg25478614	0.1134933	
+Horvath-blood_skin_others	cg07110949	0.002657343	
+Horvath-blood_skin_others	cg23239150	0.070538403	
+Horvath-blood_skin_others	cg21254939	0.021571616	
+Horvath-blood_skin_others	cg23995914	0.140280611	
+Horvath-blood_skin_others	cg23836737	-0.153545428	
+Horvath-blood_skin_others	cg05960024	-0.001021528	
+Horvath-blood_skin_others	cg10699857	-0.272483609	
+Horvath-blood_skin_others	cg05024939	0.182892899	
+Horvath-blood_skin_others	cg05106770	-0.059972415	
+Horvath-blood_skin_others	cg06690548	0.09471733	
+Horvath-blood_skin_others	cg02650266	0.028818953	
+Horvath-blood_skin_others	cg01511232	0.169550787	
+Horvath-blood_skin_others	cg25148589	0.078558981	
+Horvath-blood_skin_others	cg24843443	0.023702386	
+Horvath-blood_skin_others	cg03364683	0.036554692	
+Horvath-blood_skin_others	cg21815258	0.326223519	
+Horvath-blood_skin_others	cg12608692	-0.002412844	
+Horvath-blood_skin_others	cg20755989	0.241204089	
+Horvath-blood_skin_others	cg12238343	0.061944417	
+Horvath-blood_skin_others	cg02328239	0.16436989	
+Horvath-blood_skin_others	cg21878650	-0.128024668	
+Horvath-blood_skin_others	cg26921969	0.395074581	
+Horvath-blood_skin_others	cg10837404	-0.102091213	
+Horvath-blood_skin_others	cg01883408	0.210085033	
+Horvath-blood_skin_others	cg06448705	0.113571555	
+Horvath-blood_skin_others	cg16983159	-0.165180675	
+Horvath-blood_skin_others	cg08234504	-0.26152552	
+Horvath-blood_skin_others	cg11006267	0.300526161	
+Horvath-blood_skin_others	cg21874213	-0.172139583	
+Horvath-blood_skin_others	cg23500537	0.233705722	
+Horvath-blood_skin_others	cg26843711	0.110106802	
+Horvath-blood_skin_others	cg08587542	-0.106508873	
+Horvath-blood_skin_others	cg10345936	-0.012900832	
+Horvath-blood_skin_others	cg16281600	0.047646923	
+Horvath-blood_skin_others	cg03555227	0.191706264	
+Horvath-blood_skin_others	cg14345676	0.001316012	
+Horvath-blood_skin_others	cg14314729	-0.06706345	
+Horvath-blood_skin_others	cg23517605	-0.07457332	
+Horvath-blood_skin_others	cg01570885	-0.017483676	
+Horvath-blood_skin_others	cg23375552	-0.149639186	
+Horvath-blood_skin_others	cg20052760	-0.087362687	
+Horvath-blood_skin_others	cg16867657	0.895062555	
+Horvath-blood_skin_others	cg21572722	0.25892259	
+Horvath-blood_skin_others	cg00194146	0.025139618	
+Horvath-blood_skin_others	cg01527307	0.150122977	
+Horvath-blood_skin_others	cg22736354	0.123149986	
+Horvath-blood_skin_others	cg10699171	-0.017511895	
+Horvath-blood_skin_others	cg06493994	0.194146067	
+Horvath-blood_skin_others	cg04424621	0.038777571	
+Horvath-blood_skin_others	cg02281167	0.050827556	
+Horvath-blood_skin_others	cg03771840	0.063283934	
+Horvath-blood_skin_others	cg06685111	-0.118050369	
+Horvath-blood_skin_others	cg06462220	-0.400871124	
+Horvath-blood_skin_others	cg08420066	-0.008791294	
+Horvath-blood_skin_others	cg21467614	-0.041302664	
+Horvath-blood_skin_others	cg12753631	-0.341572489	
+Horvath-blood_skin_others	cg18501647	0.016362955	
+Horvath-blood_skin_others	cg04576021	0.190381369	
+Horvath-blood_skin_others	cg10192196	0.103900831	
+Horvath-blood_skin_others	cg18468088	0.271258499	
+Horvath-blood_skin_others	cg03894990	0.001522808	
+Horvath-blood_skin_others	cg01740766	-0.048108887	
+Horvath-blood_skin_others	cg16255583	-0.180263541	
+Horvath-blood_skin_others	cg04642300	0.000163032	
+Horvath-blood_skin_others	cg17266282	-0.042249296	
+Horvath-blood_skin_others	cg07095347	-0.022007791	
+Horvath-blood_skin_others	cg00073460	0.059375867	
+Horvath-blood_skin_others	cg16333846	0.226865753	
+Horvath-blood_skin_others	cg13221458	-0.03948023	
+Horvath-blood_skin_others	cg05468948	0.1385783	
+Horvath-blood_skin_others	cg00795927	-0.066373448	
+Horvath-blood_skin_others	cg08911208	-0.094222318	
+Horvath-blood_skin_others	cg22372849	-0.140115536	
+Horvath-blood_skin_others	cg16012294	0.139311157	
+Horvath-blood_skin_others	cg22679120	-0.040224477	
+Horvath-blood_skin_others	cg13931228	-0.248553517	
+Horvath-blood_skin_others	cg27009703	-0.177740737	
+Horvath-blood_skin_others	cg11671968	0.12056816	
+Horvath-blood_skin_others	cg26312920	0.006822853	
+Horvath-blood_skin_others	cg19663246	-0.038644462	
+Horvath-blood_skin_others	cg14396995	0.124112592	
+Horvath-blood_skin_others	cg18442362	0.006510407	
+Horvath-blood_skin_others	cg09748749	-0.202802695	
+Horvath-blood_skin_others	cg20692569	0.031358837	
+Horvath-blood_skin_others	cg23857078	0.234566322	
+Horvath-blood_skin_others	cg21743182	0.002840957	
+Horvath-blood_skin_others	cg09436502	0.056326271	
+Horvath-blood_skin_others	cg00503840	0.048660992	
+Horvath-blood_skin_others	cg04084157	0.358752386	
+Horvath-blood_skin_others	cg14175438	-0.068289683	
+Horvath-blood_skin_others	cg20665157	0.007167281	
+Horvath-blood_skin_others	cg21184711	0.095030843	
+Horvath-blood_skin_others	cg02383785	0.184785161	
+Horvath-blood_skin_others	cg04528819	0.034464913	
+Horvath-blood_skin_others	cg20426994	-0.10138815	
+Horvath-blood_skin_others	cg08097417	0.871371912	
+Horvath-blood_skin_others	cg02821342	-0.238319555	
+Horvath-blood_skin_others	cg20397034	-0.243166838	
+Horvath-blood_skin_others	cg03473532	-0.212957707	
+Horvath-blood_skin_others	cg08280936	-0.236131315	
+Horvath-blood_skin_others	cg08540945	-0.169692254	
+Horvath-blood_skin_others	cg18769120	0.061912688	
+Horvath-blood_skin_others	cg26101086	-0.157277248	
+Horvath-blood_skin_others	cg19859445	0.187400893	
+Horvath-blood_skin_others	cg07502389	0.315775924	
+Horvath-blood_skin_others	cg18267374	-0.211900555	
+Horvath-blood_skin_others	cg00582628	0.020113023	
+Horvath-blood_skin_others	cg16419235	0.114778824	
+Horvath-blood_skin_others	cg23710218	-0.349167653	
+Horvath-blood_skin_others	cg07583137	0.045566547	
+Horvath-blood_skin_others	cg12402251	0.126795101	
+Horvath-blood_skin_others	cg19497517	-0.043395521	
+Horvath-blood_skin_others	cg13586038	0.123252118	
+Horvath-blood_skin_others	cg19724470	-0.10071878	
+Horvath-blood_skin_others	cg07211259	-0.005379403	
+Horvath-blood_skin_others	cg07158339	-0.031781561	
+Horvath-blood_skin_others	cg24046474	0.273014681	
+Horvath-blood_skin_others	cg14059835	-0.01606536	
+Horvath-blood_skin_others	cg10570177	-0.098633561	
+Horvath-blood_skin_others	cg13649056	0.039138961	
+Horvath-blood_skin_others	cg13734401	-0.095656068	
+Horvath-blood_skin_others	cg26581729	0.020094806	
+Horvath-blood_skin_others	cg06231995	0.474820936	
+Horvath-blood_skin_others	cg14411282	-0.257289082	
+Horvath-blood_skin_others	cg12530994	-0.229184375	
+Horvath-blood_skin_others	cg23754392	-0.291911388	
+Horvath-blood_skin_others	cg06908778	-0.157690767	
+Horvath-blood_skin_others	cg22796704	-0.029759398	
+Horvath-blood_skin_others	cg01560871	-0.049569159	
+Horvath-blood_skin_others	cg04268405	-0.131067658	
+Horvath-blood_skin_others	cg18738190	-0.107287066	
+Horvath-blood_skin_others	cg04126866	-0.002395993	
+Horvath-blood_skin_others	cg25427880	0.163755938	
+Horvath-blood_skin_others	cg09671951	0.100547105	
+Horvath-blood_skin_others	cg06888746	0.06636353	
+Horvath-blood_skin_others	cg24838825	0.064357741	
+Horvath-blood_skin_others	cg13848598	0.193738927	
+Horvath-blood_skin_others	cg07906193	-0.028845261	
+Horvath-blood_skin_others	cg12776156	-0.178994003	
+Horvath-blood_skin_others	cg05928581	-0.042510449	
+Horvath-blood_skin_others	cg17627559	-0.041485942	
+Horvath-blood_skin_others	cg23091758	0.105288037	
+Horvath-blood_skin_others	cg04940570	0.289083267	
+Horvath-blood_skin_others	cg10825530	-0.032291929	
+Horvath-blood_skin_others	cg20654468	-0.053720029	
+Horvath-blood_skin_others	cg26552743	0.143274678	
+Horvath-blood_skin_others	cg21992250	0.148220328	
+Horvath-blood_skin_others	cg15015340	-0.177069064	
+Horvath-blood_skin_others	cg22843803	0.056493693	
+Horvath-blood_skin_others	cg02532488	-0.700325684	
+Horvath-blood_skin_others	cg13547237	-0.244821395	
+Horvath-blood_skin_others	cg06419846	0.173053972	
+Horvath-blood_skin_others	cg05496363	0.052685055	
+Horvath-blood_skin_others	cg20063906	-0.059773403	
+Horvath-blood_skin_others	cg12328429	0.084155006	
+Horvath-blood_skin_others	cg25969122	-0.230844144	
+Horvath-blood_skin_others	cg18633600	0.258223734	
+Horvath-blood_skin_others	cg08622677	0.228243806	
+Horvath-blood_skin_others	cg01820374	0.122892482	
+Horvath-blood_skin_others	cg25719851	-0.022925595	
+Horvath-blood_skin_others	cg13828440	0.007369907	
+Horvath-blood_skin_others	cg26986871	0.056829639	
+Horvath-blood_skin_others	cg00748589	0.166719656	
+Horvath-blood_skin_others	cg21747310	-0.14214148	
+Horvath-blood_skin_others	cg00431549	8.83E-06	
+Horvath-blood_skin_others	cg13302154	0.108000163	
+Horvath-blood_skin_others	cg13909661	-0.274041919	
+Horvath-blood_skin_others	cg19722847	-0.181925615	
+Horvath-blood_skin_others	cg26311454	0.122618743	
+Horvath-blood_skin_others	cg08900043	-0.061964424	
+Horvath-blood_skin_others	cg00753885	-0.478311288	
+Horvath-blood_skin_others	cg18573383	0.181171156	
+Horvath-blood_skin_others	cg15405572	0.037353229	
+Horvath-blood_skin_others	cg01528542	-0.142372036	
+Horvath-blood_skin_others	cg08993878	-0.064338662	
+Horvath-blood_skin_others	cg22827210	-0.027255117	
+Horvath-blood_skin_others	cg03670162	-0.272548779	
+Horvath-blood_skin_others	cg04596060	-0.665424984	
+Horvath-blood_skin_others	cg21907579	-0.177227446	
+Horvath-blood_skin_others	cg10281002	0.025872001	
+Horvath-blood_skin_others	cg07172885	0.117264072	
+Horvath-blood_skin_others	cg20404336	0.157368981	
+Horvath-blood_skin_others	cg18582260	0.035026458	
+Horvath-blood_skin_others	cg22179082	0.002964856	
+Horvath-blood_skin_others	cg06648759	0.426865378	
+Horvath-blood_skin_others	cg23357533	-0.315330856	
+Horvath-blood_skin_others	cg20102280	-0.062042567	
+Horvath-blood_skin_others	cg13767001	0.083143352	
+Horvath-blood_skin_others	cg23389651	-0.293553057	
+Horvath-blood_skin_others	cg09646392	-0.033184175	
+Horvath-blood_skin_others	cg00593462	0.097570402	
+Horvath-blood_skin_others	cg07115626	-0.094763614	
+Horvath-blood_skin_others	cg06738602	-0.094900868	
+Horvath-blood_skin_others	cg03032497	0.111167257	
+Horvath-blood_skin_others	cg18771300	-0.020048513	
+Horvath-blood_skin_others	cg24058132	-0.112975227	
+Horvath-blood_skin_others	cg13027206	-0.045902277	
+Horvath-blood_skin_others	cg15480367	0.194531027	
+Horvath-blood_skin_others	cg12177001	-0.07785388	
+Horvath-blood_skin_others	cg23709172	-0.186107442	
+Horvath-blood_skin_others	cg14334310	-0.046881748	
+Horvath-blood_skin_others	cg04875128	0.000358099	
+Horvath-blood_skin_others	cg21296230	-0.025400229	
+Horvath-blood_skin_others	cg02071305	0.006551842	
+Horvath-blood_skin_others	cg03361973	0.060347983	
+Horvath-blood_skin_others	cg16717122	0.145165276	
+Horvath-blood_skin_others	cg04858164	0.021061771	
+Horvath-blood_skin_others	cg25005357	0.175415186	
+Horvath-blood_skin_others	cg08454546	-0.094942525	
+Horvath-blood_skin_others	cg21801378	-0.108999297	
+Horvath-blood_skin_others	cg15188939	0.204901746	
+Horvath-blood_skin_others	cg20540209	0.168253736	
+Horvath-blood_skin_others	cg05542681	0.136880027	
+Horvath-blood_skin_others	cg08949164	0.26484193	
+Horvath-blood_skin_others	cg09183146	0.073150402	
+Horvath-blood_skin_others	cg00454305	0.104795616	
+Horvath-blood_skin_others	cg02871659	0.088545773	
+Horvath-blood_skin_others	cg00991848	0.443892891	
+Horvath-blood_skin_others	cg02331561	-0.251920782	
+Horvath-blood_skin_others	cg26974444	0.076079047	
+Horvath-blood_skin_others	cg06112560	0.164151085	
+Horvath-blood_skin_others	cg10917602	-0.01541014	
+Horvath-blood_skin_others	cg09155044	-0.34067138	
+Horvath-blood_skin_others	cg04031656	0.054786257	
+Horvath-blood_skin_others	cg03746976	-0.057713285	
+Horvath-blood_skin_others	cg18693704	-0.281443943	
+Horvath-blood_skin_others	cg00658652	0.152610423	
+Horvath-blood_skin_others	cg03991512	-0.076313755	
+Horvath-blood_skin_others	cg22947000	0.022123113	
+Horvath-blood_skin_others	cg07082267	-0.469183318	
+Horvath-blood_skin_others	cg03486383	0.163455361	
+Horvath-blood_skin_others	cg02228185	-0.040322638	
+Horvath-blood_skin_others	cg23668631	0.005436849	
+Horvath-blood_skin_others	cg14522800	0.130623663	
+Horvath-blood_skin_others	cg25135555	0.19289556	
+Horvath-blood_skin_others	cg13029847	0.647782172	
+Horvath-blood_skin_others	cg06144905	0.159584367	
+Horvath-blood_skin_others	cg11896923	0.03762834	
+Horvath-blood_skin_others	cg06874016	-0.087728359	
+Horvath-blood_skin_others	cg25809905	-0.098070008	
+Horvath-blood_skin_others	cg04267101	-0.019686613	
+Horvath-blood_skin_others	cg22507023	0.238758635	
+Horvath-blood_skin_others	cg02867102	-0.119891936	
+Horvath-blood_skin_others	cg13093111	0.008813891	
+Horvath-blood_skin_others	cg13683374	-0.082641119	
+Horvath-blood_skin_others	cg10644544	-0.667740113	
+Horvath-blood_skin_others	cg03643998	-0.096155832	
+Horvath-blood_skin_others	cg11620135	-0.017903185	
+Horvath-blood_skin_others	cg25436157	-0.104484131	
+Horvath-blood_skin_others	cg24217948	-0.064571004	
+Horvath-blood_skin_others	cg17589341	0.057342287	
+Horvath-blood_skin_others	cg17243289	0.043726185	
+Horvath-blood_skin_others	cg12459502	-0.094150797	
+Horvath-blood_skin_others	cg19283806	-0.117204493	
+Horvath-blood_skin_others	cg10052840	-0.071280662	
+Horvath-blood_skin_others	cg26005082	0.123793917	
+Horvath-blood_skin_others	cg11766468	0.055276883	
+Horvath-blood_skin_others	cg10586358	-0.045978588	
+Horvath-blood_skin_others	cg14556683	-0.137408439	
+Horvath-blood_skin_others	cg26842024	0.484248748	
+Horvath-blood_skin_others	cg18335931	-0.250129622	
+Horvath-blood_skin_others	cg17861230	-0.317548444	
+Horvath-blood_skin_others	cg10498798	-0.270927703	
+Horvath-blood_skin_others	cg27212234	1.019895062	
+Horvath-blood_skin_others	cg17110586	-0.068681588	
+Horvath-blood_skin_others	cg21944491	-0.061976207	
+Horvath-blood_skin_others	cg21940708	0.226979162	
+Horvath-blood_skin_others	cg15811427	-0.003532559	
+Horvath-blood_skin_others	cg06458239	0.346805453	
+Horvath-blood_skin_others	cg10729426	0.234125732	
+Horvath-blood_skin_others	cg21911021	0.043583857	
+Horvath-blood_skin_others	cg24834740	-0.071902899	
+Horvath-blood_skin_others	cg19702785	0.127633982	
+Horvath-blood_skin_others	cg07547549	0.21256908	
+Horvath-blood_skin_others	cg12303084	0.651720134	
+Horvath-blood_skin_others	cg27544190	-0.578092646	
+Horvath-blood_skin_others	cg01262913	-0.001998917	
+Horvath-blood_skin_others	cg17274064	-0.061618839	
+Horvath-blood_skin_others	cg09428349	-0.409120335	
+Horvath-blood_skin_others	cg10636297	0.185919976	
+Horvath-blood_skin_others	cg12373771	-0.13986391	
+Horvath-blood_skin_others	cg05442902	-0.240314839	
+Horvath-blood_skin_others	cg16612562	0.001293445	
+Horvath-blood_skin_others	cg19015086	0.153297682	
+Horvath-blood_skin_others	cg21205978	0.081658381	
+Horvath-blood_skin_others	cg01949403	0.059578005	
+Horvath-blood_skin_others	cg08415592	-0.147841089	
+Horvath-blood_skin_others	cg19853760	-0.061453988	
+Horvath-blood_skin_others	cg23124451	-0.037615246	
+Horvath-blood_skin_others	cg25459323	0.023730178	
+Horvath-blood_skin_others	cg27187881	-0.244556011	
+Horvath-blood_skin_others	cg00343092	-0.082073172	
+Horvath-blood_skin_others	cg00347775	0.000841664	
+Horvath-blood_skin_others	cg27131176	-0.192317101	
+Horvath-blood_skin_others	cg22982767	-0.41219696	
+Horvath-blood_skin_others	cg07016730	-0.029382863	
+Horvath-blood_skin_others	cg01892695	-0.250618874	
+Horvath-multi-tissue	cg00075967	0.12933661	
+Horvath-multi-tissue	cg00374717	0.005017857	
+Horvath-multi-tissue	cg00864867	1.59976405	
+Horvath-multi-tissue	cg00945507	0.056852418	
+Horvath-multi-tissue	cg01027739	0.102862854	
+Horvath-multi-tissue	cg01353448	0.238560451	
+Horvath-multi-tissue	cg01584473	0.088628396	
+Horvath-multi-tissue	cg01644850	0.159948713	
+Horvath-multi-tissue	cg01656216	0.042805528	
+Horvath-multi-tissue	cg01873645	-0.604056375	
+Horvath-multi-tissue	cg01968178	1.169245865	
+Horvath-multi-tissue	cg02085507	0.006127551	
+Horvath-multi-tissue	cg02154074	0.044757003	
+Horvath-multi-tissue	cg02217159	-0.086512604	
+Horvath-multi-tissue	cg02331561	0.126928853	
+Horvath-multi-tissue	cg02332492	0.062771342	
+Horvath-multi-tissue	cg02364642	-0.024270255	
+Horvath-multi-tissue	cg02388150	0.425971257	
+Horvath-multi-tissue	cg02479575	1.875446187	
+Horvath-multi-tissue	cg02489552	0.073741383	
+Horvath-multi-tissue	cg02580606	0.349274493	
+Horvath-multi-tissue	cg02654291	0.140583491	
+Horvath-multi-tissue	cg02827112	0.050646083	
+Horvath-multi-tissue	cg02972551	0.47394601	
+Horvath-multi-tissue	cg03103192	0.023536343	
+Horvath-multi-tissue	cg03167275	-0.551041258	
+Horvath-multi-tissue	cg03270204	0.013544725	
+Horvath-multi-tissue	cg03565323	-0.207653221	
+Horvath-multi-tissue	cg03588357	-0.858843002	
+Horvath-multi-tissue	cg03760483	0.014946399	
+Horvath-multi-tissue	cg04084157	1.034144196	
+Horvath-multi-tissue	cg04126866	0.079374551	
+Horvath-multi-tissue	cg04528819	0.771798107	
+Horvath-multi-tissue	cg04836038	0.440056203	
+Horvath-multi-tissue	cg05250458	0.087295559	
+Horvath-multi-tissue	cg05294243	0.11851793	
+Horvath-multi-tissue	cg05365729	0.052940133	
+Horvath-multi-tissue	cg05675373	0.346355946	
+Horvath-multi-tissue	cg05755779	0.060215102	
+Horvath-multi-tissue	cg05921699	0.018064958	
+Horvath-multi-tissue	cg05960024	0.081029885	
+Horvath-multi-tissue	cg06121469	0.027024582	
+Horvath-multi-tissue	cg06144905	0.597211279	
+Horvath-multi-tissue	cg06361108	0.43315799	
+Horvath-multi-tissue	cg06462291	0.015758987	
+Horvath-multi-tissue	cg06493994	1.858006164	
+Horvath-multi-tissue	cg06557358	-0.141331243	
+Horvath-multi-tissue	cg06738602	-0.151674548	
+Horvath-multi-tissue	cg06810647	0.374888117	
+Horvath-multi-tissue	cg06952310	0.091760658	
+Horvath-multi-tissue	cg06993413	1.503184415	
+Horvath-multi-tissue	cg07285276	0.192242573	
+Horvath-multi-tissue	cg07291563	0.041640015	
+Horvath-multi-tissue	cg07337598	0.088226928	
+Horvath-multi-tissue	cg07455279	0.005632264	
+Horvath-multi-tissue	cg07595943	0.051178068	
+Horvath-multi-tissue	cg08030082	0.012830322	
+Horvath-multi-tissue	cg08090772	-0.341458098	
+Horvath-multi-tissue	cg08124722	0.008484904	
+Horvath-multi-tissue	cg08251036	0.068634882	
+Horvath-multi-tissue	cg08370996	0.812907628	
+Horvath-multi-tissue	cg08413469	0.140510611	
+Horvath-multi-tissue	cg08434234	-0.211774018	
+Horvath-multi-tissue	cg08771731	0.103386824	
+Horvath-multi-tissue	cg08965235	-0.220130796	
+Horvath-multi-tissue	cg09019938	-0.12172174	
+Horvath-multi-tissue	cg09118625	0.307808351	
+Horvath-multi-tissue	cg09191327	-0.278393765	
+Horvath-multi-tissue	cg09418283	0.027502906	
+Horvath-multi-tissue	cg09509673	0.013745188	
+Horvath-multi-tissue	cg09785172	-0.016561072	
+Horvath-multi-tissue	cg09869858	0.066316642	
+Horvath-multi-tissue	cg09885951	0.095237498	
+Horvath-multi-tissue	cg10281002	0.468416918	
+Horvath-multi-tissue	cg10376763	-0.115358177	
+Horvath-multi-tissue	cg10377274	0.057139076	
+Horvath-multi-tissue	cg10486998	-0.389335841	
+Horvath-multi-tissue	cg10523019	0.514646778	
+Horvath-multi-tissue	cg10920957	-0.399903548	
+Horvath-multi-tissue	cg11932564	0.700001079	
+Horvath-multi-tissue	cg12351433	0.079279219	
+Horvath-multi-tissue	cg12373771	0.533301546	
+Horvath-multi-tissue	cg12768605	-0.188560769	
+Horvath-multi-tissue	cg12830694	0.339726781	
+Horvath-multi-tissue	cg12946225	0.133612754	
+Horvath-multi-tissue	cg13038560	0.261380978	
+Horvath-multi-tissue	cg13216057	-0.138857398	
+Horvath-multi-tissue	cg13319175	0.013848218	
+Horvath-multi-tissue	cg13460409	0.412023313	
+Horvath-multi-tissue	cg13682722	0.110100933	
+Horvath-multi-tissue	cg13836627	0.029983661	
+Horvath-multi-tissue	cg13854874	0.049613334	
+Horvath-multi-tissue	cg13899108	0.033651673	
+Horvath-multi-tissue	cg13975369	0.378716214	
+Horvath-multi-tissue	cg14258236	0.086897539	
+Horvath-multi-tissue	cg14308452	0.003142044	
+Horvath-multi-tissue	cg14329157	0.251930765	
+Horvath-multi-tissue	cg14424579	3.067470269	
+Horvath-multi-tissue	cg14501253	-0.066922165	
+Horvath-multi-tissue	cg14658362	-0.168603536	
+Horvath-multi-tissue	cg14723032	0.000900283	
+Horvath-multi-tissue	cg14894144	0.053377439	
+Horvath-multi-tissue	cg14992253	0.035824163	
+Horvath-multi-tissue	cg15341340	-0.468757862	
+Horvath-multi-tissue	cg15381769	-0.119627233	
+Horvath-multi-tissue	cg15547534	0.382897521	
+Horvath-multi-tissue	cg15661409	0.043744933	
+Horvath-multi-tissue	cg15974053	-0.009486551	
+Horvath-multi-tissue	cg15988232	0.036324808	
+Horvath-multi-tissue	cg16150435	0.017495382	
+Horvath-multi-tissue	cg16241714	2.551903028	
+Horvath-multi-tissue	cg16494477	-0.066439934	
+Horvath-multi-tissue	cg16547529	0.167493846	
+Horvath-multi-tissue	cg16579101	-0.096067716	
+Horvath-multi-tissue	cg17063929	-0.001985558	
+Horvath-multi-tissue	cg17099569	0.115572976	
+Horvath-multi-tissue	cg17285325	0.137315506	
+Horvath-multi-tissue	cg17408647	-0.094843228	
+Horvath-multi-tissue	cg17655614	0.156624167	
+Horvath-multi-tissue	cg17729667	0.146830197	
+Horvath-multi-tissue	cg17853587	-0.022992725	
+Horvath-multi-tissue	cg17960516	0.066620539	
+Horvath-multi-tissue	cg18055007	0.037915414	
+Horvath-multi-tissue	cg18180783	0.121873904	
+Horvath-multi-tissue	cg18440048	0.356369685	
+Horvath-multi-tissue	cg18573383	0.554265536	
+Horvath-multi-tissue	cg18983672	0.201888482	
+Horvath-multi-tissue	cg18984151	0.315009523	
+Horvath-multi-tissue	cg19008809	0.590929745	
+Horvath-multi-tissue	cg19167673	-0.47038013	
+Horvath-multi-tissue	cg19273182	-0.754588838	
+Horvath-multi-tissue	cg19305227	0.019259662	
+Horvath-multi-tissue	cg19346193	0.149635977	
+Horvath-multi-tissue	cg19478743	0.122668557	
+Horvath-multi-tissue	cg19514928	-0.005027927	
+Horvath-multi-tissue	cg19692710	0.021362462	
+Horvath-multi-tissue	cg19945840	0.62850032	
+Horvath-multi-tissue	cg20295671	-0.028008213	
+Horvath-multi-tissue	cg20305610	-0.164360384	
+Horvath-multi-tissue	cg20524216	-0.389841338	
+Horvath-multi-tissue	cg20692569	0.744776072	
+Horvath-multi-tissue	cg20761322	0.116737935	
+Horvath-multi-tissue	cg20795863	0.094275521	
+Horvath-multi-tissue	cg20828084	0.14446198	
+Horvath-multi-tissue	cg20914508	-0.003601976	
+Horvath-multi-tissue	cg20947775	-0.216873362	
+Horvath-multi-tissue	cg20999813	-0.387628988	
+Horvath-multi-tissue	cg21096399	0.119679089	
+Horvath-multi-tissue	cg21378206	0.195972049	
+Horvath-multi-tissue	cg21460081	-0.150206847	
+Horvath-multi-tissue	cg21801378	0.205911023	
+Horvath-multi-tissue	cg21870884	0.135875207	
+Horvath-multi-tissue	cg22006386	0.027954025	
+Horvath-multi-tissue	cg22289837	-0.057604916	
+Horvath-multi-tissue	cg22432269	-0.047520857	
+Horvath-multi-tissue	cg22449114	0.009556913	
+Horvath-multi-tissue	cg22679120	0.008321411	
+Horvath-multi-tissue	cg22736354	1.718507337	
+Horvath-multi-tissue	cg22809047	0.160173786	
+Horvath-multi-tissue	cg22901840	0.078584998	
+Horvath-multi-tissue	cg22920873	0.114374788	
+Horvath-multi-tissue	cg23517605	0.128377865	
+Horvath-multi-tissue	cg23662675	0.600765489	
+Horvath-multi-tissue	cg23941599	0.266499641	
+Horvath-multi-tissue	cg24116886	0.187704497	
+Horvath-multi-tissue	cg24126851	0.000792206	
+Horvath-multi-tissue	cg24254120	0.372917726	
+Horvath-multi-tissue	cg24262469	0.152852459	
+Horvath-multi-tissue	cg24450312	-0.001508834	
+Horvath-multi-tissue	cg24580001	0.339639763	
+Horvath-multi-tissue	cg24834740	-0.087006506	
+Horvath-multi-tissue	cg25070637	-0.279922439	
+Horvath-multi-tissue	cg25148589	0.179969129	
+Horvath-multi-tissue	cg25505610	1.50223047	
+Horvath-multi-tissue	cg25552492	-0.176029721	
+Horvath-multi-tissue	cg25683012	-1.392021375	
+Horvath-multi-tissue	cg25771195	0.304478062	
+Horvath-multi-tissue	cg25781123	0.019974651	
+Horvath-multi-tissue	cg26003813	-0.192765894	
+Horvath-multi-tissue	cg26005082	0.283314043	
+Horvath-multi-tissue	cg26045434	-0.296285378	
+Horvath-multi-tissue	cg26297688	0.959651842	
+Horvath-multi-tissue	cg26372517	0.126025756	
+Horvath-multi-tissue	cg26453588	0.127052431	
+Horvath-multi-tissue	cg26620959	-0.040743067	
+Horvath-multi-tissue	cg26842024	0.358161798	
+Horvath-multi-tissue	cg26845300	0.254089345	
+Horvath-multi-tissue	cg27092035	-0.055768503	
+Horvath-multi-tissue	cg27169020	0.087286864	
+Horvath-multi-tissue	cg27319898	-0.211230721	
+Horvath-multi-tissue	cg27377450	0.092440884	
+Horvath-multi-tissue	cg27413543	-0.261275244	
+Horvath-multi-tissue	cg27494383	0.064596615	
+Horvath-multi-tissue	cg00091693	-0.002008493	
+Horvath-multi-tissue	cg00168942	-0.111945219	
+Horvath-multi-tissue	cg00431549	-0.136199957	
+Horvath-multi-tissue	cg00436603	0.000265206	
+Horvath-multi-tissue	cg01027805	-0.167672796	
+Horvath-multi-tissue	cg01234063	-0.040535924	
+Horvath-multi-tissue	cg01262913	-0.033581152	
+Horvath-multi-tissue	cg01407797	-0.379166543	
+Horvath-multi-tissue	cg01459453	-0.345952077	
+Horvath-multi-tissue	cg01485645	-0.025753328	
+Horvath-multi-tissue	cg01511567	-0.686111875	
+Horvath-multi-tissue	cg01560871	-0.036910708	
+Horvath-multi-tissue	cg01570885	-0.031258306	
+Horvath-multi-tissue	cg01820374	-0.271122363	
+Horvath-multi-tissue	cg02047577	-0.658400181	
+Horvath-multi-tissue	cg02071305	-0.048429497	
+Horvath-multi-tissue	cg02275294	-0.337498333	
+Horvath-multi-tissue	cg02335441	-0.17128537	
+Horvath-multi-tissue	cg03019000	-0.459777041	
+Horvath-multi-tissue	cg03286783	-0.854784621	
+Horvath-multi-tissue	cg03330058	-0.064471129	
+Horvath-multi-tissue	cg03578041	-0.032630972	
+Horvath-multi-tissue	cg03682823	-0.112677232	
+Horvath-multi-tissue	cg03891319	-0.026893522	
+Horvath-multi-tissue	cg03947362	-0.301555266	
+Horvath-multi-tissue	cg04005032	-0.144763726	
+Horvath-multi-tissue	cg04094160	-0.201195165	
+Horvath-multi-tissue	cg04121983	0.054920672	
+Horvath-multi-tissue	cg04268405	-0.416694314	
+Horvath-multi-tissue	cg04431054	-0.05992505	
+Horvath-multi-tissue	cg04452713	-0.001478366	
+Horvath-multi-tissue	cg04474832	-0.444042106	
+Horvath-multi-tissue	cg04999691	-0.001756899	
+Horvath-multi-tissue	cg05442902	-0.578208568	
+Horvath-multi-tissue	cg05590257	-0.031153885	
+Horvath-multi-tissue	cg05847778	-0.058704445	
+Horvath-multi-tissue	cg05903609	-0.158648055	
+Horvath-multi-tissue	cg06044899	-0.142865007	
+Horvath-multi-tissue	cg06117855	-0.007113851	
+Horvath-multi-tissue	cg06513075	0.130551876	
+Horvath-multi-tissue	cg06688848	-0.016307574	
+Horvath-multi-tissue	cg06836772	-0.238015601	
+Horvath-multi-tissue	cg06926735	0.001010208	
+Horvath-multi-tissue	cg07158339	-0.626329239	
+Horvath-multi-tissue	cg07388493	-0.520727113	
+Horvath-multi-tissue	cg07408456	-0.218776385	
+Horvath-multi-tissue	cg07498421	-0.059490426	
+Horvath-multi-tissue	cg07663789	-0.074789714	
+Horvath-multi-tissue	cg07730301	-0.01177889	
+Horvath-multi-tissue	cg07770222	0.009940405	
+Horvath-multi-tissue	cg07849904	-0.116542884	
+Horvath-multi-tissue	cg08186124	-0.070505215	
+Horvath-multi-tissue	cg08331960	-0.42705014	
+Horvath-multi-tissue	cg09133026	-0.196543481	
+Horvath-multi-tissue	cg09441152	-0.683075851	
+Horvath-multi-tissue	cg09646392	-0.000417407	
+Horvath-multi-tissue	cg09722397	-0.147296004	
+Horvath-multi-tissue	cg09722555	-0.346465927	
+Horvath-multi-tissue	cg09809672	-0.391318905	
+Horvath-multi-tissue	cg10045881	-0.046803147	
+Horvath-multi-tissue	cg10266490	-0.014675	
+Horvath-multi-tissue	cg10345936	0.069971286	
+Horvath-multi-tissue	cg10865119	-0.069157921	
+Horvath-multi-tissue	cg10940099	0.093135749	
+Horvath-multi-tissue	cg11025793	-0.012053497	
+Horvath-multi-tissue	cg11299964	-0.157897406	
+Horvath-multi-tissue	cg11314684	-0.076158602	
+Horvath-multi-tissue	cg11388238	-0.35058529	
+Horvath-multi-tissue	cg11653266	-0.176347192	
+Horvath-multi-tissue	cg12413566	-0.045644385	
+Horvath-multi-tissue	cg12616277	-0.002979815	
+Horvath-multi-tissue	cg12941369	-0.131067992	
+Horvath-multi-tissue	cg12985418	-0.431303727	
+Horvath-multi-tissue	cg13129046	-0.205992326	
+Horvath-multi-tissue	cg13269407	-0.091238949	
+Horvath-multi-tissue	cg13302154	-0.003525343	
+Horvath-multi-tissue	cg13547237	-0.201508653	
+Horvath-multi-tissue	cg13828047	-0.448971744	
+Horvath-multi-tissue	cg13931228	-0.12067687	
+Horvath-multi-tissue	cg14060828	-0.303565965	
+Horvath-multi-tissue	cg14163776	-0.119511769	
+Horvath-multi-tissue	cg14175438	-0.336713957	
+Horvath-multi-tissue	cg14408969	-0.140373287	
+Horvath-multi-tissue	cg14409958	-0.050383781	
+Horvath-multi-tissue	cg14423778	-0.087120888	
+Horvath-multi-tissue	cg14597908	-0.030798249	
+Horvath-multi-tissue	cg14654875	-0.122182935	
+Horvath-multi-tissue	cg14727952	-0.136027886	
+Horvath-multi-tissue	cg15185286	-0.241642003	
+Horvath-multi-tissue	cg15262928	-0.078482669	
+Horvath-multi-tissue	cg15703512	-0.730702811	
+Horvath-multi-tissue	cg15804973	-0.108169109	
+Horvath-multi-tissue	cg16034652	0.006495541	
+Horvath-multi-tissue	cg16168311	-0.196860712	
+Horvath-multi-tissue	cg16358826	-0.012966376	
+Horvath-multi-tissue	cg16408394	-1.719195146	
+Horvath-multi-tissue	cg16419345	0.282563693	
+Horvath-multi-tissue	cg16744741	-0.3462842	
+Horvath-multi-tissue	cg16899442	-0.153803786	
+Horvath-multi-tissue	cg16984944	-5.94E-06	
+Horvath-multi-tissue	cg17274064	-0.000157189	
+Horvath-multi-tissue	cg17324128	-0.569717328	
+Horvath-multi-tissue	cg17338403	-0.645058713	
+Horvath-multi-tissue	cg17589341	-0.065957735	
+Horvath-multi-tissue	cg17686885	-0.057992142	
+Horvath-multi-tissue	cg18031008	0.264553633	
+Horvath-multi-tissue	cg18139769	-0.089986969	
+Horvath-multi-tissue	cg18328933	-0.37048069	
+Horvath-multi-tissue	cg18956095	-0.478583455	
+Horvath-multi-tissue	cg19044674	-0.055931441	
+Horvath-multi-tissue	cg19046959	-0.069773889	
+Horvath-multi-tissue	cg19420968	0.098912421	
+Horvath-multi-tissue	cg19569684	-0.286095083	
+Horvath-multi-tissue	cg19706682	-0.103539266	
+Horvath-multi-tissue	cg19722847	-0.452037396	
+Horvath-multi-tissue	cg19724470	-0.104549906	
+Horvath-multi-tissue	cg19761273	-0.88692879	
+Horvath-multi-tissue	cg19853760	-0.241884461	
+Horvath-multi-tissue	cg20100381	-0.120248941	
+Horvath-multi-tissue	cg20240860	-0.052478619	
+Horvath-multi-tissue	cg21211748	-0.166397828	
+Horvath-multi-tissue	cg21305265	-0.045368222	
+Horvath-multi-tissue	cg21370143	-0.054401836	
+Horvath-multi-tissue	cg21395782	-0.123872644	
+Horvath-multi-tissue	cg21950518	-0.002510616	
+Horvath-multi-tissue	cg22171829	-0.133887348	
+Horvath-multi-tissue	cg22190114	0.122000415	
+Horvath-multi-tissue	cg22197830	-0.214854921	
+Horvath-multi-tissue	cg22568540	0.020951084	
+Horvath-multi-tissue	cg22613010	-0.00136474	
+Horvath-multi-tissue	cg22637507	-0.161364515	
+Horvath-multi-tissue	cg22947000	-0.385598354	
+Horvath-multi-tissue	cg23092072	0.999917662	
+Horvath-multi-tissue	cg23124451	-0.118914538	
+Horvath-multi-tissue	cg23180365	-0.17318824	
+Horvath-multi-tissue	cg23786576	-0.359681997	
+Horvath-multi-tissue	cg24058132	-0.243414212	
+Horvath-multi-tissue	cg24081819	-0.00950238	
+Horvath-multi-tissue	cg24471894	-0.057512039	
+Horvath-multi-tissue	cg24888049	-0.129936396	
+Horvath-multi-tissue	cg24899750	-0.307424926	
+Horvath-multi-tissue	cg25101936	-0.057744615	
+Horvath-multi-tissue	cg25159610	0.224446911	
+Horvath-multi-tissue	cg25166896	-0.002315093	
+Horvath-multi-tissue	cg25411725	-0.028135965	
+Horvath-multi-tissue	cg25564800	-0.004461622	
+Horvath-multi-tissue	cg25657834	-0.120291759	
+Horvath-multi-tissue	cg25809905	-0.216624999	
+Horvath-multi-tissue	cg25928579	-0.030298685	
+Horvath-multi-tissue	cg26043391	-0.361822974	
+Horvath-multi-tissue	cg26162695	-0.043863368	
+Horvath-multi-tissue	cg26394940	-0.166268862	
+Horvath-multi-tissue	cg26456957	-0.159361013	
+Horvath-multi-tissue	cg26614073	-0.506521375	
+Horvath-multi-tissue	cg26723847	-0.144822054	
+Horvath-multi-tissue	cg26824091	0.549029142	
+Horvath-multi-tissue	cg27015931	-0.466528425	
+Horvath-multi-tissue	cg27016307	-0.035326263	
+Horvath-multi-tissue	cg27202708	-0.138635766	
+Horvath-multi-tissue	cg27544190	-0.869124446	
+PedBE	cg00059225	0.02	
+PedBE	cg00085493	-0.1	
+PedBE	cg00095976	0.01	
+PedBE	cg00609333*	0.02	
+PedBE	cg01287592	-0.06	
+PedBE	cg01704999	-0.1	
+PedBE	cg02209075*	0.14	
+PedBE	cg02310103	-0.08	
+PedBE	cg02426178*	-0.36	
+PedBE	cg02821342*	-0.13	
+PedBE	cg02980055*	-0.14	
+PedBE	cg03020208*	0.21	
+PedBE	cg03466124	-0.02	
+PedBE	cg03473016*	0	
+PedBE	cg03493146*	-0.16	
+PedBE	cg03555227*	0.64	
+PedBE	cg04221461*	0.03	
+PedBE	cg04452203	-0.03	
+PedBE	cg04937184	-0.05	
+PedBE	cg04948475	0	
+PedBE	cg05024939*	0.15	
+PedBE	cg05271255*	-0.12	
+PedBE	cg05923197	0.04	
+PedBE	cg05928290*	0.16	
+PedBE	cg06048436*	-0.15	
+PedBE	cg06144905*	0.32	
+PedBE	cg06198384	0	
+PedBE	cg06416491*	-0.19	
+PedBE	cg06430061	-0.02	
+PedBE	cg06455149*	0.09	
+PedBE	cg06712013*	-0.05	
+PedBE	cg07066898*	0.07	
+PedBE	cg07638500*	-0.03	
+PedBE	cg07809484*	0.07	
+PedBE	cg08207604*	-0.11	
+PedBE	cg08448547	0.06	
+PedBE	cg09367901*	0.04	
+PedBE	cg09678615*	-0.08	
+PedBE	cg10308629*	-0.09	
+PedBE	cg11071401*	0.23	
+PedBE	cg11084334*	0.03	
+PedBE	cg11092416*	-0.09	
+PedBE	cg11117945*	-0.01	
+PedBE	cg11298786	-0.1	
+PedBE	cg11529819*	-0.09	
+PedBE	cg11705975*	0.18	
+PedBE	cg11804928*	-0.25	
+PedBE	cg12483947*	-0.01	
+PedBE	cg13462622	0.04	
+PedBE	cg13739066	0.05	
+PedBE	cg13783238	0	
+PedBE	cg13848598*	0.05	
+PedBE	cg14676592*	0.14	
+PedBE	cg15774391	-0.14	
+PedBE	cg16181396*	0.09	
+PedBE	cg16243756	0.07	
+PedBE	cg16314254	0.12	
+PedBE	cg16374999*	0.02	
+PedBE	cg16514113*	0.32	
+PedBE	cg16618789*	0.15	
+PedBE	cg16703882	0.1	
+PedBE	cg16852756*	-0.05	
+PedBE	cg16867657*	0.47	
+PedBE	cg17882660	0.04	
+PedBE	cg18244483*	0.22	
+PedBE	cg18826352	0.09	
+PedBE	cg19203457*	0.09	
+PedBE	cg19381811*	-0.08	
+PedBE	cg19662687*	-0.03	
+PedBE	cg20283670*	-0.14	
+PedBE	cg20397034*	-0.68	
+PedBE	cg20704560*	-0.03	
+PedBE	cg20755989*	0.19	
+PedBE	cg20847090	0.01	
+PedBE	cg20897936*	0.19	
+PedBE	cg21515406*	0.01	
+PedBE	cg21572722*	0.65	
+PedBE	cg22281505	-0.04	
+PedBE	cg23500537*	0.08	
+PedBE	cg23586440	0.01	
+PedBE	cg23731991*	-0.07	
+PedBE	cg24374161*	-0.11	
+PedBE	cg24441922*	-0.15	
+PedBE	cg24739596	0	
+PedBE	cg24881205	0.04	
+PedBE	cg24996883*	-0.24	
+PedBE	cg25062539*	-0.35	
+PedBE	cg25936902*	-0.05	
+PedBE	cg26535072*	-0.15	
+PedBE	cg26650655	-0.06	
+PedBE	cg26718511	0.18	
+PedBE	cg27061971*	0.14	
+PedBE	cg27396655	-0.33	
+PedBE	cg27437510*	0.11	
+PhenoAge-blood	cg15611364	63.12415047	
+PhenoAge-blood	cg17605084	-44.00939313	
+PhenoAge-blood	cg26382071	40.42085373	
+PhenoAge-blood	cg12743894	36.7881845	
+PhenoAge-blood	cg19287114	-36.49384395	
+PhenoAge-blood	cg12985418	-35.90008808	
+PhenoAge-blood	cg19398783	35.83308293	
+PhenoAge-blood	cg15963417	-34.69842764	
+PhenoAge-blood	cg27187881	-33.54555855	
+PhenoAge-blood	cg09892203	-33.4823461	
+PhenoAge-blood	cg00943950	33.47697933	
+PhenoAge-blood	cg18996776	33.05057141	
+PhenoAge-blood	cg16340918	32.14665692	
+PhenoAge-blood	cg23832061	-31.90246973	
+PhenoAge-blood	cg22736354	31.84219355	
+PhenoAge-blood	cg04084157	31.62165709	
+PhenoAge-blood	cg07265300	28.3980076	
+PhenoAge-blood	cg02503970	25.58514041	
+PhenoAge-blood	cg11426590	-24.78579343	
+PhenoAge-blood	cg23710218	24.15870289	
+PhenoAge-blood	cg02802055	-24.11715679	
+PhenoAge-blood	cg13631913	23.83805501	
+PhenoAge-blood	cg06493994	23.37207957	
+PhenoAge-blood	cg24304712	23.3003573	
+PhenoAge-blood	cg01131735	-22.91466682	
+PhenoAge-blood	cg24208206	22.54068526	
+PhenoAge-blood	cg01930621	-21.78792705	
+PhenoAge-blood	cg19104072	-21.59866911	
+PhenoAge-blood	cg07850604	21.31021579	
+PhenoAge-blood	cg27493997	-21.2007229	
+PhenoAge-blood	cg14281160	21.11147672	
+PhenoAge-blood	cg12247247	-20.75342001	
+PhenoAge-blood	cg08331960	-20.70742942	
+PhenoAge-blood	cg17726022	20.18800473	
+PhenoAge-blood	cg19722847	-20.14577056	
+PhenoAge-blood	cg21801378	19.61967861	
+PhenoAge-blood	cg03977782	19.45230678	
+PhenoAge-blood	cg03929796	-19.41008226	
+PhenoAge-blood	cg01254459	19.18438139	
+PhenoAge-blood	cg09548179	-19.0323049	
+PhenoAge-blood	cg09556292	-18.61940178	
+PhenoAge-blood	cg17896249	18.0100431	
+PhenoAge-blood	cg26091688	-17.94903039	
+PhenoAge-blood	cg17009433	17.3157834	
+PhenoAge-blood	cg06690548	-17.31209095	
+PhenoAge-blood	cg26815229	-17.14738745	
+PhenoAge-blood	cg15447479	17.06265852	
+PhenoAge-blood	cg27015931	-16.80473407	
+PhenoAge-blood	cg13550877	-16.79028681	
+PhenoAge-blood	cg05492270	-16.73113119	
+PhenoAge-blood	cg22594309	16.6352922	
+PhenoAge-blood	cg08896629	-16.3038063	
+PhenoAge-blood	cg11237115	-16.243299	
+PhenoAge-blood	cg04736140	-16.11768623	
+PhenoAge-blood	cg06533629	16.05623965	
+PhenoAge-blood	cg25881193	-15.99899499	
+PhenoAge-blood	cg03535648	-15.95141109	
+PhenoAge-blood	cg27367952	-15.82375956	
+PhenoAge-blood	cg11600161	-15.57182248	
+PhenoAge-blood	cg19345165	-15.25553584	
+PhenoAge-blood	cg15881088	-15.21848681	
+PhenoAge-blood	cg21296230	15.06457901	
+PhenoAge-blood	cg14175438	-14.9517935	
+PhenoAge-blood	cg13409216	-14.48609953	
+PhenoAge-blood	cg04424621	-14.44777739	
+PhenoAge-blood	cg01137065	14.37377079	
+PhenoAge-blood	cg13656360	14.36406636	
+PhenoAge-blood	cg05316065	-14.22870517	
+PhenoAge-blood	cg13509147	14.22126208	
+PhenoAge-blood	cg13449372	-14.12054745	
+PhenoAge-blood	cg10654016	13.83949625	
+PhenoAge-blood	cg18693704	-13.80959079	
+PhenoAge-blood	cg13218906	-13.68132768	
+PhenoAge-blood	cg25428451	-13.6572112	
+PhenoAge-blood	cg00462994	13.58737822	
+PhenoAge-blood	cg03340261	13.57369508	
+PhenoAge-blood	cg00261781	13.39937728	
+PhenoAge-blood	cg13514050	-13.34104874	
+PhenoAge-blood	cg20066677	13.32700255	
+PhenoAge-blood	cg18267374	13.32614877	
+PhenoAge-blood	cg24407308	-12.95513488	
+PhenoAge-blood	cg10636246	-12.95489	
+PhenoAge-blood	cg15569512	-12.95093372	
+PhenoAge-blood	cg07817698	12.90897644	
+PhenoAge-blood	cg16854606	12.74522356	
+PhenoAge-blood	cg12265604	12.6784476	
+PhenoAge-blood	cg14689355	-12.59980654	
+PhenoAge-blood	cg01651821	12.43450304	
+PhenoAge-blood	cg14159818	-12.18111487	
+PhenoAge-blood	cg20162159	-12.17957599	
+PhenoAge-blood	cg00230271	-12.15471329	
+PhenoAge-blood	cg19008809	12.12001927	
+PhenoAge-blood	cg09809672	-12.09921682	
+PhenoAge-blood	cg13994175	12.07884157	
+PhenoAge-blood	cg03172991	-11.96946328	
+PhenoAge-blood	cg00194146	-11.88629118	
+PhenoAge-blood	cg10225525	11.81083061	
+PhenoAge-blood	cg08487374	11.67344393	
+PhenoAge-blood	cg01450842	-11.65425604	
+PhenoAge-blood	cg18117393	11.53232389	
+PhenoAge-blood	cg08067365	-11.51984975	
+PhenoAge-blood	cg17038116	-11.16561286	
+PhenoAge-blood	cg26665419	-11.15430006	
+PhenoAge-blood	cg20173259	11.11358119	
+PhenoAge-blood	cg08899632	11.08380298	
+PhenoAge-blood	cg04528819	11.07259285	
+PhenoAge-blood	cg11177450	-10.94667271	
+PhenoAge-blood	cg06908778	10.86511161	
+PhenoAge-blood	cg25092328	10.80113727	
+PhenoAge-blood	cg10922280	10.79008118	
+PhenoAge-blood	cg04836038	10.65458827	
+PhenoAge-blood	cg02229946	10.5122237	
+PhenoAge-blood	cg12269343	10.4580988	
+PhenoAge-blood	cg05294243	10.43369407	
+PhenoAge-blood	cg01211097	-10.27522152	
+PhenoAge-blood	cg08529529	-10.22704896	
+PhenoAge-blood	cg10158181	-10.1880066	
+PhenoAge-blood	cg26357744	-10.00204065	
+PhenoAge-blood	cg27655905	9.950424372	
+PhenoAge-blood	cg06189653	-9.928634297	
+PhenoAge-blood	cg17641104	-9.926053105	
+PhenoAge-blood	cg22495124	9.772363822	
+PhenoAge-blood	cg17129388	9.679594816	
+PhenoAge-blood	cg19556572	9.567877534	
+PhenoAge-blood	cg25136687	-9.522144355	
+PhenoAge-blood	cg15344028	-9.504209291	
+PhenoAge-blood	cg05270634	9.458683059	
+PhenoAge-blood	cg26866325	9.372871086	
+PhenoAge-blood	cg25256723	-9.36844987	
+PhenoAge-blood	cg03112869	9.309963576	
+PhenoAge-blood	cg07929310	-9.267771972	
+PhenoAge-blood	cg16085042	-9.058118831	
+PhenoAge-blood	cg05759269	-9.047212407	
+PhenoAge-blood	cg14754581	8.9044998	
+PhenoAge-blood	cg01221637	-8.838557811	
+PhenoAge-blood	cg12261786	-8.80006302	
+PhenoAge-blood	cg17133388	-8.786659598	
+PhenoAge-blood	cg13120519	-8.761639169	
+PhenoAge-blood	cg01441777	-8.741688217	
+PhenoAge-blood	cg11233384	-8.702162118	
+PhenoAge-blood	cg22971191	8.613889336	
+PhenoAge-blood	cg00845900	-8.58936172	
+PhenoAge-blood	cg04007936	-8.441092863	
+PhenoAge-blood	cg26212924	-8.269454924	
+PhenoAge-blood	cg13042288	-8.160794723	
+PhenoAge-blood	cg14473016	-8.146118724	
+PhenoAge-blood	cg02976574	8.057451538	
+PhenoAge-blood	cg05851163	-8.056495421	
+PhenoAge-blood	cg17526300	8.038276564	
+PhenoAge-blood	cg16173067	8.01275733	
+PhenoAge-blood	cg15811427	-8.009320965	
+PhenoAge-blood	cg14916213	7.981658933	
+PhenoAge-blood	cg04014889	-7.924579894	
+PhenoAge-blood	cg22947000	-7.872570922	
+PhenoAge-blood	cg25769980	-7.808838536	
+PhenoAge-blood	cg02228185	-7.785341156	
+PhenoAge-blood	cg03565081	7.763007186	
+PhenoAge-blood	cg15966757	-7.746394111	
+PhenoAge-blood	cg09480837	-7.741831686	
+PhenoAge-blood	cg13564075	-7.65214571	
+PhenoAge-blood	cg03991512	-7.60434303	
+PhenoAge-blood	cg20761322	7.473261917	
+PhenoAge-blood	cg23376526	-7.470945638	
+PhenoAge-blood	cg02631957	-7.435453213	
+PhenoAge-blood	cg16933388	7.416346316	
+PhenoAge-blood	cg21099326	-7.319261619	
+PhenoAge-blood	cg26096837	7.269147318	
+PhenoAge-blood	cg26394737	7.25927706	
+PhenoAge-blood	cg01519742	7.247589771	
+PhenoAge-blood	cg02016419	7.246984432	
+PhenoAge-blood	cg07654934	-7.183441358	
+PhenoAge-blood	cg24125648	7.120190402	
+PhenoAge-blood	cg14747225	7.024834167	
+PhenoAge-blood	cg18003795	-6.99391822	
+PhenoAge-blood	cg05087948	-6.991225132	
+PhenoAge-blood	cg02151301	-6.962548699	
+PhenoAge-blood	cg05532892	6.729463914	
+PhenoAge-blood	cg08035942	-6.589880588	
+PhenoAge-blood	cg07484827	6.581498688	
+PhenoAge-blood	cg17749443	6.468578944	
+PhenoAge-blood	cg11631518	6.461478745	
+PhenoAge-blood	cg22396353	6.4288385	
+PhenoAge-blood	cg14223995	-6.409663736	
+PhenoAge-blood	cg22582569	6.352315	
+PhenoAge-blood	cg08169325	-6.322778588	
+PhenoAge-blood	cg22512531	6.279600362	
+PhenoAge-blood	cg21207418	6.268763011	
+PhenoAge-blood	cg02154074	6.199036211	
+PhenoAge-blood	cg17940013	-6.195165774	
+PhenoAge-blood	cg16648841	6.097618377	
+PhenoAge-blood	cg03724882	6.080591714	
+PhenoAge-blood	cg16313343	6.023874287	
+PhenoAge-blood	cg21137706	-5.983252062	
+PhenoAge-blood	cg10523019	5.941622921	
+PhenoAge-blood	cg25459323	-5.900533275	
+PhenoAge-blood	cg20967028	5.85130181	
+PhenoAge-blood	cg23124451	-5.804862482	
+PhenoAge-blood	cg07494518	-5.794138096	
+PhenoAge-blood	cg26104204	-5.768101285	
+PhenoAge-blood	cg12238343	5.749756441	
+PhenoAge-blood	cg06327515	5.716566436	
+PhenoAge-blood	cg22991148	-5.681543236	
+PhenoAge-blood	cg10052840	-5.67467637	
+PhenoAge-blood	cg06134964	5.64268843	
+PhenoAge-blood	cg01626227	-5.640661125	
+PhenoAge-blood	cg02309431	-5.609942057	
+PhenoAge-blood	cg22511262	5.567558371	
+PhenoAge-blood	cg11903057	5.525340985	
+PhenoAge-blood	cg04718414	-5.452605586	
+PhenoAge-blood	cg26201213	5.446299477	
+PhenoAge-blood	cg24674703	5.41797411	
+PhenoAge-blood	cg25229964	5.410729068	
+PhenoAge-blood	cg10878896	5.340752668	
+PhenoAge-blood	cg04416752	-5.338257391	
+PhenoAge-blood	cg21120249	-5.286945909	
+PhenoAge-blood	cg19586576	5.285877086	
+PhenoAge-blood	cg15551881	5.216122264	
+PhenoAge-blood	cg11833861	-5.210109944	
+PhenoAge-blood	cg13700897	-5.203206279	
+PhenoAge-blood	cg05473871	-5.15604937	
+PhenoAge-blood	cg11487705	-5.062657046	
+PhenoAge-blood	cg16354207	-4.990591369	
+PhenoAge-blood	cg24921089	-4.986411499	
+PhenoAge-blood	cg04169469	4.926923884	
+PhenoAge-blood	cg20090497	4.874022045	
+PhenoAge-blood	cg20550118	-4.852301857	
+PhenoAge-blood	cg04601137	-4.847499211	
+PhenoAge-blood	cg17536848	-4.833656874	
+PhenoAge-blood	cg22282672	4.813692319	
+PhenoAge-blood	cg14423778	-4.795612884	
+PhenoAge-blood	cg07236943	4.684481441	
+PhenoAge-blood	cg03387497	4.630001389	
+PhenoAge-blood	cg05125838	-4.602562372	
+PhenoAge-blood	cg02735486	4.59476785	
+PhenoAge-blood	cg26824091	4.586931755	
+PhenoAge-blood	cg18691434	4.543967955	
+PhenoAge-blood	cg05228408	-4.49429672	
+PhenoAge-blood	cg19615059	4.492646466	
+PhenoAge-blood	cg13296371	4.457073326	
+PhenoAge-blood	cg16718891	-4.410288204	
+PhenoAge-blood	cg27514224	-4.390952425	
+PhenoAge-blood	cg00410898	-4.303054603	
+PhenoAge-blood	cg16543027	-4.284958486	
+PhenoAge-blood	cg14350002	-4.233812041	
+PhenoAge-blood	cg22407458	4.232471361	
+PhenoAge-blood	cg04480914	-4.215631426	
+PhenoAge-blood	cg11459714	-4.21297823	
+PhenoAge-blood	cg24493940	-4.202135081	
+PhenoAge-blood	cg03819692	4.145197074	
+PhenoAge-blood	cg08668790	4.112113212	
+PhenoAge-blood	cg07180649	-4.105965549	
+PhenoAge-blood	cg00515905	-4.103268356	
+PhenoAge-blood	cg22473095	4.044042377	
+PhenoAge-blood	cg17324128	-4.043943288	
+PhenoAge-blood	cg00113951	4.02670329	
+PhenoAge-blood	cg16408970	4.024035102	
+PhenoAge-blood	cg00412805	4.016808807	
+PhenoAge-blood	cg01400401	4.009589827	
+PhenoAge-blood	cg26581729	-3.998837847	
+PhenoAge-blood	cg12473775	-3.994735863	
+PhenoAge-blood	cg26109803	-3.984563973	
+PhenoAge-blood	cg05442902	-3.966098185	
+PhenoAge-blood	cg13351161	-3.960753228	
+PhenoAge-blood	cg21200703	3.959178135	
+PhenoAge-blood	cg23191950	3.958521328	
+PhenoAge-blood	cg05089968	-3.91160807	
+PhenoAge-blood	cg02071305	-3.886409522	
+PhenoAge-blood	cg26746469	3.866139002	
+PhenoAge-blood	cg17770886	3.827665372	
+PhenoAge-blood	cg04755031	3.817194129	
+PhenoAge-blood	cg01623187	-3.806275602	
+PhenoAge-blood	cg09322949	3.784159584	
+PhenoAge-blood	cg19514469	3.775144564	
+PhenoAge-blood	cg00687674	3.757669266	
+PhenoAge-blood	cg08475827	3.702746231	
+PhenoAge-blood	cg14918082	3.608249401	
+PhenoAge-blood	cg23818978	3.603684682	
+PhenoAge-blood	cg13975369	3.583069518	
+PhenoAge-blood	cg16295988	3.558270741	
+PhenoAge-blood	cg13323474	3.552242836	
+PhenoAge-blood	cg09304040	3.548407354	
+PhenoAge-blood	cg22580353	3.485338581	
+PhenoAge-blood	cg15903282	-3.473480174	
+PhenoAge-blood	cg13718960	3.468680041	
+PhenoAge-blood	cg00955230	3.41792265	
+PhenoAge-blood	cg06144905	3.413484589	
+PhenoAge-blood	cg09413557	-3.403045935	
+PhenoAge-blood	cg15856055	3.375380941	
+PhenoAge-blood	cg19685066	3.331314764	
+PhenoAge-blood	cg03258472	-3.301812331	
+PhenoAge-blood	cg16743289	3.265740439	
+PhenoAge-blood	cg26932976	-3.259148427	
+PhenoAge-blood	cg19883905	-3.218932622	
+PhenoAge-blood	cg16713727	3.187970744	
+PhenoAge-blood	cg21835643	3.158955159	
+PhenoAge-blood	cg23668631	-3.15460847	
+PhenoAge-blood	cg21006686	3.152813941	
+PhenoAge-blood	cg05441133	3.103760739	
+PhenoAge-blood	cg08587542	-3.06398296	
+PhenoAge-blood	cg20572838	3.062671547	
+PhenoAge-blood	cg21081971	-2.970173829	
+PhenoAge-blood	cg20492933	2.947623086	
+PhenoAge-blood	cg19731122	2.914336066	
+PhenoAge-blood	cg09851465	2.879940739	
+PhenoAge-blood	cg24505341	2.841188478	
+PhenoAge-blood	cg25536676	-2.837642113	
+PhenoAge-blood	cg19663795	-2.827607692	
+PhenoAge-blood	cg10917602	-2.815298757	
+PhenoAge-blood	cg23234999	2.789697779	
+PhenoAge-blood	cg06958034	2.788051118	
+PhenoAge-blood	cg19439331	2.757897465	
+PhenoAge-blood	cg14550518	-2.732393181	
+PhenoAge-blood	cg13854874	2.705537905	
+PhenoAge-blood	cg08586737	2.696221083	
+PhenoAge-blood	cg13307384	2.583560626	
+PhenoAge-blood	cg23152772	2.580749951	
+PhenoAge-blood	cg19560210	2.560159507	
+PhenoAge-blood	cg26711820	2.558421247	
+PhenoAge-blood	cg08900043	2.536833226	
+PhenoAge-blood	cg15013019	-2.533299173	
+PhenoAge-blood	cg21907579	2.497611714	
+PhenoAge-blood	cg13656062	2.484283954	
+PhenoAge-blood	cg08694544	2.481527201	
+PhenoAge-blood	cg06638451	2.479689072	
+PhenoAge-blood	cg07211259	-2.423609122	
+PhenoAge-blood	cg19297232	-2.403650899	
+PhenoAge-blood	cg04087608	2.383062953	
+PhenoAge-blood	cg20652640	-2.37602848	
+PhenoAge-blood	cg19378133	2.374343432	
+PhenoAge-blood	cg10570177	2.358758156	
+PhenoAge-blood	cg01252496	2.348957061	
+PhenoAge-blood	cg12177001	2.336851094	
+PhenoAge-blood	cg20891917	2.296781942	
+PhenoAge-blood	cg26022315	-2.270877875	
+PhenoAge-blood	cg06994793	2.264576345	
+PhenoAge-blood	cg15427448	2.261768982	
+PhenoAge-blood	cg25713185	2.25600198	
+PhenoAge-blood	cg25251635	2.248622897	
+PhenoAge-blood	cg26898166	-2.24450608	
+PhenoAge-blood	cg19028160	-2.242872325	
+PhenoAge-blood	cg12145907	2.227238015	
+PhenoAge-blood	cg07073964	-2.216579511	
+PhenoAge-blood	cg03007010	-2.202237705	
+PhenoAge-blood	cg20828084	2.193830696	
+PhenoAge-blood	cg21926612	-2.151586582	
+PhenoAge-blood	cg13571802	-2.123161461	
+PhenoAge-blood	cg21762589	2.116884479	
+PhenoAge-blood	cg16612562	2.080897193	
+PhenoAge-blood	cg00350702	2.072016695	
+PhenoAge-blood	cg19686152	-2.066714676	
+PhenoAge-blood	cg03703325	2.057604969	
+PhenoAge-blood	cg26614073	-2.026512819	
+PhenoAge-blood	cg18881501	-2.022128432	
+PhenoAge-blood	cg15171237	-1.981506525	
+PhenoAge-blood	cg08654655	1.973711223	
+PhenoAge-blood	cg11490446	1.961425559	
+PhenoAge-blood	cg03623878	1.943750756	
+PhenoAge-blood	cg13258700	1.935417196	
+PhenoAge-blood	cg00297600	1.908695219	
+PhenoAge-blood	cg08074477	1.902730524	
+PhenoAge-blood	cg06637774	1.89342443	
+PhenoAge-blood	cg19632206	1.89091587	
+PhenoAge-blood	cg16357381	-1.880522626	
+PhenoAge-blood	cg19149785	-1.875110597	
+PhenoAge-blood	cg00335286	1.855444605	
+PhenoAge-blood	cg00412772	1.844120976	
+PhenoAge-blood	cg20234170	1.829049562	
+PhenoAge-blood	cg07038400	1.7787351	
+PhenoAge-blood	cg21712685	-1.765357537	
+PhenoAge-blood	cg15498283	1.743616315	
+PhenoAge-blood	cg23127998	1.686038152	
+PhenoAge-blood	cg00582628	-1.678163605	
+PhenoAge-blood	cg18001427	-1.649720496	
+PhenoAge-blood	cg10669058	-1.649159645	
+PhenoAge-blood	cg19573166	-1.645326874	
+PhenoAge-blood	cg01946401	-1.552392375	
+PhenoAge-blood	cg08872493	1.548231761	
+PhenoAge-blood	cg22484793	1.547278123	
+PhenoAge-blood	cg05440289	1.547194374	
+PhenoAge-blood	cg12188560	-1.546553159	
+PhenoAge-blood	cg02480835	1.531112896	
+PhenoAge-blood	cg19356189	-1.528350646	
+PhenoAge-blood	cg12402251	1.509543012	
+PhenoAge-blood	cg22179082	-1.509071514	
+PhenoAge-blood	cg15201877	1.467052004	
+PhenoAge-blood	cg27626102	-1.465742937	
+PhenoAge-blood	cg21649520	-1.462031413	
+PhenoAge-blood	cg23213217	1.448091683	
+PhenoAge-blood	cg00744433	-1.411402743	
+PhenoAge-blood	cg24556026	1.410756917	
+PhenoAge-blood	cg19724470	-1.399107852	
+PhenoAge-blood	cg22809047	1.377506045	
+PhenoAge-blood	cg11896923	-1.375881082	
+PhenoAge-blood	cg00168942	-1.375221101	
+PhenoAge-blood	cg16984944	-1.359979716	
+PhenoAge-blood	cg02197293	1.326475211	
+PhenoAge-blood	cg19566405	1.286269453	
+PhenoAge-blood	cg10591174	-1.280172495	
+PhenoAge-blood	cg23338195	1.264378979	
+PhenoAge-blood	cg26350286	-1.261236982	
+PhenoAge-blood	cg06295856	1.251326977	
+PhenoAge-blood	cg01335367	1.211111994	
+PhenoAge-blood	cg05898102	1.202033611	
+PhenoAge-blood	cg18392482	-1.196389134	
+PhenoAge-blood	cg26312920	-1.182810193	
+PhenoAge-blood	cg12813792	1.182049823	
+PhenoAge-blood	cg08424423	-1.156840533	
+PhenoAge-blood	cg13510262	1.146725133	
+PhenoAge-blood	cg21363706	1.140495095	
+PhenoAge-blood	cg09254939	-1.115123986	
+PhenoAge-blood	cg13899108	1.112549015	
+PhenoAge-blood	cg21184495	-1.102666731	
+PhenoAge-blood	cg17627559	1.069116234	
+PhenoAge-blood	cg01261503	1.047474154	
+PhenoAge-blood	cg26219051	1.046570867	
+PhenoAge-blood	cg14009688	1.041709284	
+PhenoAge-blood	cg21993406	1.01756345	
+PhenoAge-blood	cg24110063	-1.01239731	
+PhenoAge-blood	cg10900550	-0.993401947	
+PhenoAge-blood	cg05422352	0.965636264	
+PhenoAge-blood	cg18384097	-0.960409715	
+PhenoAge-blood	cg01511567	-0.955659544	
+PhenoAge-blood	cg15489301	-0.925473409	
+PhenoAge-blood	cg26394940	-0.852196304	
+PhenoAge-blood	cg18241647	0.833493573	
+PhenoAge-blood	cg17966192	-0.814304713	
+PhenoAge-blood	cg18732541	0.797614179	
+PhenoAge-blood	cg20570279	-0.790590456	
+PhenoAge-blood	cg23239039	0.774552515	
+PhenoAge-blood	cg13654195	-0.764669972	
+PhenoAge-blood	cg17431739	-0.762536285	
+PhenoAge-blood	cg16816226	-0.761063169	
+PhenoAge-blood	cg08251399	0.755043977	
+PhenoAge-blood	cg09799873	-0.750651448	
+PhenoAge-blood	cg15887846	-0.742899932	
+PhenoAge-blood	cg22194129	0.727265735	
+PhenoAge-blood	cg25898500	-0.725019577	
+PhenoAge-blood	cg16372520	0.71058822	
+PhenoAge-blood	cg09096950	0.684630536	
+PhenoAge-blood	cg12864235	0.655304718	
+PhenoAge-blood	cg18809289	0.653578992	
+PhenoAge-blood	cg24651706	0.653433186	
+PhenoAge-blood	cg21201109	0.648066076	
+PhenoAge-blood	cg23568913	-0.644984918	
+PhenoAge-blood	cg23159337	-0.632208093	
+PhenoAge-blood	cg10795646	-0.630165	
+PhenoAge-blood	cg24332433	0.617734017	
+PhenoAge-blood	cg13861644	0.588384291	
+PhenoAge-blood	cg06171242	0.573872643	
+PhenoAge-blood	cg00338702	0.534125992	
+PhenoAge-blood	cg04818845	0.530063706	
+PhenoAge-blood	cg18468844	-0.514411149	
+PhenoAge-blood	cg06975499	-0.508782249	
+PhenoAge-blood	cg01128603	-0.499180939	
+PhenoAge-blood	cg13119609	-0.497800027	
+PhenoAge-blood	cg10667970	-0.494137066	
+PhenoAge-blood	cg09404633	-0.481760063	
+PhenoAge-blood	cg01918706	0.481129756	
+PhenoAge-blood	cg11618577	0.45590634	
+PhenoAge-blood	cg22983092	0.434401518	
+PhenoAge-blood	cg18771300	-0.430534396	
+PhenoAge-blood	cg10202457	-0.41970649	
+PhenoAge-blood	cg19371795	0.402226134	
+PhenoAge-blood	cg12991365	-0.399519083	
+PhenoAge-blood	cg22090592	-0.38718029	
+PhenoAge-blood	cg14972143	0.385312405	
+PhenoAge-blood	cg01056568	-0.326099256	
+PhenoAge-blood	cg24505122	0.307545432	
+PhenoAge-blood	cg12324144	0.299599643	
+PhenoAge-blood	cg05697249	-0.297182577	
+PhenoAge-blood	cg01459453	-0.294798529	
+PhenoAge-blood	cg16728114	0.275798966	
+PhenoAge-blood	cg09196959	0.260322504	
+PhenoAge-blood	cg04359302	0.255790471	
+PhenoAge-blood	cg00862290	-0.233766711	
+PhenoAge-blood	cg01114088	-0.226611181	
+PhenoAge-blood	cg13613532	0.21020524	
+PhenoAge-blood	cg12289045	0.205379773	
+PhenoAge-blood	cg16466334	0.166685207	
+PhenoAge-blood	cg09630437	0.165360604	
+PhenoAge-blood	cg04333463	0.164994457	
+PhenoAge-blood	cg05501584	-0.164581823	
+PhenoAge-blood	cg09294589	-0.157799598	
+PhenoAge-blood	cg16319578	0.155277938	
+PhenoAge-blood	cg13460409	0.148824189	
+PhenoAge-blood	cg18587364	-0.137734976	
+PhenoAge-blood	cg14105047	0.137366272	
+PhenoAge-blood	cg00079056	0.122818203	
+PhenoAge-blood	cg20674577	-0.120528788	
+PhenoAge-blood	cg22197830	-0.117965431	
+PhenoAge-blood	cg09045681	0.11706097	
+PhenoAge-blood	cg14467840	0.11617835	
+PhenoAge-blood	cg13587552	-0.096960459	
+PhenoAge-blood	cg25022327	-0.085880587	
+PhenoAge-blood	cg04616566	0.068531735	
+PhenoAge-blood	cg26842024	0.063834719	
+PhenoAge-blood	cg17903544	0.058590013	
+PhenoAge-blood	cg21053529	-0.052460218	
+PhenoAge-blood	cg06363129	-0.047794699	
+PhenoAge-blood	cg23173910	-0.047747114	
+PhenoAge-blood	cg09434995	0.04407787	
+PhenoAge-blood	cg13843773	0.043585555	
+PhenoAge-blood	cg27440834	0.033980159	
+PhenoAge-blood	cg15642326	0.032502686	
+PhenoAge-blood	cg27244482	-0.031981428	
+PhenoAge-blood	cg00083937	0.030577331	
+PhenoAge-blood	cg22395019	0.027494572	
+PhenoAge-blood	cg17923358	0.024808297	
+PhenoAge-blood	cg17861230	0.023738294	
+PhenoAge-blood	cg08212685	0.012944061	
+PhenoAge-blood	cg12373771	0.01052681	
+PhenoAge-blood	cg00503840	0.002679625	
+PhenoAge-blood	cg15381313	0.002078841	
+Chunxiao	cg00223245	-0.873	
+Chunxiao	cg00303541	3.8646	
+Chunxiao	cg00329615	-1.776	
+Chunxiao	cg00443981	0.0915	
+Chunxiao	cg00497086	10.004	
+Chunxiao	cg00577449	0.8022	
+Chunxiao	cg00589520	-0.4777	
+Chunxiao	cg01119503	-0.8711	
+Chunxiao	cg01231611	-9.7149	
+Chunxiao	cg01318665	-0.3878	
+Chunxiao	cg01949324	-0.8261	
+Chunxiao	cg02172773	-1.147	
+Chunxiao	cg02307957	0.681	
+Chunxiao	cg02478540	-2.0031	
+Chunxiao	cg02772754	2.6007	
+Chunxiao	cg02822838	-0.788	
+Chunxiao	cg02844688	-0.7437	
+Chunxiao	cg02872426	-0.7179	
+Chunxiao	cg03132729	-1.3295	
+Chunxiao	cg03579624	3.5695	
+Chunxiao	cg03653399	-0.2678	
+Chunxiao	cg03905236	-0.3205	
+Chunxiao	cg03922748	-1.1319	
+Chunxiao	cg04436528	-0.8767	
+Chunxiao	cg04455146	0.4092	
+Chunxiao	cg04925748	0.0094	
+Chunxiao	cg04955914	-3.5037	
+Chunxiao	cg05596756	-1.2892	
+Chunxiao	cg05613083	0.2838	
+Chunxiao	cg06072257	-8.578	
+Chunxiao	cg06094762	-0.7441	
+Chunxiao	cg06269443	-0.5934	
+Chunxiao	cg06711259	-4.0322	
+Chunxiao	cg07219494	-2.4714	
+Chunxiao	cg07382691	-1.6851	
+Chunxiao	cg07465899	-2.0805	
+Chunxiao	cg07553761	0.6632	
+Chunxiao	cg07662935	-1.458	
+Chunxiao	cg07976733	-0.2922	
+Chunxiao	cg08349142	0.2318	
+Chunxiao	cg08516641	-0.443	
+Chunxiao	cg09116468	1.3689	
+Chunxiao	cg09124496	-0.9307	
+Chunxiao	cg09310092	-1.6075	
+Chunxiao	cg09461021	-1.982	
+Chunxiao	cg10328813	-0.0518	
+Chunxiao	cg10816468	-3.1004	
+Chunxiao	cg10989288	1.4809	
+Chunxiao	cg11271492	-1.9703	
+Chunxiao	cg12642568	-2.3633	
+Chunxiao	cg13274149	2.3751	
+Chunxiao	cg13612317	-2.1116	
+Chunxiao	cg13993467	-2.8597	
+Chunxiao	cg14112935	0.249	
+Chunxiao	cg14176099	-0.0971	
+Chunxiao	cg14190522	-1.7517	
+Chunxiao	cg14584292	-0.2336	
+Chunxiao	cg15308037	-1.9034	
+Chunxiao	cg16119613	-2.0018	
+Chunxiao	cg16202624	-1.3384	
+Chunxiao	cg16746462	-1.0752	
+Chunxiao	cg16867657	1.5653	
+Chunxiao	cg16902294	1.0071	
+Chunxiao	cg17238334	-1.0219	
+Chunxiao	cg17723057	-0.1222	
+Chunxiao	cg18114755	-0.0473	
+Chunxiao	cg18219522	-1.0433	
+Chunxiao	cg18311495	-0.113	
+Chunxiao	cg18488521	1.564	
+Chunxiao	cg18597220	1.597	
+Chunxiao	cg21192606	-1.6143	
+Chunxiao	cg21242642	6.213	
+Chunxiao	cg22029239	-1.2812	
+Chunxiao	cg22493216	-0.6306	
+Chunxiao	cg22603452	-1.9846	
+Chunxiao	cg23204757	-1.2799	
+Chunxiao	cg23565569	-1.2712	
+Chunxiao	cg23656415	-0.0271	
+Chunxiao	cg23749518	-0.0204	
+Chunxiao	cg24382249	-0.1185	
+Chunxiao	cg24388008	-2.7052	
+Chunxiao	cg27367871	-1.6092	
+Chunxiao	cg27406001	-3.4879	
+Xiaohui	cg00343092	-1.135997653	
+Xiaohui	cg00563932	-2.254967927	
+Xiaohui	cg00571634	1.205130235	
+Xiaohui	cg00629217	-1.443114744	
+Xiaohui	cg01511567	0.5572547	
+Xiaohui	cg01515426	-4.753889226	
+Xiaohui	cg01756060	-2.975525682	
+Xiaohui	cg01899253	-0.877083763	
+Xiaohui	cg02385474	-1.101457403	
+Xiaohui	cg02489552	0.534293486	
+Xiaohui	cg02626929	0.128916398	
+Xiaohui	cg02789485	0.353159992	
+Xiaohui	cg03224418	-0.165348646	
+Xiaohui	cg03340261	-6.689713985	
+Xiaohui	cg03970609	0.563336196	
+Xiaohui	cg04458548	-0.283434273	
+Xiaohui	cg04460372	-0.967940889	
+Xiaohui	cg04474832	-1.203668298	
+Xiaohui	cg04527989	0.677609524	
+Xiaohui	cg04784672	1.786235879	
+Xiaohui	cg05073035	1.216035058	
+Xiaohui	cg05228408	-0.609085835	
+Xiaohui	cg05294455	0.910369194	
+Xiaohui	cg05352668	-1.571369198	
+Xiaohui	cg05921699	1.800240774	
+Xiaohui	cg05995267	0.600433301	
+Xiaohui	cg06204948	0.639126779	
+Xiaohui	cg06495803	0.396327381	
+Xiaohui	cg07408456	-2.025444379	
+Xiaohui	cg08032971	0.688587081	
+Xiaohui	cg08355340	7.896033939	
+Xiaohui	cg08418332	1.173668556	
+Xiaohui	cg08675585	-1.519238797	
+Xiaohui	cg08711674	1.119106843	
+Xiaohui	cg08724636	-6.996531515	
+Xiaohui	cg08733315	-6.468543656	
+Xiaohui	cg08872742	0.940541228	
+Xiaohui	cg09013626	0.613837924	
+Xiaohui	cg09600829	-0.732377239	
+Xiaohui	cg09809672	-0.614857266	
+Xiaohui	cg09816471	1.516437238	
+Xiaohui	cg10052840	-0.923536683	
+Xiaohui	cg10834677	0.797599347	
+Xiaohui	cg10986043	-2.379443118	
+Xiaohui	cg11267879	-0.554874255	
+Xiaohui	cg11314292	-3.38499408	
+Xiaohui	cg11635563	-0.586380758	
+Xiaohui	cg12024906	1.17757674	
+Xiaohui	cg12467090	1.860965096	
+Xiaohui	cg12688670	0.186533062	
+Xiaohui	cg12810837	-1.305939966	
+Xiaohui	cg13018903	0.152892228	
+Xiaohui	cg13269407	-0.157006414	
+Xiaohui	cg13436343	3.64661945	
+Xiaohui	cg13590277	1.591073245	
+Xiaohui	cg13870494	0.189212303	
+Xiaohui	cg13946500	-3.850796145	
+Xiaohui	cg14093936	-0.902373468	
+Xiaohui	cg14271400	5.710688531	
+Xiaohui	cg14456683	2.071567414	
+Xiaohui	cg14494596	1.371768443	
+Xiaohui	cg14839898	1.815352105	
+Xiaohui	cg15051063	1.366658344	
+Xiaohui	cg15238200	2.004655666	
+Xiaohui	cg15297650	-1.589846694	
+Xiaohui	cg15416233	-2.474569514	
+Xiaohui	cg15457899	0.461285026	
+Xiaohui	cg15700197	-0.378835203	
+Xiaohui	cg16466334	-0.519673323	
+Xiaohui	cg16713808	2.149119757	
+Xiaohui	cg16744741	-0.628229923	
+Xiaohui	cg17397493	0.501381132	
+Xiaohui	cg17421623	0.555595016	
+Xiaohui	cg17536532	1.437845258	
+Xiaohui	cg17907567	0.722904509	
+Xiaohui	cg18081104	0.414502763	
+Xiaohui	cg18644543	0.931062722	
+Xiaohui	cg18804206	1.561205825	
+Xiaohui	cg19162158	3.204798604	
+Xiaohui	cg19654437	-0.721912821	
+Xiaohui	cg19722847	-1.328174578	
+Xiaohui	cg19761273	-1.792864828	
+Xiaohui	cg20025656	1.883236071	
+Xiaohui	cg20349377	-1.099138807	
+Xiaohui	cg20654468	0.335556248	
+Xiaohui	cg21057046	-1.746170745	
+Xiaohui	cg21959619	-0.108227218	
+Xiaohui	cg22705225	-1.211995542	
+Xiaohui	cg22724153	-0.712185236	
+Xiaohui	cg22747092	-0.155437965	
+Xiaohui	cg22884082	0.62832282	
+Xiaohui	cg22919728	-0.292299689	
+Xiaohui	cg23320649	-0.87213435	
+Xiaohui	cg23587449	-5.214476293	
+Xiaohui	cg23668631	-0.54580146	
+Xiaohui	cg24001070	1.273455384	
+Xiaohui	cg24433189	0.475029669	
+Xiaohui	cg24453664	1.335584886	
+Xiaohui	cg24471894	-0.519909509	
+Xiaohui	cg24949049	0.75191663	
+Xiaohui	cg25152942	0.511762568	
+Xiaohui	cg25398949	3.475324556	
+Xiaohui	cg25538571	-0.430581867	
+Xiaohui	cg25762706	1.555819249	
+Xiaohui	cg25809905	-1.731180008	
+Xiaohui	cg25827666	-1.920330281	
+Xiaohui	cg26227465	0.34441217	
+Xiaohui	cg26232558	0.386260531	
+Xiaohui	cg26379475	-0.547110473	
+Xiaohui	cg27003571	-0.675385959	
+Xiaohui	cg27553955	1.215637677	
+Horvath-pan-mammalian	cg00249943	0.15278629	clock1
+Horvath-pan-mammalian	cg00250826	0.002770105	clock1
+Horvath-pan-mammalian	cg00292639	-0.129891492	clock1
+Horvath-pan-mammalian	cg00362836	0.04862963	clock1
+Horvath-pan-mammalian	cg00411555	-0.031365579	clock1
+Horvath-pan-mammalian	cg00513357	0.091425998	clock1
+Horvath-pan-mammalian	cg00587168	0.055298686	clock1
+Horvath-pan-mammalian	cg00593462	0.437911032	clock1
+Horvath-pan-mammalian	cg00687674	-0.140868637	clock1
+Horvath-pan-mammalian	cg00694357	-0.808471134	clock1
+Horvath-pan-mammalian	cg00900456	-0.033398244	clock1
+Horvath-pan-mammalian	cg00954002	-0.122975242	clock1
+Horvath-pan-mammalian	cg01009870	0.101085274	clock1
+Horvath-pan-mammalian	cg01019040	-0.004560905	clock1
+Horvath-pan-mammalian	cg01059743	-0.206340851	clock1
+Horvath-pan-mammalian	cg01136078	-0.001618486	clock1
+Horvath-pan-mammalian	cg01153166	0.07213742	clock1
+Horvath-pan-mammalian	cg01169686	-0.036956214	clock1
+Horvath-pan-mammalian	cg01246498	0.05297066	clock1
+Horvath-pan-mammalian	cg01429475	0.172114471	clock1
+Horvath-pan-mammalian	cg01511232	0.037939655	clock1
+Horvath-pan-mammalian	cg01656216	0.047490848	clock1
+Horvath-pan-mammalian	cg01698540	0.06197273	clock1
+Horvath-pan-mammalian	cg01794235	0.047381114	clock1
+Horvath-pan-mammalian	cg01975510	0.054041463	clock1
+Horvath-pan-mammalian	cg02474352	0.05577934	clock1
+Horvath-pan-mammalian	cg02499612	-0.041029	clock1
+Horvath-pan-mammalian	cg02532525	0.129828583	clock1
+Horvath-pan-mammalian	cg02606236	-0.020354116	clock1
+Horvath-pan-mammalian	cg02692845	-0.010986992	clock1
+Horvath-pan-mammalian	cg02734933	-0.050618726	clock1
+Horvath-pan-mammalian	cg02909927	-0.001149372	clock1
+Horvath-pan-mammalian	cg02963786	-0.145537423	clock1
+Horvath-pan-mammalian	cg03098892	-0.067706973	clock1
+Horvath-pan-mammalian	cg03103192	0.033028519	clock1
+Horvath-pan-mammalian	cg03185524	0.083587533	clock1
+Horvath-pan-mammalian	cg03320248	0.025943472	clock1
+Horvath-pan-mammalian	cg03370924	0.178694835	clock1
+Horvath-pan-mammalian	cg03564272	0.093220736	clock1
+Horvath-pan-mammalian	cg03603997	-0.003361709	clock1
+Horvath-pan-mammalian	cg03605454	0.274512763	clock1
+Horvath-pan-mammalian	cg03668418	-0.142897356	clock1
+Horvath-pan-mammalian	cg03820088	0.337643757	clock1
+Horvath-pan-mammalian	cg03898602	-0.167582063	clock1
+Horvath-pan-mammalian	cg03905052	0.037489046	clock1
+Horvath-pan-mammalian	cg03942000	0.08710688	clock1
+Horvath-pan-mammalian	cg03962027	-0.063363854	clock1
+Horvath-pan-mammalian	cg04025518	-0.167136372	clock1
+Horvath-pan-mammalian	cg04051518	-0.13275703	clock1
+Horvath-pan-mammalian	cg04097289	0.131097793	clock1
+Horvath-pan-mammalian	cg04211240	0.106295746	clock1
+Horvath-pan-mammalian	cg04267101	-0.234464438	clock1
+Horvath-pan-mammalian	cg04291050	0.033521914	clock1
+Horvath-pan-mammalian	cg04318752	-0.009291233	clock1
+Horvath-pan-mammalian	cg04368876	0.30163763	clock1
+Horvath-pan-mammalian	cg04706544	0.044175638	clock1
+Horvath-pan-mammalian	cg04998737	0.336274571	clock1
+Horvath-pan-mammalian	cg05191959	-0.964267062	clock1
+Horvath-pan-mammalian	cg05322294	-0.12388945	clock1
+Horvath-pan-mammalian	cg05401971	0.288727819	clock1
+Horvath-pan-mammalian	cg05475048	0.126731493	clock1
+Horvath-pan-mammalian	cg05562063	0.056409006	clock1
+Horvath-pan-mammalian	cg05575054	0.095687169	clock1
+Horvath-pan-mammalian	cg05601676	-0.014081943	clock1
+Horvath-pan-mammalian	cg05844902	-0.081703634	clock1
+Horvath-pan-mammalian	cg06004718	-0.054016232	clock1
+Horvath-pan-mammalian	cg06098215	-0.040804439	clock1
+Horvath-pan-mammalian	cg06220792	0.017929448	clock1
+Horvath-pan-mammalian	cg06283779	-0.097847143	clock1
+Horvath-pan-mammalian	cg06472065	-0.06032863	clock1
+Horvath-pan-mammalian	cg06639082	-0.025852302	clock1
+Horvath-pan-mammalian	cg06679868	-0.013441018	clock1
+Horvath-pan-mammalian	cg06736685	-0.442681022	clock1
+Horvath-pan-mammalian	cg06796779	-0.052124729	clock1
+Horvath-pan-mammalian	cg07005811	-0.053978516	clock1
+Horvath-pan-mammalian	cg07026794	-0.028648239	clock1
+Horvath-pan-mammalian	cg07117595	-0.009407756	clock1
+Horvath-pan-mammalian	cg07323940	-0.005648684	clock1
+Horvath-pan-mammalian	cg07499079	0.077393584	clock1
+Horvath-pan-mammalian	cg07600647	0.019510384	clock1
+Horvath-pan-mammalian	cg07867602	-0.000113915	clock1
+Horvath-pan-mammalian	cg07875786	0.002606451	clock1
+Horvath-pan-mammalian	cg07903650	-0.068952498	clock1
+Horvath-pan-mammalian	cg07938388	0.023188053	clock1
+Horvath-pan-mammalian	cg08074329	0.31370608	clock1
+Horvath-pan-mammalian	cg08216101	0.070851007	clock1
+Horvath-pan-mammalian	cg08343834	-0.045625754	clock1
+Horvath-pan-mammalian	cg08402623	0.022058899	clock1
+Horvath-pan-mammalian	cg08430237	-0.007938643	clock1
+Horvath-pan-mammalian	cg08446005	0.034781313	clock1
+Horvath-pan-mammalian	cg08563010	-0.009484972	clock1
+Horvath-pan-mammalian	cg08665685	0.013526449	clock1
+Horvath-pan-mammalian	cg08676748	0.179769916	clock1
+Horvath-pan-mammalian	cg08797870	0.007758876	clock1
+Horvath-pan-mammalian	cg08912313	-0.03524641	clock1
+Horvath-pan-mammalian	cg08918292	0.024598087	clock1
+Horvath-pan-mammalian	cg08938156	0.84374916	clock1
+Horvath-pan-mammalian	cg09025625	-0.029368018	clock1
+Horvath-pan-mammalian	cg09191327	-0.037793254	clock1
+Horvath-pan-mammalian	cg09227056	0.388273708	clock1
+Horvath-pan-mammalian	cg09313705	-0.06520474	clock1
+Horvath-pan-mammalian	cg09360996	-0.437834135	clock1
+Horvath-pan-mammalian	cg09461098	-0.107178386	clock1
+Horvath-pan-mammalian	cg09497746	0.135841844	clock1
+Horvath-pan-mammalian	cg09568652	0.053133715	clock1
+Horvath-pan-mammalian	cg09576428	-0.003283005	clock1
+Horvath-pan-mammalian	cg09578613	-0.015897374	clock1
+Horvath-pan-mammalian	cg09605634	0.00252451	clock1
+Horvath-pan-mammalian	cg09618893	-0.014382141	clock1
+Horvath-pan-mammalian	cg09622673	0.232329532	clock1
+Horvath-pan-mammalian	cg09670972	0.038711369	clock1
+Horvath-pan-mammalian	cg09681292	0.045923732	clock1
+Horvath-pan-mammalian	cg09710440	0.276573722	clock1
+Horvath-pan-mammalian	cg09750164	4.45303E-05	clock1
+Horvath-pan-mammalian	cg09807427	-0.057209803	clock1
+Horvath-pan-mammalian	cg09973880	-0.034709016	clock1
+Horvath-pan-mammalian	cg10040493	0.076596883	clock1
+Horvath-pan-mammalian	cg10061379	-0.149762732	clock1
+Horvath-pan-mammalian	cg10125423	0.124808965	clock1
+Horvath-pan-mammalian	cg10160701	0.073138298	clock1
+Horvath-pan-mammalian	cg10233638	-0.097268038	clock1
+Horvath-pan-mammalian	cg10402101	-0.047113417	clock1
+Horvath-pan-mammalian	cg10404717	0.016439831	clock1
+Horvath-pan-mammalian	cg10439738	0.02922725	clock1
+Horvath-pan-mammalian	cg10466667	-0.062113024	clock1
+Horvath-pan-mammalian	cg10480998	0.026992226	clock1
+Horvath-pan-mammalian	cg10501210	-0.392054908	clock1
+Horvath-pan-mammalian	cg10603790	0.030818855	clock1
+Horvath-pan-mammalian	cg10739250	0.015192998	clock1
+Horvath-pan-mammalian	cg10975089	-0.06229758	clock1
+Horvath-pan-mammalian	cg11084334	0.224047701	clock1
+Horvath-pan-mammalian	cg11235379	0.058113099	clock1
+Horvath-pan-mammalian	cg11290280	-0.119734094	clock1
+Horvath-pan-mammalian	cg11321459	-0.036231743	clock1
+Horvath-pan-mammalian	cg11352386	0.025405259	clock1
+Horvath-pan-mammalian	cg11405955	0.020506243	clock1
+Horvath-pan-mammalian	cg11407867	-0.12524961	clock1
+Horvath-pan-mammalian	cg11516694	-0.105323857	clock1
+Horvath-pan-mammalian	cg11642756	-0.100344586	clock1
+Horvath-pan-mammalian	cg11666770	0.064193026	clock1
+Horvath-pan-mammalian	cg11690941	0.0002076	clock1
+Horvath-pan-mammalian	cg11728741	0.928873588	clock1
+Horvath-pan-mammalian	cg11904056	0.341790932	clock1
+Horvath-pan-mammalian	cg11948733	-0.093593414	clock1
+Horvath-pan-mammalian	cg12156848	0.232543363	clock1
+Horvath-pan-mammalian	cg12201500	-0.074764531	clock1
+Horvath-pan-mammalian	cg12373771	0.160353416	clock1
+Horvath-pan-mammalian	cg12382554	-0.107814003	clock1
+Horvath-pan-mammalian	cg12449245	0.049296508	clock1
+Horvath-pan-mammalian	cg12509499	-0.062262881	clock1
+Horvath-pan-mammalian	cg12651099	0.248216038	clock1
+Horvath-pan-mammalian	cg12791299	0.034068233	clock1
+Horvath-pan-mammalian	cg12815291	0.067443521	clock1
+Horvath-pan-mammalian	cg12830057	0.109563898	clock1
+Horvath-pan-mammalian	cg12841266	0.123459106	clock1
+Horvath-pan-mammalian	cg12850734	0.024257219	clock1
+Horvath-pan-mammalian	cg12965599	-0.015643746	clock1
+Horvath-pan-mammalian	cg12969847	0.009161422	clock1
+Horvath-pan-mammalian	cg13058338	0.6386603	clock1
+Horvath-pan-mammalian	cg13084522	-0.082187142	clock1
+Horvath-pan-mammalian	cg13188467	-0.001406524	clock1
+Horvath-pan-mammalian	cg13242392	-0.842267016	clock1
+Horvath-pan-mammalian	cg13285426	0.033466868	clock1
+Horvath-pan-mammalian	cg13400013	0.018753985	clock1
+Horvath-pan-mammalian	cg13401299	0.013469508	clock1
+Horvath-pan-mammalian	cg13608832	-0.162165048	clock1
+Horvath-pan-mammalian	cg13609316	-0.000422564	clock1
+Horvath-pan-mammalian	cg13935553	-0.063401019	clock1
+Horvath-pan-mammalian	cg14241460	-0.196790456	clock1
+Horvath-pan-mammalian	cg14361875	-0.165076507	clock1
+Horvath-pan-mammalian	cg14381350	0.151545604	clock1
+Horvath-pan-mammalian	cg14384416	0.080662786	clock1
+Horvath-pan-mammalian	cg14443903	-0.289068334	clock1
+Horvath-pan-mammalian	cg14458704	0.002518394	clock1
+Horvath-pan-mammalian	cg14701342	0.018228068	clock1
+Horvath-pan-mammalian	cg14762358	-0.026945903	clock1
+Horvath-pan-mammalian	cg14811158	0.035665341	clock1
+Horvath-pan-mammalian	cg14903956	-0.097409971	clock1
+Horvath-pan-mammalian	cg14919591	-0.287442301	clock1
+Horvath-pan-mammalian	cg15089111	0.017766619	clock1
+Horvath-pan-mammalian	cg15166827	-0.132208303	clock1
+Horvath-pan-mammalian	cg15340018	0.201225539	clock1
+Horvath-pan-mammalian	cg15437942	0.118504219	clock1
+Horvath-pan-mammalian	cg15496507	-0.026067798	clock1
+Horvath-pan-mammalian	cg15580396	-0.016772084	clock1
+Horvath-pan-mammalian	cg15597031	0.023984324	clock1
+Horvath-pan-mammalian	cg15682828	0.2554586	clock1
+Horvath-pan-mammalian	cg15719056	0.105238486	clock1
+Horvath-pan-mammalian	cg15726426	0.003019246	clock1
+Horvath-pan-mammalian	cg15746205	-0.150618685	clock1
+Horvath-pan-mammalian	cg15809488	-0.664041584	clock1
+Horvath-pan-mammalian	cg15903282	0.020030463	clock1
+Horvath-pan-mammalian	cg15991909	-0.04962426	clock1
+Horvath-pan-mammalian	cg16366505	0.032339211	clock1
+Horvath-pan-mammalian	cg16423684	0.008945547	clock1
+Horvath-pan-mammalian	cg16475558	-0.001455788	clock1
+Horvath-pan-mammalian	cg16486681	-0.044001663	clock1
+Horvath-pan-mammalian	cg16570119	0.073642964	clock1
+Horvath-pan-mammalian	cg16599143	0.272940073	clock1
+Horvath-pan-mammalian	cg16671190	0.044830868	clock1
+Horvath-pan-mammalian	cg16756969	-0.069680929	clock1
+Horvath-pan-mammalian	cg16764258	0.025342504	clock1
+Horvath-pan-mammalian	cg16867657	0.144298802	clock1
+Horvath-pan-mammalian	cg16960327	0.276846163	clock1
+Horvath-pan-mammalian	cg17114460	0.065309902	clock1
+Horvath-pan-mammalian	cg17116410	0.066407374	clock1
+Horvath-pan-mammalian	cg17143801	0.306777113	clock1
+Horvath-pan-mammalian	cg17267107	0.127785136	clock1
+Horvath-pan-mammalian	cg17357006	0.019420368	clock1
+Horvath-pan-mammalian	cg17365410	-0.589556598	clock1
+Horvath-pan-mammalian	cg17437489	-0.18444058	clock1
+Horvath-pan-mammalian	cg17499466	0.018911331	clock1
+Horvath-pan-mammalian	cg17516812	-0.028641676	clock1
+Horvath-pan-mammalian	cg17633063	0.01802741	clock1
+Horvath-pan-mammalian	cg17718834	0.057719543	clock1
+Horvath-pan-mammalian	cg17850367	0.000359682	clock1
+Horvath-pan-mammalian	cg17876669	-0.034764336	clock1
+Horvath-pan-mammalian	cg17905888	-0.107558271	clock1
+Horvath-pan-mammalian	cg18094982	0.049600413	clock1
+Horvath-pan-mammalian	cg18168101	-0.145768619	clock1
+Horvath-pan-mammalian	cg18169540	0.033117452	clock1
+Horvath-pan-mammalian	cg18194685	0.100103362	clock1
+Horvath-pan-mammalian	cg18223258	-0.067118113	clock1
+Horvath-pan-mammalian	cg18304538	0.07334619	clock1
+Horvath-pan-mammalian	cg18411550	-0.306030595	clock1
+Horvath-pan-mammalian	cg18433728	-0.025967256	clock1
+Horvath-pan-mammalian	cg18473521.2	0.04241454	clock1
+Horvath-pan-mammalian	cg18502834	-0.211022983	clock1
+Horvath-pan-mammalian	cg18526971	-0.118880121	clock1
+Horvath-pan-mammalian	cg18577444	-0.117337858	clock1
+Horvath-pan-mammalian	cg18672716	0.039698776	clock1
+Horvath-pan-mammalian	cg18738190	-0.154921975	clock1
+Horvath-pan-mammalian	cg18814344	-0.152329357	clock1
+Horvath-pan-mammalian	cg18821963	0.25659039	clock1
+Horvath-pan-mammalian	cg18918349	-0.003875303	clock1
+Horvath-pan-mammalian	cg19090691	-0.121300661	clock1
+Horvath-pan-mammalian	cg19098934	0.012643955	clock1
+Horvath-pan-mammalian	cg19195912	-0.09196262	clock1
+Horvath-pan-mammalian	cg19233240	0.037414441	clock1
+Horvath-pan-mammalian	cg19358608	0.015860249	clock1
+Horvath-pan-mammalian	cg19450032	-0.003476503	clock1
+Horvath-pan-mammalian	cg19513247	-0.213046499	clock1
+Horvath-pan-mammalian	cg19591642	-0.351198176	clock1
+Horvath-pan-mammalian	cg19622303	0.037041466	clock1
+Horvath-pan-mammalian	cg19635507	-0.003600397	clock1
+Horvath-pan-mammalian	cg19643847	-0.116943413	clock1
+Horvath-pan-mammalian	cg19821183	-0.01669086	clock1
+Horvath-pan-mammalian	cg19981759	0.089226419	clock1
+Horvath-pan-mammalian	cg20113482	0.00012533	clock1
+Horvath-pan-mammalian	cg20185523	0.002308501	clock1
+Horvath-pan-mammalian	cg20331456	-0.11120608	clock1
+Horvath-pan-mammalian	cg20345626	-0.051125014	clock1
+Horvath-pan-mammalian	cg20421508	0.010438543	clock1
+Horvath-pan-mammalian	cg20452275	-0.153614651	clock1
+Horvath-pan-mammalian	cg20615601	-0.209853407	clock1
+Horvath-pan-mammalian	cg20738648	0.057955892	clock1
+Horvath-pan-mammalian	cg20804050	-0.189793904	clock1
+Horvath-pan-mammalian	cg21006686	0.025069307	clock1
+Horvath-pan-mammalian	cg21345677	0.068774528	clock1
+Horvath-pan-mammalian	cg21621248	-0.0298708	clock1
+Horvath-pan-mammalian	cg21633990	0.033711465	clock1
+Horvath-pan-mammalian	cg21650436	-0.000271686	clock1
+Horvath-pan-mammalian	cg21694863	-0.04195258	clock1
+Horvath-pan-mammalian	cg21907062	0.012016874	clock1
+Horvath-pan-mammalian	cg21956144	0.003211951	clock1
+Horvath-pan-mammalian	cg22031066	0.071068167	clock1
+Horvath-pan-mammalian	cg22264409	0.22425113	clock1
+Horvath-pan-mammalian	cg22267613	-0.081206768	clock1
+Horvath-pan-mammalian	cg22338839	-0.150449084	clock1
+Horvath-pan-mammalian	cg22354333	-0.255651658	clock1
+Horvath-pan-mammalian	cg22380921	-0.008258906	clock1
+Horvath-pan-mammalian	cg22398409	-0.033401784	clock1
+Horvath-pan-mammalian	cg22416332	-0.000398777	clock1
+Horvath-pan-mammalian	cg22457719	0.048841565	clock1
+Horvath-pan-mammalian	cg22560410	-0.192257773	clock1
+Horvath-pan-mammalian	cg22621796	-0.097385387	clock1
+Horvath-pan-mammalian	cg22661206	0.261166228	clock1
+Horvath-pan-mammalian	cg22929401	-0.387711707	clock1
+Horvath-pan-mammalian	cg23076498	0.148003979	clock1
+Horvath-pan-mammalian	cg23087015	0.254654559	clock1
+Horvath-pan-mammalian	cg23128382	-0.046604843	clock1
+Horvath-pan-mammalian	cg23292987	0.00303996	clock1
+Horvath-pan-mammalian	cg23314464	0.015436719	clock1
+Horvath-pan-mammalian	cg23415880	0.061838193	clock1
+Horvath-pan-mammalian	cg23501051	-0.073722153	clock1
+Horvath-pan-mammalian	cg23510032	-0.038272497	clock1
+Horvath-pan-mammalian	cg23597501	0.056082868	clock1
+Horvath-pan-mammalian	cg23778391	-0.197359572	clock1
+Horvath-pan-mammalian	cg23931487	0.000441897	clock1
+Horvath-pan-mammalian	cg23985931	0.19795673	clock1
+Horvath-pan-mammalian	cg24055081	-0.093870511	clock1
+Horvath-pan-mammalian	cg24058132	-0.122562391	clock1
+Horvath-pan-mammalian	cg24119607	-0.058343374	clock1
+Horvath-pan-mammalian	cg24191230	0.041990684	clock1
+Horvath-pan-mammalian	cg24315421	-0.044871807	clock1
+Horvath-pan-mammalian	cg24352905	0.853267701	clock1
+Horvath-pan-mammalian	cg24357465	0.090101787	clock1
+Horvath-pan-mammalian	cg24504442	0.067603335	clock1
+Horvath-pan-mammalian	cg24551749	0.000464049	clock1
+Horvath-pan-mammalian	cg24615318	-0.018147331	clock1
+Horvath-pan-mammalian	cg24655241	0.064225663	clock1
+Horvath-pan-mammalian	cg24805210	-0.137834732	clock1
+Horvath-pan-mammalian	cg24888049	-0.039374797	clock1
+Horvath-pan-mammalian	cg24952195	0.07968321	clock1
+Horvath-pan-mammalian	cg24977387	-0.019749715	clock1
+Horvath-pan-mammalian	cg25019875	0.138827739	clock1
+Horvath-pan-mammalian	cg25033328	-0.131315015	clock1
+Horvath-pan-mammalian	cg25184118	-0.197577125	clock1
+Horvath-pan-mammalian	cg25217825	0.075596402	clock1
+Horvath-pan-mammalian	cg25424883	-0.277068553	clock1
+Horvath-pan-mammalian	cg25468783	0.11346356	clock1
+Horvath-pan-mammalian	cg25603344	-0.17847739	clock1
+Horvath-pan-mammalian	cg25943666	0.154930766	clock1
+Horvath-pan-mammalian	cg26012482	0.096389422	clock1
+Horvath-pan-mammalian	cg26067250	0.510612929	clock1
+Horvath-pan-mammalian	cg26072749	-0.099396313	clock1
+Horvath-pan-mammalian	cg26275174	-0.040912185	clock1
+Horvath-pan-mammalian	cg26311454	0.064506134	clock1
+Horvath-pan-mammalian	cg26418994	0.005591741	clock1
+Horvath-pan-mammalian	cg26512254	0.088946847	clock1
+Horvath-pan-mammalian	cg26581729	-0.010839533	clock1
+Horvath-pan-mammalian	cg26589497	-0.008017655	clock1
+Horvath-pan-mammalian	cg26614073	-0.01563665	clock1
+Horvath-pan-mammalian	cg26662324	-0.32657677	clock1
+Horvath-pan-mammalian	cg26709300	-0.037799163	clock1
+Horvath-pan-mammalian	cg26844246	0.150487122	clock1
+Horvath-pan-mammalian	cg27088374	-0.136771586	clock1
+Horvath-pan-mammalian	cg27201382	0.44464499	clock1
+Horvath-pan-mammalian	cg27228973	-0.038098753	clock1
+Horvath-pan-mammalian	cg27507315	-0.21075238	clock1
+Horvath-pan-mammalian	cg27547112	0.010457976	clock1
+Horvath-pan-mammalian	cg27553955	0.094160723	clock1
+Horvath-pan-mammalian	cg27581159	-0.129683554	clock1
+Horvath-pan-mammalian	cg27657271	-0.070242698	clock1
+Horvath-pan-mammalian	cg27662445	-0.115571957	clock1
+Horvath-pan-mammalian	cg00020468	-0.002385015	clock2
+Horvath-pan-mammalian	cg00096922	-0.009445006	clock2
+Horvath-pan-mammalian	cg00098422	0.055805395	clock2
+Horvath-pan-mammalian	cg00106940	-0.059144902	clock2
+Horvath-pan-mammalian	cg00195533	-0.172659288	clock2
+Horvath-pan-mammalian	cg00250826	0.007619397	clock2
+Horvath-pan-mammalian	cg00258262	0.053678899	clock2
+Horvath-pan-mammalian	cg00314427	-0.078688839	clock2
+Horvath-pan-mammalian	cg00362836	0.059616586	clock2
+Horvath-pan-mammalian	cg00384342	-0.065628925	clock2
+Horvath-pan-mammalian	cg00454305	-0.034853815	clock2
+Horvath-pan-mammalian	cg00467357	-0.04281876	clock2
+Horvath-pan-mammalian	cg00489428	0.259347448	clock2
+Horvath-pan-mammalian	cg00568797	0.000704476	clock2
+Horvath-pan-mammalian	cg00593462	0.102285886	clock2
+Horvath-pan-mammalian	cg00643485	0.106150468	clock2
+Horvath-pan-mammalian	cg00689383	-0.019021064	clock2
+Horvath-pan-mammalian	cg00694357	-0.226399969	clock2
+Horvath-pan-mammalian	cg00788877	-0.010860024	clock2
+Horvath-pan-mammalian	cg00864083	0.079041497	clock2
+Horvath-pan-mammalian	cg00871371	-0.10834653	clock2
+Horvath-pan-mammalian	cg00929113	-0.019965063	clock2
+Horvath-pan-mammalian	cg00975350	-0.084775867	clock2
+Horvath-pan-mammalian	cg00984060	0.02648832	clock2
+Horvath-pan-mammalian	cg01019040	-0.022070782	clock2
+Horvath-pan-mammalian	cg01038105	-0.093778762	clock2
+Horvath-pan-mammalian	cg01061575	0.031510738	clock2
+Horvath-pan-mammalian	cg01063757	-0.095529161	clock2
+Horvath-pan-mammalian	cg01090334	0.040065649	clock2
+Horvath-pan-mammalian	cg01137681	0.033200202	clock2
+Horvath-pan-mammalian	cg01150494	0.262796867	clock2
+Horvath-pan-mammalian	cg01153166	0.009852162	clock2
+Horvath-pan-mammalian	cg01169686	-0.024840384	clock2
+Horvath-pan-mammalian	cg01224972	0.095609357	clock2
+Horvath-pan-mammalian	cg01293647	-0.150593826	clock2
+Horvath-pan-mammalian	cg01301326	-0.004566517	clock2
+Horvath-pan-mammalian	cg01309159	-0.054916848	clock2
+Horvath-pan-mammalian	cg01328716	-0.031191772	clock2
+Horvath-pan-mammalian	cg01337143	0.07480186	clock2
+Horvath-pan-mammalian	cg01409964	0.083311003	clock2
+Horvath-pan-mammalian	cg01429475	0.119481691	clock2
+Horvath-pan-mammalian	cg01450059	-0.027134492	clock2
+Horvath-pan-mammalian	cg01534197	0.002593792	clock2
+Horvath-pan-mammalian	cg01550545	0.026014745	clock2
+Horvath-pan-mammalian	cg01566077	-0.154666184	clock2
+Horvath-pan-mammalian	cg01571965	0.011414881	clock2
+Horvath-pan-mammalian	cg01585174	-0.027592912	clock2
+Horvath-pan-mammalian	cg01594275	0.247994017	clock2
+Horvath-pan-mammalian	cg01631669	-0.058052296	clock2
+Horvath-pan-mammalian	cg01648756	0.064415481	clock2
+Horvath-pan-mammalian	cg01712842	0.041565693	clock2
+Horvath-pan-mammalian	cg01782227	-0.102976592	clock2
+Horvath-pan-mammalian	cg01946200	0.048346894	clock2
+Horvath-pan-mammalian	cg01975510	0.411008638	clock2
+Horvath-pan-mammalian	cg01998606	0.015427788	clock2
+Horvath-pan-mammalian	cg02034779	0.051431844	clock2
+Horvath-pan-mammalian	cg02040024	0.109016144	clock2
+Horvath-pan-mammalian	cg02040823	-0.03142684	clock2
+Horvath-pan-mammalian	cg02177464	0.192402722	clock2
+Horvath-pan-mammalian	cg02184281	-0.085773654	clock2
+Horvath-pan-mammalian	cg02273345	-0.05115149	clock2
+Horvath-pan-mammalian	cg02284095	0.067307142	clock2
+Horvath-pan-mammalian	cg02287493	0.036755419	clock2
+Horvath-pan-mammalian	cg02360445	-0.007329344	clock2
+Horvath-pan-mammalian	cg02376954	-0.168298169	clock2
+Horvath-pan-mammalian	cg02456804	0.151081425	clock2
+Horvath-pan-mammalian	cg02532525	0.149617321	clock2
+Horvath-pan-mammalian	cg02551294	0.023974005	clock2
+Horvath-pan-mammalian	cg02629039	-0.007261266	clock2
+Horvath-pan-mammalian	cg02692845	-0.114387436	clock2
+Horvath-pan-mammalian	cg02783173	0.045964123	clock2
+Horvath-pan-mammalian	cg02800363	-0.170767165	clock2
+Horvath-pan-mammalian	cg02864622	0.029391622	clock2
+Horvath-pan-mammalian	cg02909927	-0.026285595	clock2
+Horvath-pan-mammalian	cg02946452	0.027377597	clock2
+Horvath-pan-mammalian	cg02953590	0.049758795	clock2
+Horvath-pan-mammalian	cg02963786	-0.085778172	clock2
+Horvath-pan-mammalian	cg02968236	-0.019829188	clock2
+Horvath-pan-mammalian	cg03127034	2.6419E-05	clock2
+Horvath-pan-mammalian	cg03163184	0.027326053	clock2
+Horvath-pan-mammalian	cg03190580	-0.034310363	clock2
+Horvath-pan-mammalian	cg03222030	-0.007134081	clock2
+Horvath-pan-mammalian	cg03225697	-0.070415212	clock2
+Horvath-pan-mammalian	cg03247467	-0.007630757	clock2
+Horvath-pan-mammalian	cg03320248	0.001015294	clock2
+Horvath-pan-mammalian	cg03387624	-0.020938909	clock2
+Horvath-pan-mammalian	cg03420509	-0.073838114	clock2
+Horvath-pan-mammalian	cg03521797	-0.211323543	clock2
+Horvath-pan-mammalian	cg03588035	-0.116801899	clock2
+Horvath-pan-mammalian	cg03600207	-0.072475922	clock2
+Horvath-pan-mammalian	cg03668418	-0.002172889	clock2
+Horvath-pan-mammalian	cg03679521	0.401910668	clock2
+Horvath-pan-mammalian	cg03683773	-0.021062056	clock2
+Horvath-pan-mammalian	cg03820088	0.013663094	clock2
+Horvath-pan-mammalian	cg03898602	-0.048943351	clock2
+Horvath-pan-mammalian	cg03905052	0.01877552	clock2
+Horvath-pan-mammalian	cg03909491	0.033113247	clock2
+Horvath-pan-mammalian	cg03917360	0.037601777	clock2
+Horvath-pan-mammalian	cg03942000	0.110069983	clock2
+Horvath-pan-mammalian	cg03957108	7.09538E-05	clock2
+Horvath-pan-mammalian	cg04025518	-0.042933617	clock2
+Horvath-pan-mammalian	cg04087693	0.066535753	clock2
+Horvath-pan-mammalian	cg04103301	-0.017828848	clock2
+Horvath-pan-mammalian	cg04111974	-0.026401162	clock2
+Horvath-pan-mammalian	cg04204168	-0.049448309	clock2
+Horvath-pan-mammalian	cg04267101	-0.029512229	clock2
+Horvath-pan-mammalian	cg04353319	0.053408585	clock2
+Horvath-pan-mammalian	cg04366185	0.022592427	clock2
+Horvath-pan-mammalian	cg04368876	0.024900264	clock2
+Horvath-pan-mammalian	cg04373810	-0.000961809	clock2
+Horvath-pan-mammalian	cg04414148	-0.027833877	clock2
+Horvath-pan-mammalian	cg04539386	-0.110715895	clock2
+Horvath-pan-mammalian	cg04584281	-0.009269542	clock2
+Horvath-pan-mammalian	cg04680480	0.122538377	clock2
+Horvath-pan-mammalian	cg04706544	0.048970692	clock2
+Horvath-pan-mammalian	cg04707251	-0.15734952	clock2
+Horvath-pan-mammalian	cg04725401	0.144229417	clock2
+Horvath-pan-mammalian	cg04787747	0.1704938	clock2
+Horvath-pan-mammalian	cg04817453	0.055106825	clock2
+Horvath-pan-mammalian	cg04847707	-0.063028003	clock2
+Horvath-pan-mammalian	cg04889095	0.116838767	clock2
+Horvath-pan-mammalian	cg04913399	-0.001623059	clock2
+Horvath-pan-mammalian	cg04958293	-0.002086394	clock2
+Horvath-pan-mammalian	cg04996684	0.001550941	clock2
+Horvath-pan-mammalian	cg04998737	0.487512428	clock2
+Horvath-pan-mammalian	cg05008190	-0.220085399	clock2
+Horvath-pan-mammalian	cg05033071	-0.027820003	clock2
+Horvath-pan-mammalian	cg05035366	-0.024783411	clock2
+Horvath-pan-mammalian	cg05039938	-0.139131933	clock2
+Horvath-pan-mammalian	cg05136138	-0.004057652	clock2
+Horvath-pan-mammalian	cg05172686	-0.001596476	clock2
+Horvath-pan-mammalian	cg05196683	0.022048697	clock2
+Horvath-pan-mammalian	cg05243338	-0.111901872	clock2
+Horvath-pan-mammalian	cg05261703	-0.129021442	clock2
+Horvath-pan-mammalian	cg05292023	-0.004253109	clock2
+Horvath-pan-mammalian	cg05330587	-0.134189874	clock2
+Horvath-pan-mammalian	cg05332360	0.015314069	clock2
+Horvath-pan-mammalian	cg05359706	0.050629195	clock2
+Horvath-pan-mammalian	cg05401971	0.51729423	clock2
+Horvath-pan-mammalian	cg05456580	0.024586053	clock2
+Horvath-pan-mammalian	cg05474883	0.95219804	clock2
+Horvath-pan-mammalian	cg05524242	-0.00399539	clock2
+Horvath-pan-mammalian	cg05535461	0.005687636	clock2
+Horvath-pan-mammalian	cg05537515	-0.034620192	clock2
+Horvath-pan-mammalian	cg05551621	0.310352634	clock2
+Horvath-pan-mammalian	cg05575054	0.065671064	clock2
+Horvath-pan-mammalian	cg05584618	0.001226466	clock2
+Horvath-pan-mammalian	cg05620664	-0.03690146	clock2
+Horvath-pan-mammalian	cg05675373	0.010905188	clock2
+Horvath-pan-mammalian	cg05684493	0.004714162	clock2
+Horvath-pan-mammalian	cg05690769	-2.12E-05	clock2
+Horvath-pan-mammalian	cg05704605	0.072925171	clock2
+Horvath-pan-mammalian	cg05793328	-0.036896393	clock2
+Horvath-pan-mammalian	cg05801021	0.094169856	clock2
+Horvath-pan-mammalian	cg05801832	-0.009287951	clock2
+Horvath-pan-mammalian	cg05817746	-0.004281869	clock2
+Horvath-pan-mammalian	cg05844902	-0.011617505	clock2
+Horvath-pan-mammalian	cg05844937	0.02615092	clock2
+Horvath-pan-mammalian	cg05861987	0.011704452	clock2
+Horvath-pan-mammalian	cg05911522	-0.049101309	clock2
+Horvath-pan-mammalian	cg05916870	-0.01564845	clock2
+Horvath-pan-mammalian	cg05933505	-0.050356223	clock2
+Horvath-pan-mammalian	cg05967003	-0.047116017	clock2
+Horvath-pan-mammalian	cg06004718	-0.151476537	clock2
+Horvath-pan-mammalian	cg06102298	-0.058171016	clock2
+Horvath-pan-mammalian	cg06156376	0.080213875	clock2
+Horvath-pan-mammalian	cg06250511	0.02770522	clock2
+Horvath-pan-mammalian	cg06333141	0.016708865	clock2
+Horvath-pan-mammalian	cg06386724	-0.030213637	clock2
+Horvath-pan-mammalian	cg06391468	-0.082878805	clock2
+Horvath-pan-mammalian	cg06392591	-0.021720168	clock2
+Horvath-pan-mammalian	cg06461219	-0.163768176	clock2
+Horvath-pan-mammalian	cg06472065	-0.000451428	clock2
+Horvath-pan-mammalian	cg06482098	-0.001129016	clock2
+Horvath-pan-mammalian	cg06607996	-0.064283256	clock2
+Horvath-pan-mammalian	cg06655463	0.005919804	clock2
+Horvath-pan-mammalian	cg06679868	-0.087059824	clock2
+Horvath-pan-mammalian	cg06721611	0.020903307	clock2
+Horvath-pan-mammalian	cg06736685	-0.098155659	clock2
+Horvath-pan-mammalian	cg06779064	-0.017574281	clock2
+Horvath-pan-mammalian	cg06787049	0.000206946	clock2
+Horvath-pan-mammalian	cg06790494	-0.083262743	clock2
+Horvath-pan-mammalian	cg06796779	-0.00147491	clock2
+Horvath-pan-mammalian	cg06828322	-0.019052189	clock2
+Horvath-pan-mammalian	cg06878766	0.336647664	clock2
+Horvath-pan-mammalian	cg06997801	0.002219338	clock2
+Horvath-pan-mammalian	cg07005811	-0.084248283	clock2
+Horvath-pan-mammalian	cg07014363	0.02341228	clock2
+Horvath-pan-mammalian	cg07026794	-0.000529793	clock2
+Horvath-pan-mammalian	cg07056567	-0.007320518	clock2
+Horvath-pan-mammalian	cg07081182	0.023517985	clock2
+Horvath-pan-mammalian	cg07225115	-0.0528051	clock2
+Horvath-pan-mammalian	cg07279255	0.063714372	clock2
+Horvath-pan-mammalian	cg07292994	-0.175028628	clock2
+Horvath-pan-mammalian	cg07293320	-0.092995293	clock2
+Horvath-pan-mammalian	cg07299823	-0.011704022	clock2
+Horvath-pan-mammalian	cg07323940	-0.079425248	clock2
+Horvath-pan-mammalian	cg07332354	0.210602177	clock2
+Horvath-pan-mammalian	cg07383477	-0.053446914	clock2
+Horvath-pan-mammalian	cg07423797	0.098045953	clock2
+Horvath-pan-mammalian	cg07459759	-0.011710047	clock2
+Horvath-pan-mammalian	cg07493901	-0.515118624	clock2
+Horvath-pan-mammalian	cg07547549	0.077740052	clock2
+Horvath-pan-mammalian	cg07564343	-0.154170596	clock2
+Horvath-pan-mammalian	cg07601141	0.046554901	clock2
+Horvath-pan-mammalian	cg07776022	-0.052318123	clock2
+Horvath-pan-mammalian	cg07782608	0.008144109	clock2
+Horvath-pan-mammalian	cg07843244	-0.004851531	clock2
+Horvath-pan-mammalian	cg07875786	0.182469108	clock2
+Horvath-pan-mammalian	cg07878283	-0.006931351	clock2
+Horvath-pan-mammalian	cg07881279	-0.2624794	clock2
+Horvath-pan-mammalian	cg07906193	-0.021631513	clock2
+Horvath-pan-mammalian	cg07932605	0.036464469	clock2
+Horvath-pan-mammalian	cg07991826	0.210256274	clock2
+Horvath-pan-mammalian	cg08007722	-0.085549848	clock2
+Horvath-pan-mammalian	cg08030321	0.020570823	clock2
+Horvath-pan-mammalian	cg08040307	0.135160024	clock2
+Horvath-pan-mammalian	cg08074329	0.441754784	clock2
+Horvath-pan-mammalian	cg08092317	0.011262183	clock2
+Horvath-pan-mammalian	cg08247363	-0.004480792	clock2
+Horvath-pan-mammalian	cg08321639	0.017637495	clock2
+Horvath-pan-mammalian	cg08378313	-0.018045646	clock2
+Horvath-pan-mammalian	cg08402704	0.05650356	clock2
+Horvath-pan-mammalian	cg08438614	-0.034360159	clock2
+Horvath-pan-mammalian	cg08446005	0.057680024	clock2
+Horvath-pan-mammalian	cg08454381	-0.00875913	clock2
+Horvath-pan-mammalian	cg08508546	-0.000163097	clock2
+Horvath-pan-mammalian	cg08510667	0.038626174	clock2
+Horvath-pan-mammalian	cg08538268	0.152393805	clock2
+Horvath-pan-mammalian	cg08563010	-0.207356586	clock2
+Horvath-pan-mammalian	cg08570512	-0.056245727	clock2
+Horvath-pan-mammalian	cg08587692	-0.03684907	clock2
+Horvath-pan-mammalian	cg08627730	-5.13E-05	clock2
+Horvath-pan-mammalian	cg08651129	-0.234631469	clock2
+Horvath-pan-mammalian	cg08666298	-0.063007641	clock2
+Horvath-pan-mammalian	cg08676748	0.05085596	clock2
+Horvath-pan-mammalian	cg08681110	0.647719215	clock2
+Horvath-pan-mammalian	cg08747377	-0.012083729	clock2
+Horvath-pan-mammalian	cg08909367	0.031481533	clock2
+Horvath-pan-mammalian	cg08912313	-0.029800205	clock2
+Horvath-pan-mammalian	cg08933909	-0.004387621	clock2
+Horvath-pan-mammalian	cg08938156	0.210579727	clock2
+Horvath-pan-mammalian	cg08965235	-0.021251602	clock2
+Horvath-pan-mammalian	cg08981150	0.003965209	clock2
+Horvath-pan-mammalian	cg09008979	-0.050057058	clock2
+Horvath-pan-mammalian	cg09009312	-0.002539866	clock2
+Horvath-pan-mammalian	cg09023627	0.052520774	clock2
+Horvath-pan-mammalian	cg09061197	0.015308707	clock2
+Horvath-pan-mammalian	cg09169719	-0.005659556	clock2
+Horvath-pan-mammalian	cg09191327	-0.002738114	clock2
+Horvath-pan-mammalian	cg09200783	0.307782124	clock2
+Horvath-pan-mammalian	cg09227056	0.615234523	clock2
+Horvath-pan-mammalian	cg09313705	-0.003322833	clock2
+Horvath-pan-mammalian	cg09316860	0.011680446	clock2
+Horvath-pan-mammalian	cg09337540	0.000524824	clock2
+Horvath-pan-mammalian	cg09360996	-0.160077529	clock2
+Horvath-pan-mammalian	cg09362546	-0.165298047	clock2
+Horvath-pan-mammalian	cg09363187	0.006909874	clock2
+Horvath-pan-mammalian	cg09364634	-0.018007928	clock2
+Horvath-pan-mammalian	cg09374953	-0.018098904	clock2
+Horvath-pan-mammalian	cg09377007	-0.110760228	clock2
+Horvath-pan-mammalian	cg09453226	0.057659305	clock2
+Horvath-pan-mammalian	cg09461098	-0.115723588	clock2
+Horvath-pan-mammalian	cg09474015	-0.009735386	clock2
+Horvath-pan-mammalian	cg09482204	-0.023764229	clock2
+Horvath-pan-mammalian	cg09606114	-0.030537123	clock2
+Horvath-pan-mammalian	cg09629523	-0.03430037	clock2
+Horvath-pan-mammalian	cg09646392	0.189670079	clock2
+Horvath-pan-mammalian	cg09661809	0.02218746	clock2
+Horvath-pan-mammalian	cg09661817	0.144155241	clock2
+Horvath-pan-mammalian	cg09710440	0.877027426	clock2
+Horvath-pan-mammalian	cg09750164	0.012277698	clock2
+Horvath-pan-mammalian	cg09809672	-0.203516381	clock2
+Horvath-pan-mammalian	cg09817427	0.129808607	clock2
+Horvath-pan-mammalian	cg09989727	0.068012035	clock2
+Horvath-pan-mammalian	cg10045881	0.026199335	clock2
+Horvath-pan-mammalian	cg10128645	0.023349076	clock2
+Horvath-pan-mammalian	cg10146459	-0.024673088	clock2
+Horvath-pan-mammalian	cg10183248	-0.008189102	clock2
+Horvath-pan-mammalian	cg10186512	0.071397282	clock2
+Horvath-pan-mammalian	cg10211907	-0.017281166	clock2
+Horvath-pan-mammalian	cg10233638	-0.031574468	clock2
+Horvath-pan-mammalian	cg10235290	-0.052128427	clock2
+Horvath-pan-mammalian	cg10246778	0.012722939	clock2
+Horvath-pan-mammalian	cg10278760	-0.052540725	clock2
+Horvath-pan-mammalian	cg10381180	-0.017842965	clock2
+Horvath-pan-mammalian	cg10439738	0.110012017	clock2
+Horvath-pan-mammalian	cg10466667	-0.068272379	clock2
+Horvath-pan-mammalian	cg10491556	-0.007637685	clock2
+Horvath-pan-mammalian	cg10501210	-0.363250509	clock2
+Horvath-pan-mammalian	cg10559644	0.024059405	clock2
+Horvath-pan-mammalian	cg10609096	0.105603585	clock2
+Horvath-pan-mammalian	cg10644072	-0.144604457	clock2
+Horvath-pan-mammalian	cg10677704	-0.117856204	clock2
+Horvath-pan-mammalian	cg10681713	-0.000420184	clock2
+Horvath-pan-mammalian	cg10710448	-0.040461867	clock2
+Horvath-pan-mammalian	cg10711876	-0.016546049	clock2
+Horvath-pan-mammalian	cg10718271	-0.012586215	clock2
+Horvath-pan-mammalian	cg10739250	0.002172333	clock2
+Horvath-pan-mammalian	cg10757510	-0.019746063	clock2
+Horvath-pan-mammalian	cg10792727	-0.209564457	clock2
+Horvath-pan-mammalian	cg10801485	0.019371181	clock2
+Horvath-pan-mammalian	cg10893516	0.00795034	clock2
+Horvath-pan-mammalian	cg10916192	-0.065824821	clock2
+Horvath-pan-mammalian	cg10932472	-0.269568327	clock2
+Horvath-pan-mammalian	cg11082761	0.000171456	clock2
+Horvath-pan-mammalian	cg11084334	0.260997206	clock2
+Horvath-pan-mammalian	cg11108049	-0.031405424	clock2
+Horvath-pan-mammalian	cg11128281	0.124176363	clock2
+Horvath-pan-mammalian	cg11156581	-0.054427717	clock2
+Horvath-pan-mammalian	cg11160393	-0.000238263	clock2
+Horvath-pan-mammalian	cg11215098	3.32082E-06	clock2
+Horvath-pan-mammalian	cg11217865	-0.00584132	clock2
+Horvath-pan-mammalian	cg11235379	0.107546722	clock2
+Horvath-pan-mammalian	cg11251514	-0.033284821	clock2
+Horvath-pan-mammalian	cg11275232	0.23283098	clock2
+Horvath-pan-mammalian	cg11276577	-0.071035118	clock2
+Horvath-pan-mammalian	cg11327514	-0.035146833	clock2
+Horvath-pan-mammalian	cg11438204	0.449916169	clock2
+Horvath-pan-mammalian	cg11480265	-0.042846346	clock2
+Horvath-pan-mammalian	cg11488183	-0.055917172	clock2
+Horvath-pan-mammalian	cg11498355	-0.03166833	clock2
+Horvath-pan-mammalian	cg11514832	0.033804912	clock2
+Horvath-pan-mammalian	cg11516694	-0.041413538	clock2
+Horvath-pan-mammalian	cg11610869	0.028718373	clock2
+Horvath-pan-mammalian	cg11614630	0.077460709	clock2
+Horvath-pan-mammalian	cg11664765	0.098578016	clock2
+Horvath-pan-mammalian	cg11666770	0.00254153	clock2
+Horvath-pan-mammalian	cg11677981	0.061204522	clock2
+Horvath-pan-mammalian	cg11690941	0.115009097	clock2
+Horvath-pan-mammalian	cg11700079	0.150266491	clock2
+Horvath-pan-mammalian	cg11728741	0.201558694	clock2
+Horvath-pan-mammalian	cg11765970	-0.02297533	clock2
+Horvath-pan-mammalian	cg11803466	-0.166794264	clock2
+Horvath-pan-mammalian	cg11857072	-0.075030998	clock2
+Horvath-pan-mammalian	cg11904056	0.210083826	clock2
+Horvath-pan-mammalian	cg11948733	-0.09410502	clock2
+Horvath-pan-mammalian	cg11978813	-0.04369953	clock2
+Horvath-pan-mammalian	cg12156848	0.145222051	clock2
+Horvath-pan-mammalian	cg12201500	-0.000199577	clock2
+Horvath-pan-mammalian	cg12289045	0.025611486	clock2
+Horvath-pan-mammalian	cg12289788	0.150183514	clock2
+Horvath-pan-mammalian	cg12307242	0.060451006	clock2
+Horvath-pan-mammalian	cg12314723	-0.045197069	clock2
+Horvath-pan-mammalian	cg12325485	-0.049589466	clock2
+Horvath-pan-mammalian	cg12338698	-0.176506002	clock2
+Horvath-pan-mammalian	cg12373771	0.199846017	clock2
+Horvath-pan-mammalian	cg12382554	-0.04842871	clock2
+Horvath-pan-mammalian	cg12421693	0.008043911	clock2
+Horvath-pan-mammalian	cg12425327	0.004379692	clock2
+Horvath-pan-mammalian	cg12428891	0.013994006	clock2
+Horvath-pan-mammalian	cg12449245	0.124086526	clock2
+Horvath-pan-mammalian	cg12459916	0.000668363	clock2
+Horvath-pan-mammalian	cg12460432	-0.04552461	clock2
+Horvath-pan-mammalian	cg12492738	0.016728417	clock2
+Horvath-pan-mammalian	cg12501063	-0.162721611	clock2
+Horvath-pan-mammalian	cg12564910	0.022099875	clock2
+Horvath-pan-mammalian	cg12577973	0.009197342	clock2
+Horvath-pan-mammalian	cg12642246	0.085836748	clock2
+Horvath-pan-mammalian	cg12651099	0.113960561	clock2
+Horvath-pan-mammalian	cg12685265	0.178520639	clock2
+Horvath-pan-mammalian	cg12713245	-0.089356963	clock2
+Horvath-pan-mammalian	cg12721805	0.036616803	clock2
+Horvath-pan-mammalian	cg12722365	0.052229921	clock2
+Horvath-pan-mammalian	cg12733826	0.006594614	clock2
+Horvath-pan-mammalian	cg12761282	0.00805726	clock2
+Horvath-pan-mammalian	cg12813831	0.072547899	clock2
+Horvath-pan-mammalian	cg12815291	0.033550484	clock2
+Horvath-pan-mammalian	cg12818872	0.07716034	clock2
+Horvath-pan-mammalian	cg12830057	0.11119714	clock2
+Horvath-pan-mammalian	cg12841266	0.468898146	clock2
+Horvath-pan-mammalian	cg12879445	0.153740653	clock2
+Horvath-pan-mammalian	cg12880090	-0.103886945	clock2
+Horvath-pan-mammalian	cg12896068	0.069144007	clock2
+Horvath-pan-mammalian	cg12923877	0.406170665	clock2
+Horvath-pan-mammalian	cg12933950	-0.001822566	clock2
+Horvath-pan-mammalian	cg12942661	0.015511967	clock2
+Horvath-pan-mammalian	cg12965599	-0.05713607	clock2
+Horvath-pan-mammalian	cg12973326	-0.000286563	clock2
+Horvath-pan-mammalian	cg12981876	-0.021387704	clock2
+Horvath-pan-mammalian	cg13006563	0.106674583	clock2
+Horvath-pan-mammalian	cg13058338	0.302281469	clock2
+Horvath-pan-mammalian	cg13068315	-0.076510871	clock2
+Horvath-pan-mammalian	cg13087210	0.019254469	clock2
+Horvath-pan-mammalian	cg13151063	0.076046679	clock2
+Horvath-pan-mammalian	cg13153497	-0.038621079	clock2
+Horvath-pan-mammalian	cg13160087	0.076054887	clock2
+Horvath-pan-mammalian	cg13188467	-0.033961321	clock2
+Horvath-pan-mammalian	cg13242392	-0.658760922	clock2
+Horvath-pan-mammalian	cg13275239	-0.028503594	clock2
+Horvath-pan-mammalian	cg13343102	-0.006973368	clock2
+Horvath-pan-mammalian	cg13379618	0.000205347	clock2
+Horvath-pan-mammalian	cg13383038	-0.007110823	clock2
+Horvath-pan-mammalian	cg13400013	0.000642869	clock2
+Horvath-pan-mammalian	cg13532184	0.050780143	clock2
+Horvath-pan-mammalian	cg13589316	-0.024016947	clock2
+Horvath-pan-mammalian	cg13608832	-0.002692195	clock2
+Horvath-pan-mammalian	cg13609316	-0.021146231	clock2
+Horvath-pan-mammalian	cg13655781	-0.057980838	clock2
+Horvath-pan-mammalian	cg13702222	-0.121683963	clock2
+Horvath-pan-mammalian	cg13761591	0.134534113	clock2
+Horvath-pan-mammalian	cg13802785	0.175239887	clock2
+Horvath-pan-mammalian	cg13830021	-0.03237669	clock2
+Horvath-pan-mammalian	cg13851328	-0.011317945	clock2
+Horvath-pan-mammalian	cg13884903	-0.020089975	clock2
+Horvath-pan-mammalian	cg13916600	0.284185935	clock2
+Horvath-pan-mammalian	cg13935553	-0.02827456	clock2
+Horvath-pan-mammalian	cg13935834	0.037263243	clock2
+Horvath-pan-mammalian	cg13953571	0.079719791	clock2
+Horvath-pan-mammalian	cg14002724	0.003765222	clock2
+Horvath-pan-mammalian	cg14045036	-0.005173044	clock2
+Horvath-pan-mammalian	cg14056866	-0.004776292	clock2
+Horvath-pan-mammalian	cg14136214	-0.035231071	clock2
+Horvath-pan-mammalian	cg14155184	-0.001737025	clock2
+Horvath-pan-mammalian	cg14172937	-0.105931544	clock2
+Horvath-pan-mammalian	cg14237002	-0.207969983	clock2
+Horvath-pan-mammalian	cg14297772	-0.064508803	clock2
+Horvath-pan-mammalian	cg14299268	0.047005762	clock2
+Horvath-pan-mammalian	cg14322760	0.004394268	clock2
+Horvath-pan-mammalian	cg14334315	-0.058145483	clock2
+Horvath-pan-mammalian	cg14361627	0.008237039	clock2
+Horvath-pan-mammalian	cg14361875	-0.032572695	clock2
+Horvath-pan-mammalian	cg14381350	0.028072859	clock2
+Horvath-pan-mammalian	cg14443903	-0.103686704	clock2
+Horvath-pan-mammalian	cg14498322	-0.054456262	clock2
+Horvath-pan-mammalian	cg14517144	0.126461345	clock2
+Horvath-pan-mammalian	cg14548925	-0.057645196	clock2
+Horvath-pan-mammalian	cg14551953	0.002009695	clock2
+Horvath-pan-mammalian	cg14565725	-0.011076916	clock2
+Horvath-pan-mammalian	cg14640670	-0.004702758	clock2
+Horvath-pan-mammalian	cg14656600	-0.001148008	clock2
+Horvath-pan-mammalian	cg14666740	0.061125706	clock2
+Horvath-pan-mammalian	cg14668921	0.004469061	clock2
+Horvath-pan-mammalian	cg14676280	-0.138291862	clock2
+Horvath-pan-mammalian	cg14701342	0.025217848	clock2
+Horvath-pan-mammalian	cg14728312	0.063525432	clock2
+Horvath-pan-mammalian	cg14738500	0.023315556	clock2
+Horvath-pan-mammalian	cg14762358	-0.047473356	clock2
+Horvath-pan-mammalian	cg14794469	-0.08514724	clock2
+Horvath-pan-mammalian	cg14821110	-0.007301303	clock2
+Horvath-pan-mammalian	cg14865782	-0.022718582	clock2
+Horvath-pan-mammalian	cg14903956	-0.111425701	clock2
+Horvath-pan-mammalian	cg14919591	-0.290249893	clock2
+Horvath-pan-mammalian	cg14991111	0.040279155	clock2
+Horvath-pan-mammalian	cg15006148	-0.000973121	clock2
+Horvath-pan-mammalian	cg15009537	0.02664257	clock2
+Horvath-pan-mammalian	cg15030317	-0.012323883	clock2
+Horvath-pan-mammalian	cg15094970	0.004329447	clock2
+Horvath-pan-mammalian	cg15168457	0.230283185	clock2
+Horvath-pan-mammalian	cg15171944	0.00085034	clock2
+Horvath-pan-mammalian	cg15237969	-0.031452126	clock2
+Horvath-pan-mammalian	cg15254020	0.027396999	clock2
+Horvath-pan-mammalian	cg15298634	-2.91E-05	clock2
+Horvath-pan-mammalian	cg15330117	-0.0685643	clock2
+Horvath-pan-mammalian	cg15340018	0.127472117	clock2
+Horvath-pan-mammalian	cg15343536	0.107842832	clock2
+Horvath-pan-mammalian	cg15391310	2.20044E-05	clock2
+Horvath-pan-mammalian	cg15405572	-0.019221447	clock2
+Horvath-pan-mammalian	cg15408728	-0.096953158	clock2
+Horvath-pan-mammalian	cg15426572	-0.000552955	clock2
+Horvath-pan-mammalian	cg15437942	0.049477061	clock2
+Horvath-pan-mammalian	cg15471501	0.092334243	clock2
+Horvath-pan-mammalian	cg15511156	-0.013374007	clock2
+Horvath-pan-mammalian	cg15571405	-0.019370151	clock2
+Horvath-pan-mammalian	cg15701287	-0.072684111	clock2
+Horvath-pan-mammalian	cg15726426	0.020989726	clock2
+Horvath-pan-mammalian	cg15746205	-0.051515946	clock2
+Horvath-pan-mammalian	cg15804249	0.053462226	clock2
+Horvath-pan-mammalian	cg15809488	-0.225806446	clock2
+Horvath-pan-mammalian	cg15809618	-0.005317382	clock2
+Horvath-pan-mammalian	cg15813523	-0.00869009	clock2
+Horvath-pan-mammalian	cg15828158	-0.001222767	clock2
+Horvath-pan-mammalian	cg15913680	0.026140797	clock2
+Horvath-pan-mammalian	cg15991909	-0.050439903	clock2
+Horvath-pan-mammalian	cg16011662	-0.006363724	clock2
+Horvath-pan-mammalian	cg16095149	-0.00199108	clock2
+Horvath-pan-mammalian	cg16100840	0.013465617	clock2
+Horvath-pan-mammalian	cg16118197	0.003204089	clock2
+Horvath-pan-mammalian	cg16154416	-0.002024283	clock2
+Horvath-pan-mammalian	cg16159306	-0.036606141	clock2
+Horvath-pan-mammalian	cg16278638	-0.030811809	clock2
+Horvath-pan-mammalian	cg16286672	-0.034146123	clock2
+Horvath-pan-mammalian	cg16296826	-0.023985575	clock2
+Horvath-pan-mammalian	cg16356803	0.122298339	clock2
+Horvath-pan-mammalian	cg16376499	-0.248883104	clock2
+Horvath-pan-mammalian	cg16378867	-0.033135839	clock2
+Horvath-pan-mammalian	cg16391501	0.030968394	clock2
+Horvath-pan-mammalian	cg16437032	0.002837008	clock2
+Horvath-pan-mammalian	cg16454989	-0.008665484	clock2
+Horvath-pan-mammalian	cg16486681	-0.041432956	clock2
+Horvath-pan-mammalian	cg16542942	0.014174841	clock2
+Horvath-pan-mammalian	cg16550733	1.61248E-05	clock2
+Horvath-pan-mammalian	cg16571746	0.022568122	clock2
+Horvath-pan-mammalian	cg16582309	0.108058328	clock2
+Horvath-pan-mammalian	cg16591739	-0.013488214	clock2
+Horvath-pan-mammalian	cg16599143	0.003493221	clock2
+Horvath-pan-mammalian	cg16624401	-0.025830837	clock2
+Horvath-pan-mammalian	cg16671155	-0.070003096	clock2
+Horvath-pan-mammalian	cg16717607	-0.011711195	clock2
+Horvath-pan-mammalian	cg16745091	0.094461788	clock2
+Horvath-pan-mammalian	cg16756969	-0.008034885	clock2
+Horvath-pan-mammalian	cg16764906	0.020814855	clock2
+Horvath-pan-mammalian	cg16848873	-0.018308559	clock2
+Horvath-pan-mammalian	cg16853731	-0.005511473	clock2
+Horvath-pan-mammalian	cg16867657	0.10393954	clock2
+Horvath-pan-mammalian	cg16886381	-0.025650263	clock2
+Horvath-pan-mammalian	cg17114460	0.01664183	clock2
+Horvath-pan-mammalian	cg17116410	0.058502155	clock2
+Horvath-pan-mammalian	cg17139066	-0.087614936	clock2
+Horvath-pan-mammalian	cg17213306	0.009828545	clock2
+Horvath-pan-mammalian	cg17251355	0.02076741	clock2
+Horvath-pan-mammalian	cg17266282	0.003965565	clock2
+Horvath-pan-mammalian	cg17267107	0.08512332	clock2
+Horvath-pan-mammalian	cg17311369	-0.017594667	clock2
+Horvath-pan-mammalian	cg17318138	-0.001754638	clock2
+Horvath-pan-mammalian	cg17356452	9.47553E-05	clock2
+Horvath-pan-mammalian	cg17357006	0.015169366	clock2
+Horvath-pan-mammalian	cg17425418	-0.137266488	clock2
+Horvath-pan-mammalian	cg17437489	-0.073398172	clock2
+Horvath-pan-mammalian	cg17458251	-0.006390369	clock2
+Horvath-pan-mammalian	cg17504468	-0.004365077	clock2
+Horvath-pan-mammalian	cg17516812	-0.014273643	clock2
+Horvath-pan-mammalian	cg17604804	-0.043960398	clock2
+Horvath-pan-mammalian	cg17656607	0.015765194	clock2
+Horvath-pan-mammalian	cg17668518	0.030026861	clock2
+Horvath-pan-mammalian	cg17708456	0.055027367	clock2
+Horvath-pan-mammalian	cg17718834	0.032029928	clock2
+Horvath-pan-mammalian	cg17769560	-0.000220138	clock2
+Horvath-pan-mammalian	cg17776554	0.108330274	clock2
+Horvath-pan-mammalian	cg17783618	0.000174391	clock2
+Horvath-pan-mammalian	cg17818266	-0.016972799	clock2
+Horvath-pan-mammalian	cg17819031	0.001732605	clock2
+Horvath-pan-mammalian	cg17829569	0.037276802	clock2
+Horvath-pan-mammalian	cg17856858	-0.057663434	clock2
+Horvath-pan-mammalian	cg17905888	-4.58E-05	clock2
+Horvath-pan-mammalian	cg17986111	-0.21436639	clock2
+Horvath-pan-mammalian	cg18024395	-0.003985585	clock2
+Horvath-pan-mammalian	cg18060631	-0.110467548	clock2
+Horvath-pan-mammalian	cg18093751	-0.015757366	clock2
+Horvath-pan-mammalian	cg18094982	0.048230597	clock2
+Horvath-pan-mammalian	cg18168101	-0.082257755	clock2
+Horvath-pan-mammalian	cg18223258	-0.066451955	clock2
+Horvath-pan-mammalian	cg18281552	-0.030558565	clock2
+Horvath-pan-mammalian	cg18304538	0.209153012	clock2
+Horvath-pan-mammalian	cg18349747	0.021524322	clock2
+Horvath-pan-mammalian	cg18368305	-0.024403293	clock2
+Horvath-pan-mammalian	cg18419637	-0.200546657	clock2
+Horvath-pan-mammalian	cg18433728	-0.142364205	clock2
+Horvath-pan-mammalian	cg18481180	-0.015343677	clock2
+Horvath-pan-mammalian	cg18502834	-0.355206357	clock2
+Horvath-pan-mammalian	cg18526971	-0.142252854	clock2
+Horvath-pan-mammalian	cg18535797	0.013694948	clock2
+Horvath-pan-mammalian	cg18543660	0.047140321	clock2
+Horvath-pan-mammalian	cg18577444	-0.051350887	clock2
+Horvath-pan-mammalian	cg18635807	-0.025987816	clock2
+Horvath-pan-mammalian	cg18684142	-0.001517616	clock2
+Horvath-pan-mammalian	cg18691948	0.05016333	clock2
+Horvath-pan-mammalian	cg18787121	0.058768732	clock2
+Horvath-pan-mammalian	cg18814344	-0.029871407	clock2
+Horvath-pan-mammalian	cg18894136	-0.0029695	clock2
+Horvath-pan-mammalian	cg18918349	-0.325181027	clock2
+Horvath-pan-mammalian	cg18955753	-0.806855502	clock2
+Horvath-pan-mammalian	cg18961151	-0.032919858	clock2
+Horvath-pan-mammalian	cg18963985	-0.39825672	clock2
+Horvath-pan-mammalian	cg19017031	-0.310875694	clock2
+Horvath-pan-mammalian	cg19051359	0.028029867	clock2
+Horvath-pan-mammalian	cg19054310	-0.021146196	clock2
+Horvath-pan-mammalian	cg19090691	-0.029490256	clock2
+Horvath-pan-mammalian	cg19109204	-0.117021611	clock2
+Horvath-pan-mammalian	cg19134574	0.195597876	clock2
+Horvath-pan-mammalian	cg19195912	-0.136313614	clock2
+Horvath-pan-mammalian	cg19291010	-0.112876048	clock2
+Horvath-pan-mammalian	cg19291109	-0.17868243	clock2
+Horvath-pan-mammalian	cg19296119	-0.007126386	clock2
+Horvath-pan-mammalian	cg19296935	0.090043244	clock2
+Horvath-pan-mammalian	cg19319735	0.099561153	clock2
+Horvath-pan-mammalian	cg19342019	0.006902503	clock2
+Horvath-pan-mammalian	cg19361075	-0.022083948	clock2
+Horvath-pan-mammalian	cg19384462	-0.000848333	clock2
+Horvath-pan-mammalian	cg19411464	-0.036400136	clock2
+Horvath-pan-mammalian	cg19425332	-0.014870782	clock2
+Horvath-pan-mammalian	cg19513247	-0.246648979	clock2
+Horvath-pan-mammalian	cg19561061	-0.000685495	clock2
+Horvath-pan-mammalian	cg19573972	-0.004594839	clock2
+Horvath-pan-mammalian	cg19584582	-0.165340588	clock2
+Horvath-pan-mammalian	cg19591642	-0.148587686	clock2
+Horvath-pan-mammalian	cg19604874	0.20172422	clock2
+Horvath-pan-mammalian	cg19614548	0.083899511	clock2
+Horvath-pan-mammalian	cg19663246	-0.109630883	clock2
+Horvath-pan-mammalian	cg19692957	0.016905248	clock2
+Horvath-pan-mammalian	cg19707231	-0.118124274	clock2
+Horvath-pan-mammalian	cg19711579	0.086819319	clock2
+Horvath-pan-mammalian	cg19756587	0.01070489	clock2
+Horvath-pan-mammalian	cg19812206	0.103233243	clock2
+Horvath-pan-mammalian	cg19854621	-0.02281272	clock2
+Horvath-pan-mammalian	cg19891210	-0.045826303	clock2
+Horvath-pan-mammalian	cg19912994	0.113125304	clock2
+Horvath-pan-mammalian	cg19927064	0.499713498	clock2
+Horvath-pan-mammalian	cg19931377	-0.038987411	clock2
+Horvath-pan-mammalian	cg19981759	0.106598551	clock2
+Horvath-pan-mammalian	cg20023049	0.00073896	clock2
+Horvath-pan-mammalian	cg20025209	-0.006134412	clock2
+Horvath-pan-mammalian	cg20033770	0.018482233	clock2
+Horvath-pan-mammalian	cg20049544	-0.044897523	clock2
+Horvath-pan-mammalian	cg20076842	-0.052299545	clock2
+Horvath-pan-mammalian	cg20083419	-0.040762378	clock2
+Horvath-pan-mammalian	cg20100200	0.056578028	clock2
+Horvath-pan-mammalian	cg20194417	0.015584833	clock2
+Horvath-pan-mammalian	cg20212950	-0.326965365	clock2
+Horvath-pan-mammalian	cg20221627	-0.387823943	clock2
+Horvath-pan-mammalian	cg20306751	-0.329608183	clock2
+Horvath-pan-mammalian	cg20334331	5.10393E-06	clock2
+Horvath-pan-mammalian	cg20345626	-0.014010139	clock2
+Horvath-pan-mammalian	cg20370622	0.250081581	clock2
+Horvath-pan-mammalian	cg20422755	-0.070184034	clock2
+Horvath-pan-mammalian	cg20424997	0.165044824	clock2
+Horvath-pan-mammalian	cg20432508	0.137178144	clock2
+Horvath-pan-mammalian	cg20452275	-0.000245457	clock2
+Horvath-pan-mammalian	cg20483513	-0.038129911	clock2
+Horvath-pan-mammalian	cg20527060	-0.003205307	clock2
+Horvath-pan-mammalian	cg20565386	0.046997436	clock2
+Horvath-pan-mammalian	cg20583171	0.003947228	clock2
+Horvath-pan-mammalian	cg20615601	-0.155652468	clock2
+Horvath-pan-mammalian	cg20635820	0.093441118	clock2
+Horvath-pan-mammalian	cg20705693	-0.130463732	clock2
+Horvath-pan-mammalian	cg20766695	0.430661937	clock2
+Horvath-pan-mammalian	cg20804050	-0.410231197	clock2
+Horvath-pan-mammalian	cg20865948	-0.016083107	clock2
+Horvath-pan-mammalian	cg20867091	-0.005345927	clock2
+Horvath-pan-mammalian	cg20884304	0.04754882	clock2
+Horvath-pan-mammalian	cg20895555	-0.232369006	clock2
+Horvath-pan-mammalian	cg21030623	0.170919872	clock2
+Horvath-pan-mammalian	cg21089733	-0.006585158	clock2
+Horvath-pan-mammalian	cg21102477	-0.03769471	clock2
+Horvath-pan-mammalian	cg21126148	0.02242612	clock2
+Horvath-pan-mammalian	cg21180487	0.027751492	clock2
+Horvath-pan-mammalian	cg21246299	-0.020862072	clock2
+Horvath-pan-mammalian	cg21278764	-0.027436899	clock2
+Horvath-pan-mammalian	cg21351544	0.108055523	clock2
+Horvath-pan-mammalian	cg21390586	-0.029650148	clock2
+Horvath-pan-mammalian	cg21509426	-0.003749767	clock2
+Horvath-pan-mammalian	cg21510166	0.00463972	clock2
+Horvath-pan-mammalian	cg21513836	-0.001136062	clock2
+Horvath-pan-mammalian	cg21590845	-0.027315258	clock2
+Horvath-pan-mammalian	cg21602520	-0.029845906	clock2
+Horvath-pan-mammalian	cg21608448	0.04109936	clock2
+Horvath-pan-mammalian	cg21617338	0.073829325	clock2
+Horvath-pan-mammalian	cg21633990	0.010667986	clock2
+Horvath-pan-mammalian	cg21703944	-0.120083957	clock2
+Horvath-pan-mammalian	cg21839725	0.028272873	clock2
+Horvath-pan-mammalian	cg21847954	-0.002589985	clock2
+Horvath-pan-mammalian	cg21907062	0.178163952	clock2
+Horvath-pan-mammalian	cg22040809	-3.89E-05	clock2
+Horvath-pan-mammalian	cg22057106	-0.129713946	clock2
+Horvath-pan-mammalian	cg22067905	0.167199443	clock2
+Horvath-pan-mammalian	cg22069272	-0.076681466	clock2
+Horvath-pan-mammalian	cg22100382	0.066634267	clock2
+Horvath-pan-mammalian	cg22122198	0.012861075	clock2
+Horvath-pan-mammalian	cg22144210	0.076098271	clock2
+Horvath-pan-mammalian	cg22146484	-0.208264358	clock2
+Horvath-pan-mammalian	cg22204849	-0.061520178	clock2
+Horvath-pan-mammalian	cg22212874	-0.007693704	clock2
+Horvath-pan-mammalian	cg22234802	-0.181007537	clock2
+Horvath-pan-mammalian	cg22267613	-0.100028464	clock2
+Horvath-pan-mammalian	cg22338839	-0.27893221	clock2
+Horvath-pan-mammalian	cg22354333	-0.310264817	clock2
+Horvath-pan-mammalian	cg22380921	-0.081145751	clock2
+Horvath-pan-mammalian	cg22409694	0.019212292	clock2
+Horvath-pan-mammalian	cg22416332	-0.080980926	clock2
+Horvath-pan-mammalian	cg22432362	0.087306049	clock2
+Horvath-pan-mammalian	cg22454769	0.059316456	clock2
+Horvath-pan-mammalian	cg22588813	0.053902284	clock2
+Horvath-pan-mammalian	cg22661680	-0.105926618	clock2
+Horvath-pan-mammalian	cg22673296	-0.009805465	clock2
+Horvath-pan-mammalian	cg22703759	-0.029280695	clock2
+Horvath-pan-mammalian	cg22710034	-0.037207149	clock2
+Horvath-pan-mammalian	cg22805522	0.062885779	clock2
+Horvath-pan-mammalian	cg22882174	0.064524491	clock2
+Horvath-pan-mammalian	cg22901671	-0.022459391	clock2
+Horvath-pan-mammalian	cg22903204	0.013940128	clock2
+Horvath-pan-mammalian	cg22914193	-0.000212958	clock2
+Horvath-pan-mammalian	cg22943590	-0.115546163	clock2
+Horvath-pan-mammalian	cg23076498	0.002058465	clock2
+Horvath-pan-mammalian	cg23087015	0.294324742	clock2
+Horvath-pan-mammalian	cg23088328	0.057521826	clock2
+Horvath-pan-mammalian	cg23089474	0.35836149	clock2
+Horvath-pan-mammalian	cg23108693	-0.01793337	clock2
+Horvath-pan-mammalian	cg23120731	-0.017842342	clock2
+Horvath-pan-mammalian	cg23148651	0.165415598	clock2
+Horvath-pan-mammalian	cg23183090	-0.033949768	clock2
+Horvath-pan-mammalian	cg23272565	0.036808152	clock2
+Horvath-pan-mammalian	cg23287176	0.016106371	clock2
+Horvath-pan-mammalian	cg23298936	0.000374762	clock2
+Horvath-pan-mammalian	cg23314464	0.002465969	clock2
+Horvath-pan-mammalian	cg23337318	0.123154136	clock2
+Horvath-pan-mammalian	cg23344477	-0.047520685	clock2
+Horvath-pan-mammalian	cg23405931	0.000649456	clock2
+Horvath-pan-mammalian	cg23415880	0.154549033	clock2
+Horvath-pan-mammalian	cg23423329	-0.045249336	clock2
+Horvath-pan-mammalian	cg23449696	0.101267265	clock2
+Horvath-pan-mammalian	cg23510032	-0.089145078	clock2
+Horvath-pan-mammalian	cg23567910	0.044408355	clock2
+Horvath-pan-mammalian	cg23573900	0.011968938	clock2
+Horvath-pan-mammalian	cg23646867	0.031537872	clock2
+Horvath-pan-mammalian	cg23752476	0.009113496	clock2
+Horvath-pan-mammalian	cg23778391	-0.118417685	clock2
+Horvath-pan-mammalian	cg23783364	0.049167972	clock2
+Horvath-pan-mammalian	cg23940242	-0.028748	clock2
+Horvath-pan-mammalian	cg23948922	-0.09690135	clock2
+Horvath-pan-mammalian	cg23985931	0.22094267	clock2
+Horvath-pan-mammalian	cg23998570	-0.044892504	clock2
+Horvath-pan-mammalian	cg24024857	-0.198250856	clock2
+Horvath-pan-mammalian	cg24055081	-0.095379443	clock2
+Horvath-pan-mammalian	cg24087602	-0.08416399	clock2
+Horvath-pan-mammalian	cg24104506	0.001033712	clock2
+Horvath-pan-mammalian	cg24352905	0.509274972	clock2
+Horvath-pan-mammalian	cg24393114	0.073844273	clock2
+Horvath-pan-mammalian	cg24434315	0.005007768	clock2
+Horvath-pan-mammalian	cg24488281	-0.121955062	clock2
+Horvath-pan-mammalian	cg24504442	0.194803463	clock2
+Horvath-pan-mammalian	cg24551749	0.028108724	clock2
+Horvath-pan-mammalian	cg24557436	0.065404134	clock2
+Horvath-pan-mammalian	cg24580312	0.000265712	clock2
+Horvath-pan-mammalian	cg24597392	0.180382833	clock2
+Horvath-pan-mammalian	cg24615318	-0.018397649	clock2
+Horvath-pan-mammalian	cg24653269	-0.10026128	clock2
+Horvath-pan-mammalian	cg24866378	-0.062429257	clock2
+Horvath-pan-mammalian	cg24866418	0.312536745	clock2
+Horvath-pan-mammalian	cg24924928	0.072277747	clock2
+Horvath-pan-mammalian	cg24927890	-0.05302626	clock2
+Horvath-pan-mammalian	cg24952195	0.065856574	clock2
+Horvath-pan-mammalian	cg24975211	-0.008658588	clock2
+Horvath-pan-mammalian	cg25047480	0.159832314	clock2
+Horvath-pan-mammalian	cg25055739	-0.042345772	clock2
+Horvath-pan-mammalian	cg25108269	-0.043015876	clock2
+Horvath-pan-mammalian	cg25139325	-0.42765557	clock2
+Horvath-pan-mammalian	cg25140691	0.0033839	clock2
+Horvath-pan-mammalian	cg25184118	-0.108871608	clock2
+Horvath-pan-mammalian	cg25184464	-0.011889066	clock2
+Horvath-pan-mammalian	cg25195795	0.076087466	clock2
+Horvath-pan-mammalian	cg25217825	0.003216797	clock2
+Horvath-pan-mammalian	cg25229850	-0.060918021	clock2
+Horvath-pan-mammalian	cg25278124	0.159114903	clock2
+Horvath-pan-mammalian	cg25368206	0.016105737	clock2
+Horvath-pan-mammalian	cg25381383	0.041631536	clock2
+Horvath-pan-mammalian	cg25410683	-0.085329616	clock2
+Horvath-pan-mammalian	cg25430089	-0.020268953	clock2
+Horvath-pan-mammalian	cg25467897	-0.140293455	clock2
+Horvath-pan-mammalian	cg25518911	-0.010182216	clock2
+Horvath-pan-mammalian	cg25615279	-0.00280266	clock2
+Horvath-pan-mammalian	cg25622623	0.18092974	clock2
+Horvath-pan-mammalian	cg25639084	5.2396E-05	clock2
+Horvath-pan-mammalian	cg25649550	0.011325588	clock2
+Horvath-pan-mammalian	cg25651791	-0.010173533	clock2
+Horvath-pan-mammalian	cg25662803	0.009361139	clock2
+Horvath-pan-mammalian	cg25687751	-0.184949697	clock2
+Horvath-pan-mammalian	cg25694286	0.03906294	clock2
+Horvath-pan-mammalian	cg25699407	0.016269336	clock2
+Horvath-pan-mammalian	cg25731502	-0.046427291	clock2
+Horvath-pan-mammalian	cg25771548	-0.02646563	clock2
+Horvath-pan-mammalian	cg25805807	-0.320456857	clock2
+Horvath-pan-mammalian	cg25824158	-0.019594811	clock2
+Horvath-pan-mammalian	cg25905455	-0.048321972	clock2
+Horvath-pan-mammalian	cg25906744	0.025919774	clock2
+Horvath-pan-mammalian	cg25950871	-0.269582056	clock2
+Horvath-pan-mammalian	cg25960060	-0.125528889	clock2
+Horvath-pan-mammalian	cg26032884	0.004237064	clock2
+Horvath-pan-mammalian	cg26045960	-0.030939129	clock2
+Horvath-pan-mammalian	cg26062663	-0.024188218	clock2
+Horvath-pan-mammalian	cg26067250	0.202248114	clock2
+Horvath-pan-mammalian	cg26072749	-0.07771169	clock2
+Horvath-pan-mammalian	cg26102159	-0.050198557	clock2
+Horvath-pan-mammalian	cg26120306	-0.110019428	clock2
+Horvath-pan-mammalian	cg26234822	-0.055126606	clock2
+Horvath-pan-mammalian	cg26260350	0.07759569	clock2
+Horvath-pan-mammalian	cg26275174	-6.60E-06	clock2
+Horvath-pan-mammalian	cg26363341	0.06259674	clock2
+Horvath-pan-mammalian	cg26420776	0.038035306	clock2
+Horvath-pan-mammalian	cg26425570	-0.013206227	clock2
+Horvath-pan-mammalian	cg26474314	0.045734696	clock2
+Horvath-pan-mammalian	cg26476447	-0.242123005	clock2
+Horvath-pan-mammalian	cg26512254	0.693059678	clock2
+Horvath-pan-mammalian	cg26581729	-0.127904686	clock2
+Horvath-pan-mammalian	cg26594414	-0.024796396	clock2
+Horvath-pan-mammalian	cg26598122	-0.1126144	clock2
+Horvath-pan-mammalian	cg26603143	-0.077328235	clock2
+Horvath-pan-mammalian	cg26616379	-0.424801411	clock2
+Horvath-pan-mammalian	cg26709300	-0.065382425	clock2
+Horvath-pan-mammalian	cg26781330	0.006896698	clock2
+Horvath-pan-mammalian	cg26844246	0.208010479	clock2
+Horvath-pan-mammalian	cg26845017	-0.036741219	clock2
+Horvath-pan-mammalian	cg26845448	0.023735756	clock2
+Horvath-pan-mammalian	cg26869371	-0.053183747	clock2
+Horvath-pan-mammalian	cg26885075	-0.001695069	clock2
+Horvath-pan-mammalian	cg26917960	0.000871896	clock2
+Horvath-pan-mammalian	cg26920416	0.061176379	clock2
+Horvath-pan-mammalian	cg26957053	0.014348496	clock2
+Horvath-pan-mammalian	cg26973693	0.033974607	clock2
+Horvath-pan-mammalian	cg26989456	-0.00046464	clock2
+Horvath-pan-mammalian	cg27035369	-0.031690947	clock2
+Horvath-pan-mammalian	cg27096599	0.017054725	clock2
+Horvath-pan-mammalian	cg27201382	0.523617881	clock2
+Horvath-pan-mammalian	cg27208859	0.046076245	clock2
+Horvath-pan-mammalian	cg27228973	-0.099499472	clock2
+Horvath-pan-mammalian	cg27242082	0.013757625	clock2
+Horvath-pan-mammalian	cg27275508	-0.000925784	clock2
+Horvath-pan-mammalian	cg27291552	-0.012516233	clock2
+Horvath-pan-mammalian	cg27291660	0.025200246	clock2
+Horvath-pan-mammalian	cg27294582	-0.036941452	clock2
+Horvath-pan-mammalian	cg27299745	-0.022374323	clock2
+Horvath-pan-mammalian	cg27300575	-0.06230598	clock2
+Horvath-pan-mammalian	cg27430422	0.21164923	clock2
+Horvath-pan-mammalian	cg27492942	-0.026234893	clock2
+Horvath-pan-mammalian	cg27547112	0.02947715	clock2
+Horvath-pan-mammalian	cg27593991	-0.088300422	clock2
+Horvath-pan-mammalian	cg27637521	0.008219951	clock2
+Horvath-pan-mammalian	cg00101675	-0.101353504	clock3
+Horvath-pan-mammalian	cg06259996	0.045149111	clock3
+Horvath-pan-mammalian	cg08938156	0.663271652	clock3
+Horvath-pan-mammalian	cg15168457	0.766234115	clock3
+Horvath-pan-mammalian	cg20370622	0.5491911	clock3
+Horvath-pan-mammalian	cg27593991	-0.369411124	clock3
+Horvath-pan-mammalian	cg20146241	-0.002222729	clock3
+Horvath-pan-mammalian	cg03747401	0.000492682	clock3
+Horvath-pan-mammalian	cg15403305	-0.000253547	clock3
+Horvath-pan-mammalian	cg02692845	-0.490593662	clock3
+Horvath-pan-mammalian	cg03679521	0.282266721	clock3
+Horvath-pan-mammalian	cg20236179	-0.102320369	clock3
+Horvath-pan-mammalian	cg11700079	0.358728283	clock3
+Horvath-pan-mammalian	cg01910711	0.179244863	clock3
+Horvath-pan-mammalian	cg14880272	-0.008148167	clock3
+Horvath-pan-mammalian	cg10501210	-0.277377634	clock3
+Horvath-pan-mammalian	cg26844246	0.160138445	clock3
+Horvath-pan-mammalian	cg04889095	0.222007631	clock3
+Horvath-pan-mammalian	cg13532184	0.289516582	clock3
+Horvath-pan-mammalian	cg24312350	0.161830401	clock3
+Horvath-pan-mammalian	cg26603143	-0.72555414	clock3
+Horvath-pan-mammalian	cg06482098	-0.069266116	clock3
+Horvath-pan-mammalian	cg19927064	1.412476859	clock3
+Horvath-pan-mammalian	cg08180952	0.218489613	clock3
+Horvath-pan-mammalian	cg10040836	-0.002598804	clock3
+Horvath-pan-mammalian	cg11686722	0.248000996	clock3
+Horvath-pan-mammalian	cg14297772	-0.212410327	clock3
+Horvath-pan-mammalian	cg11857072	-0.336689496	clock3
+Horvath-pan-mammalian	cg12501063	-0.229105127	clock3
+Horvath-pan-mammalian	cg14136214	-0.031930305	clock3
+Horvath-pan-mammalian	cg18168101	-0.129017152	clock3
+Horvath-pan-mammalian	cg15330117	-0.080674221	clock3
+Horvath-pan-mammalian	cg18418719	1.806027578	clock3
+Horvath-pan-mammalian	cg26845448	0.306361532	clock3
+Horvath-pan-mammalian	cg09474015	-0.480858001	clock3
+Horvath-pan-mammalian	cg07727941	-0.089030437	clock3
+Horvath-pan-mammalian	cg07991826	0.585346756	clock3
+Horvath-pan-mammalian	cg08510667	0.031267603	clock3
+Horvath-pan-mammalian	cg09606114	-0.129866284	clock3
+Horvath-pan-mammalian	cg21102477	-0.073397784	clock3
+Horvath-pan-mammalian	cg20023049	0.169354121	clock3
+Horvath-pan-mammalian	cg20804050	-1.321369915	clock3
+Horvath-pan-mammalian	cg25383995	-0.01341132	clock3
+Horvath-pan-mammalian	cg16717607	-0.046869846	clock3
+Horvath-pan-mammalian	cg22454769	0.000639658	clock3
+Horvath-pan-mammalian	cg26148010	0.034281503	clock3
+Horvath-pan-mammalian	cg25066947	-0.023362729	clock3
+Horvath-pan-mammalian	cg01019040	-0.001225076	clock3
+Horvath-pan-mammalian	cg25467897	-0.25262615	clock3
+Horvath-pan-mammalian	cg01998606	0.208019228	clock3
+Horvath-pan-mammalian	cg02828846	0.097898009	clock3
+Horvath-pan-mammalian	cg14172937	-0.07573239	clock3
+Horvath-pan-mammalian	cg22338839	-0.546324871	clock3
+Horvath-pan-mammalian	cg22844979	-0.025418919	clock3
+Horvath-pan-mammalian	cg08681110	0.172314244	clock3
+Horvath-pan-mammalian	cg09362546	-0.162794225	clock3
+Horvath-pan-mammalian	cg12325485	-0.177777194	clock3
+Horvath-pan-mammalian	cg15229894	-0.014541432	clock3
+Horvath-pan-mammalian	cg07423797	0.102672185	clock3
+Horvath-pan-mammalian	cg18060631	-0.274194105	clock3
+Horvath-pan-mammalian	cg02499612	-0.123567785	clock3
+Horvath-pan-mammalian	cg14865782	-0.147606142	clock3
+Horvath-pan-mammalian	cg20212950	-0.469851341	clock3
+Horvath-pan-mammalian	cg04847707	-0.067071704	clock3
+Horvath-pan-mammalian	cg16867657	0.09370173	clock3
+Horvath-pan-mammalian	cg17266282	0.05051112	clock3
+Horvath-pan-mammalian	cg18468088	0.041370545	clock3
+Horvath-pan-mammalian	cg26781330	0.109453558	clock3
+Horvath-pan-mammalian	cg04186556	-0.242846899	clock3
+Horvath-pan-mammalian	cg05911522	-0.016089608	clock3
+Horvath-pan-mammalian	cg17201550	0.163603368	clock3
+Horvath-pan-mammalian	cg18573296	0.112850107	clock3
+Horvath-pan-mammalian	cg11128281	0.257841317	clock3
+Horvath-pan-mammalian	cg11664765	0.380126654	clock3
+Horvath-pan-mammalian	cg25622623	0.111890056	clock3
+Horvath-pan-mammalian	cg27495736	-0.159510583	clock3
+Horvath-pan-mammalian	cg03708116	0.073436361	clock3
+Horvath-pan-mammalian	cg00900734	-0.001842275	clock3
+Horvath-pan-mammalian	cg00535482	-0.151438496	clock3
+Horvath-pan-mammalian	cg11666770	0.07125447	clock3
+Horvath-pan-mammalian	cg15547854	-0.06273339	clock3
+Horvath-pan-mammalian	cg20265593	0.537666428	clock3
+Horvath-pan-mammalian	cg17049911	0.098395831	clock3
+Horvath-pan-mammalian	cg21084050	-0.058267433	clock3
+Horvath-pan-mammalian	cg12815291	0.031182491	clock3
+Horvath-pan-mammalian	cg13496662	-0.084438948	clock3
+Horvath-pan-mammalian	cg02041553	0.69422447	clock3
+Horvath-pan-mammalian	cg05191959	-3.764436323	clock3
+Horvath-pan-mammalian	cg22113843	0.152062484	clock3
+Horvath-pan-mammalian	cg23754860	-0.225936545	clock3
+Horvath-pan-mammalian	cg25210084	0.001086359	clock3
+Horvath-pan-mammalian	cg12651099	0.253632619	clock3
+Horvath-pan-mammalian	cg20076842	-0.107928798	clock3
+Horvath-pan-mammalian	cg01150494	0.575928418	clock3
+Horvath-pan-mammalian	cg15571405	-0.205716271	clock3
+Horvath-pan-mammalian	cg12756474	-0.100706799	clock3
+Horvath-pan-mammalian	cg13057591	-0.012233343	clock3
+Horvath-pan-mammalian	cg09710440	1.85468949	clock3
+Horvath-pan-mammalian	cg26917960	0.177633092	clock3
+Horvath-pan-mammalian	cg21390586	-0.47211837	clock3
+Horvath-pan-mammalian	cg25140691	0.149110906	clock3
+Horvath-pan-mammalian	cg00310215	0.022029465	clock3
+Horvath-pan-mammalian	cg15809488	-0.471813578	clock3
+Horvath-pan-mammalian	cg01486146	0.125366903	clock3
+Horvath-pan-mammalian	cg05575054	0.094140661	clock3
+Horvath-pan-mammalian	cg23087015	0.690743561	clock3
+Horvath-pan-mammalian	cg09461098	-0.331083197	clock3
+Horvath-pan-mammalian	cg13909487	0.469459236	clock3
+Horvath-pan-mammalian	cg19591642	-0.293056301	clock3
+Horvath-pan-mammalian	cg07005811	-0.054121743	clock3
+Horvath-pan-mammalian	cg03663497	0.053377289	clock3
+Horvath-pan-mammalian	cg12053353	-0.02622204	clock3
+Horvath-pan-mammalian	cg11025714	-0.027340452	clock3
+Horvath-pan-mammalian	cg13753818	-0.001021425	clock3
+Horvath-pan-mammalian	cg10644072	-0.076933725	clock3
+Horvath-pan-mammalian	cg15746205	-0.190510715	clock3
+Horvath-pan-mammalian	cg09227056	1.436995391	clock3
+Horvath-pan-mammalian	cg13233081	-0.003364372	clock3
+Horvath-pan-mammalian	cg18141557	0.128817887	clock3
+Horvath-pan-mammalian	cg19711579	1.133288617	clock3
+Horvath-pan-mammalian	cg11084334	0.475738408	clock3
+Horvath-pan-mammalian	cg12841266	0.999456681	clock3
+Horvath-pan-mammalian	cg13702222	-0.19236484	clock3
+Horvath-pan-mammalian	cg19981759	0.024873945	clock3
+Horvath-pan-mammalian	cg23449696	0.164127402	clock3
+Horvath-pan-mammalian	cg24866418	0.540912434	clock3
+Horvath-pan-mammalian	cg25731502	-0.075896887	clock3
+Horvath-pan-mammalian	cg12428891	0.197037276	clock3
+Horvath-pan-mammalian	cg15741341	-0.011315598	clock3
+Horvath-pan-mammalian	cg12880090	-0.105456877	clock3
+Horvath-pan-mammalian	cg18304538	0.275639808	clock3
+Horvath-pan-mammalian	cg20615601	-0.238719201	clock3
+Horvath-pan-mammalian	cg24352905	1.73821818	clock3
+Horvath-pan-mammalian	cg27088374	-0.172613429	clock3
+Horvath-pan-mammalian	cg09817427	0.516067401	clock3
+Horvath-pan-mammalian	cg17215796	-0.010448122	clock3
+Horvath-pan-mammalian	cg27072792	-0.027400495	clock3
+Horvath-pan-mammalian	cg27201382	0.811053405	clock3
+Horvath-pan-mammalian	cg08563010	-0.317955569	clock3
+Horvath-pan-mammalian	cg10466667	-0.247705629	clock3
+Horvath-pan-mammalian	cg14903956	-0.083714102	clock3
+Horvath-pan-mammalian	cg18894136	-0.016046642	clock3
+Horvath-pan-mammalian	cg22069272	-0.291975844	clock3
+Horvath-pan-mammalian	cg23415880	0.033510249	clock3
+Horvath-pan-mammalian	cg23985931	0.159317241	clock3
+Horvath-pan-mammalian	cg12879445	0.357544055	clock3
+Horvath-pan-mammalian	cg11235379	0.303685223	clock3
+Horvath-pan-mammalian	cg15437942	0.122866361	clock3
+Horvath-pan-mammalian	cg16454989	-0.06611515	clock3
+Horvath-pan-mammalian	cg17856858	-0.12830834	clock3
+Horvath-pan-mammalian	cg20766695	1.063112086	clock3
+Horvath-pan-mammalian	cg26312920	-0.002258321	clock3
+Horvath-pan-mammalian	cg07547549	0.668011925	clock3
+Horvath-pan-mammalian	cg01846532	-0.137163732	clock3
+Horvath-pan-mammalian	cg02766818	0.330954773	clock3
+Horvath-pan-mammalian	cg27698932	-0.109354376	clock3
+Horvath-pan-mammalian	cg24707133	-0.058603395	clock3
+Horvath-pan-mammalian	cg19719499	0.068618538	clock3
+Horvath-pan-mammalian	cg21132526	0.036681333	clock3
+Horvath-pan-mammalian	cg27507315	-0.177939565	clock3
+Horvath-pan-mammalian	cg05704605	0.448091842	clock3
+Horvath-pan-mammalian	cg18963985	-1.121128425	clock3
+Horvath-pan-mammalian	cg16554811	0.058233331	clock3
+Horvath-pan-mammalian	cg15855274	0.016753779	clock3
+Horvath-pan-mammalian	cg15702573	-0.006734195	clock3
+Horvath-pan-mammalian	cg21815434	0.107073217	clock3
+Horvath-pan-mammalian	cg00650422	0.148391343	clock3
+Horvath-pan-mammalian	cg17369088	-0.071507012	clock3
+Horvath-pan-mammalian	cg25055739	-0.005081568	clock3
+Horvath-pan-mammalian	cg21602520	-0.006300446	clock3
+Horvath-pan-mammalian	cg22416332	-0.343624744	clock3
+Horvath-pan-mammalian	cg07292994	-0.213066626	clock3
+Horvath-pan-mammalian	cg21673805	-0.088464834	clock3
+Horvath-pan-mammalian	cg09809672	-0.299948654	clock3
+Horvath-pan-mammalian	cg12338698	-0.429965158	clock3
+Horvath-pan-mammalian	cg09984378	-0.17529134	clock3
+Horvath-pan-mammalian	cg19368807	-0.003501837	clock3
+Horvath-pan-mammalian	cg26589497	-0.084441888	clock3
+Horvath-pan-mammalian	cg07373156	-0.010921079	clock3
+Horvath-pan-mammalian	cg05039938	-0.11980594	clock3
+Horvath-pan-mammalian	cg06997801	0.879050117	clock3
+Horvath-pan-mammalian	cg07172031	-0.139393158	clock3
+Horvath-pan-mammalian	cg07564343	-0.059142465	clock3
+Horvath-pan-mammalian	cg07932605	0.003474129	clock3
+Horvath-pan-mammalian	cg08651129	-0.210809633	clock3
+Horvath-pan-mammalian	cg11677981	0.151532645	clock3
+Horvath-pan-mammalian	cg13589316	-0.116098346	clock3
+Horvath-pan-mammalian	cg14361875	-0.078773803	clock3
+Horvath-pan-mammalian	cg10810311	-0.002959966	clock3
+Horvath-pan-mammalian	cg10916192	-0.006764545	clock3
+Horvath-pan-mammalian	cg10930156	0.667346607	clock3
+Horvath-pan-mammalian	cg11214667	-0.044423093	clock3
+Horvath-pan-mammalian	cg11407867	-0.685978061	clock3
+Horvath-pan-mammalian	cg16286672	-0.012404138	clock3
+Horvath-pan-mammalian	cg16367356	-0.01141503	clock3
+Horvath-pan-mammalian	cg16636772	-0.002580468	clock3
+Horvath-pan-mammalian	cg16745091	0.258721628	clock3
+Horvath-pan-mammalian	cg16981766	0.009542793	clock3
+Horvath-pan-mammalian	cg16376499	-0.561652137	clock3
+Horvath-pan-mammalian	cg16624401	-0.160348286	clock3
+Horvath-pan-mammalian	cg11438204	0.648551985	clock3
+Horvath-pan-mammalian	cg11516694	-0.298006473	clock3
+Horvath-pan-mammalian	cg11864223	-0.102898692	clock3
+Horvath-pan-mammalian	cg12307242	0.154614602	clock3
+Horvath-pan-mammalian	cg12685265	0.716542527	clock3
+Horvath-pan-mammalian	cg12981876	-0.03612098	clock3
+Horvath-pan-mammalian	cg13188467	-5.22E-05	clock3
+Horvath-pan-mammalian	cg14397160	0.089876334	clock3
+Horvath-pan-mammalian	cg14728312	0.012684066	clock3
+Horvath-pan-mammalian	cg05111574	-0.048398641	clock3
+Horvath-pan-mammalian	cg06799948	0.488363422	clock3
+Horvath-pan-mammalian	cg12642246	0.10851454	clock3
+Horvath-pan-mammalian	cg13916600	0.205651803	clock3
+Horvath-pan-mammalian	cg15182157	-0.0441715	clock3
+Horvath-pan-mammalian	cg26869371	-0.001102866	clock3
+Horvath-pan-mammalian	cg01938132	-0.05659672	clock3
+Horvath-pan-mammalian	cg03247467	-0.078234496	clock3
+Horvath-pan-mammalian	cg09360996	-0.26521743	clock3
+Horvath-pan-mammalian	cg26294431	0.022414867	clock3
+Horvath-pan-mammalian	cg26363341	0.17555226	clock3
+Horvath-pan-mammalian	cg26736130	-0.012583717	clock3
+Horvath-pan-mammalian	cg02963786	-0.194348322	clock3
+Horvath-pan-mammalian	cg18535797	0.057663626	clock3
+Horvath-pan-mammalian	cg19414994	0.006338182	clock3
+Horvath-pan-mammalian	cg20221627	-0.067873466	clock3
+Horvath-pan-mammalian	cg14412072	-0.028105971	clock3
+Horvath-pan-mammalian	cg15810562	-0.276014296	clock3
+Horvath-pan-mammalian	cg17041137	-0.01845432	clock3
+Horvath-pan-mammalian	cg17356452	0.0419814	clock3
+Horvath-pan-mammalian	cg26581729	-0.137446366	clock3
+Horvath-pan-mammalian	cg14517144	0.438544955	clock3
+Horvath-pan-mammalian	cg15597031	0.119983765	clock3
+Horvath-pan-mammalian	cg15686078	-0.247259164	clock3
+Horvath-pan-mammalian	cg26102159	-0.429682733	clock3
+Horvath-pan-mammalian	cg26120306	-0.15108904	clock3
+Horvath-pan-mammalian	cg00467357	-0.082605168	clock3
+Horvath-pan-mammalian	cg23778391	-0.301420662	clock3
+Horvath-pan-mammalian	cg24148137	-0.012365809	clock3
+Horvath-pan-mammalian	cg06156376	0.096003595	clock3
+Horvath-pan-mammalian	cg20635820	0.184078903	clock3
+Horvath-pan-mammalian	cg23128382	-0.264275205	clock3
+Horvath-pan-mammalian	cg24653269	-0.164032107	clock3
+Horvath-pan-mammalian	cg18169540	0.047918741	clock3
+Horvath-pan-mammalian	cg11254527	0.080294523	clock3
+Horvath-pan-mammalian	cg11672180	0.069421699	clock3
+Horvath-pan-mammalian	cg26014931	0.068547681	clock3
+Horvath-pan-mammalian	cg26081366	-0.105373044	clock3
+Horvath-pan-mammalian	cg26234822	-0.383495252	clock3
+Horvath-pan-mammalian	cg26472530	0.11617635	clock3
+Horvath-pan-mammalian	cg26659116	-0.077821475	clock3
+Horvath-pan-mammalian	cg26879535	-0.01279414	clock3
+Horvath-pan-mammalian	cg26885075	-0.074328327	clock3
+Horvath-pan-mammalian	cg11217865	-0.022450289	clock3
+Horvath-pan-mammalian	cg11327514	-0.340900203	clock3
+Horvath-pan-mammalian	cg12394655	-0.087890496	clock3
+Horvath-pan-mammalian	cg13242392	-1.922703333	clock3
+Horvath-pan-mammalian	cg06828322	-0.002139529	clock3
+Horvath-pan-mammalian	cg07069838	0.009522883	clock3
+Horvath-pan-mammalian	cg07081182	0.080141341	clock3
+Horvath-pan-mammalian	cg07265990	0.261674048	clock3
+Horvath-pan-mammalian	cg04204168	-0.101054197	clock3
+Horvath-pan-mammalian	cg04366185	0.072901306	clock3
+Horvath-pan-mammalian	cg05544360	0.001153611	clock3
+Horvath-pan-mammalian	cg07056567	-0.116985631	clock3
+Horvath-pan-mammalian	cg07323940	-0.196453095	clock3
+Horvath-pan-mammalian	cg08074329	0.728638707	clock3
+Horvath-pan-mammalian	cg08570512	-0.000441086	clock3
+Horvath-pan-mammalian	cg09108310	-0.4180349	clock3
+Horvath-pan-mammalian	cg09784081	-0.011106595	clock3
+Horvath-pan-mammalian	cg10042482	-0.010240392	clock3
+Horvath-pan-mammalian	cg12156848	0.412370274	clock3
+Horvath-pan-mammalian	cg13301933	-0.013827971	clock3
+Horvath-pan-mammalian	cg13953571	0.334016111	clock3
+Horvath-pan-mammalian	cg15296094	0.013429598	clock3
+Horvath-pan-mammalian	cg16697952	0.639392112	clock3
+Horvath-pan-mammalian	cg03820088	0.043114282	clock3
+Horvath-pan-mammalian	cg02456804	0.379270187	clock3
+Horvath-pan-mammalian	cg02681015	-0.072556891	clock3
+Horvath-pan-mammalian	cg02800363	-0.50807175	clock3
+Horvath-pan-mammalian	cg03420509	-0.193894137	clock3
+Horvath-pan-mammalian	cg03521797	-0.439122589	clock3
+Horvath-pan-mammalian	cg09557545	-0.019032012	clock3
+Horvath-pan-mammalian	cg07774376	-0.024341389	clock3
+Horvath-pan-mammalian	cg07881279	-0.110240832	clock3
+Horvath-pan-mammalian	cg08040307	0.435126202	clock3
+Horvath-pan-mammalian	cg01797373	-0.002763532	clock3
+Horvath-pan-mammalian	cg02287493	0.001090366	clock3
+Horvath-pan-mammalian	cg04103301	-0.109385079	clock3
+Horvath-pan-mammalian	cg08446005	0.145241615	clock3
+Horvath-pan-mammalian	cg10381180	-0.081508838	clock3
+Horvath-pan-mammalian	cg21102110	0.025268633	clock3
+Horvath-pan-mammalian	cg21180487	0.037041212	clock3
+Horvath-pan-mammalian	cg21197642	0.00383795	clock3
+Horvath-pan-mammalian	cg21278764	-0.194210869	clock3
+Horvath-pan-mammalian	cg00454305	-0.031355827	clock3
+Horvath-pan-mammalian	cg00871371	-0.017405551	clock3
+Horvath-pan-mammalian	cg16925789	-0.033470309	clock3
+Horvath-pan-mammalian	cg18094982	0.148648511	clock3
+Horvath-pan-mammalian	cg18679961	-0.000740747	clock3
+Horvath-pan-mammalian	cg18743610	-0.042379031	clock3
+Horvath-pan-mammalian	cg19195912	-0.128597244	clock3
+Horvath-pan-mammalian	cg19271316	0.025367206	clock3
+Horvath-pan-mammalian	cg19584582	-0.517290376	clock3
+Horvath-pan-mammalian	cg20059238	-0.047394038	clock3
+Horvath-pan-mammalian	cg20391664	0.024519998	clock3
+Horvath-pan-mammalian	cg20621276	-0.054805639	clock3
+Horvath-pan-mammalian	cg21621248	-0.076526559	clock3
+Horvath-pan-mammalian	cg01137681	0.132885563	clock3
+Horvath-pan-mammalian	cg21246299	-0.079645143	clock3
+Horvath-pan-mammalian	cg21839725	0.079802694	clock3
+Horvath-pan-mammalian	cg23567910	0.257780999	clock3
+Horvath-pan-mammalian	cg24080303	-0.104404456	clock3
+Horvath-pan-mammalian	cg16816020	-0.041985123	clock3
+Horvath-pan-mammalian	cg16960327	0.056635544	clock3
+Horvath-pan-mammalian	cg17267107	0.267156793	clock3
+Horvath-pan-mammalian	cg22354333	-0.749796974	clock3
+Horvath-pan-mammalian	cg22409694	0.039017227	clock3
+Horvath-pan-mammalian	cg23287176	0.047252686	clock3
+Horvath-pan-mammalian	cg23405931	0.003635825	clock3
+Horvath-pan-mammalian	cg23692250	-0.08995358	clock3
+Horvath-pan-mammalian	cg22703759	-0.032958282	clock3
+Horvath-pan-mammalian	cg22943590	-0.281073482	clock3
+Horvath-pan-mammalian	cg09642734	-0.065665659	clock3
+Horvath-pan-mammalian	cg25072946	0.045744044	clock3
+Horvath-pan-mammalian	cg25172570	-0.364442137	clock3
+Horvath-pan-mammalian	cg03942000	0.426064339	clock3
+Horvath-pan-mammalian	cg04111974	-0.352350902	clock3
+Horvath-pan-mammalian	cg24787338	0.044447569	clock3
+Horvath-pan-mammalian	cg25430489	0.061027989	clock3
+Horvath-pan-mammalian	cg26476447	-0.279794003	clock3
+Horvath-pan-mammalian	cg26957053	0.022360153	clock3
+Horvath-pan-mammalian	cg01153166	0.080613126	clock3
+Horvath-pan-mammalian	cg23423329	-0.184100493	clock3
+Horvath-pan-mammalian	cg23687194	0.034758899	clock3
+Horvath-pan-mammalian	cg25699407	0.153052203	clock3
+Horvath-pan-mammalian	cg06147321	0.018687956	clock3
+Horvath-pan-mammalian	cg00258262	0.06468161	clock3
+Horvath-pan-mammalian	cg00493843	0.118059695	clock3
+Horvath-pan-mammalian	cg00694357	-0.93733952	clock3
+Horvath-pan-mammalian	cg00935831	0.180607573	clock3
+Horvath-pan-mammalian	cg01169686	-0.045590413	clock3
+Horvath-pan-mammalian	cg01648457	-0.153026387	clock3
+Horvath-pan-mammalian	cg02034779	0.030145638	clock3
+Horvath-pan-mammalian	cg02172466	0.026334358	clock3
+Horvath-pan-mammalian	cg02270238	-0.019930954	clock3
+Horvath-pan-mammalian	cg14472711	-0.058681895	clock3
+Horvath-pan-mammalian	cg15408728	-0.202424702	clock3
+Horvath-pan-mammalian	cg20100200	0.255807282	clock3
+Horvath-pan-mammalian	cg20422755	-0.043115039	clock3
+Horvath-pan-mammalian	cg20896439	-0.401476283	clock3
+Horvath-pan-mammalian	cg00096922	-0.006462243	clock3
+Horvath-pan-mammalian	cg00195533	-0.087343274	clock3
+Horvath-pan-mammalian	cg00399596	-0.735606071	clock3
+Horvath-pan-mammalian	cg01053290	-0.132896022	clock3
+Horvath-pan-mammalian	cg22146484	-0.63973459	clock3
+Horvath-pan-mammalian	cg05207134	0.390179413	clock3
+Horvath-pan-mammalian	cg06721379	-0.003631745	clock3
+Horvath-pan-mammalian	cg07332354	0.041508527	clock3
+Horvath-pan-mammalian	cg23274273	-0.063091964	clock3
+Horvath-pan-mammalian	cg10711876	-0.022726787	clock3
+Horvath-pan-mammalian	cg16701192	-0.384000583	clock3
+Horvath-pan-mammalian	cg16848740	0.048442105	clock3
+Horvath-pan-mammalian	cg17455697	-0.07262777	clock3
+Horvath-pan-mammalian	cg18691948	0.093556876	clock3
+Horvath-pan-mammalian	cg19111172	-0.080646823	clock3
+Horvath-pan-mammalian	cg19296935	0.283938189	clock3
+Horvath-pan-mammalian	cg19319735	0.167872735	clock3
+Horvath-pan-mammalian	cg20726505	-0.217732599	clock3
+Horvath-pan-mammalian	cg22454306	-0.275497034	clock3
+Horvath-pan-mammalian	cg16986738	-0.044528166	clock3
+Horvath-pan-mammalian	cg17116410	0.08782829	clock3
+Horvath-pan-mammalian	cg25326872	-0.072806719	clock3
+Horvath-pan-mammalian	cg25906744	0.171057951	clock3
+Horvath-pan-mammalian	cg26748472	-0.036223335	clock3
+Horvath-pan-mammalian	cg27035369	-0.074648754	clock3
+Horvath-pan-mammalian	cg27069680	-0.140807518	clock3
+Horvath-pan-mammalian	cg27208859	0.012632306	clock3
+Horvath-pan-mammalian	cg07978738	-0.072963527	clock3
+Horvath-pan-mammalian	cg02007453	-0.042590582	clock3
+Horvath-pan-mammalian	cg02177464	0.330015992	clock3
+Horvath-pan-mammalian	cg02471195	0.108796337	clock3
+Horvath-pan-mammalian	cg03588035	-0.253244622	clock3
+Horvath-pan-mammalian	cg01038105	-0.186933701	clock3
+Horvath-pan-mammalian	cg09061197	0.103388119	clock3
+Horvath-pan-mammalian	cg10609096	0.748360399	clock3
+Horvath-pan-mammalian	cg10710448	-0.177457728	clock3
+Horvath-pan-mammalian	cg11997199	-0.174165582	clock3
+Horvath-pan-mammalian	cg12945551	-0.00047052	clock3
+Horvath-pan-mammalian	cg13182287	-0.182675068	clock3
+Horvath-pan-mammalian	cg13884903	-0.0111276	clock3
+Horvath-pan-mammalian	cg14299268	0.150762381	clock3
+Horvath-pan-mammalian	cg15471501	0.29187077	clock3
+Horvath-pan-mammalian	cg18188156	-0.084773865	clock3
+Horvath-pan-mammalian	cg18851565	0.114777653	clock3
+Horvath-pan-mammalian	cg24393114	0.083142242	clock3
+Horvath-pan-mammalian	cg26062663	-0.054096784	clock3
+Horvath-pan-mammalian	cg27299745	-0.019781065	clock3
+Horvath-pan-mammalian	cg00114412	-0.060647394	clock3
+Horvath-pan-mammalian	cg00975350	-0.092865276	clock3
+Horvath-pan-mammalian	cg01566077	-1.113568192	clock3
+Horvath-pan-mammalian	cg07800922	0.111209508	clock3
+Horvath-pan-mammalian	cg09200783	0.725379251	clock3
+Horvath-pan-mammalian	cg10707234	-0.094207089	clock3
+Horvath-pan-mammalian	cg11275232	0.635985703	clock3
+Horvath-pan-mammalian	cg11690941	0.029482721	clock3
+Horvath-pan-mammalian	cg16582309	0.107875858	clock3
+Horvath-pan-mammalian	cg12648670	-0.001721575	clock3
+Horvath-pan-mammalian	cg13959241	-0.000364898	clock3
+Horvath-pan-mammalian	cg10487127	0.122723023	clock3
+Horvath-pan-mammalian	cg10792727	-1.386874108	clock3
+Horvath-pan-mammalian	cg05901294	-0.14966904	clock3
+Horvath-pan-mammalian	cg07459759	-0.009181295	clock3
+Horvath-pan-mammalian	cg18502834	-0.171486825	clock3
+Horvath-pan-mammalian	cg18635807	-0.039737146	clock3
+Horvath-pan-mammalian	cg19691778	-0.012920182	clock3
+Horvath-pan-mammalian	cg13802785	0.002726465	clock3
+Horvath-pan-mammalian	cg14023941	-0.136016046	clock3
+Horvath-pan-mammalian	cg15340018	0.264567728	clock3
+Horvath-pan-mammalian	cg05916870	-0.07561004	clock3
+Horvath-pan-mammalian	cg08522676	-0.032349036	clock3
+Horvath-pan-mammalian	cg09008979	-0.002942116	clock3
+Horvath-pan-mammalian	cg09010707	-0.011350495	clock3
+Horvath-pan-mammalian	cg10278760	-0.335861243	clock3
+Horvath-pan-mammalian	cg14701342	0.077908984	clock3
+Horvath-pan-mammalian	cg09939922	-0.042197017	clock3
+Horvath-pan-mammalian	cg10128645	0.006041457	clock3
+Horvath-pan-mammalian	cg10426441	0.007289339	clock3
+Horvath-pan-mammalian	cg11108049	-0.024114775	clock3
+Horvath-pan-mammalian	cg15600660	-0.10756761	clock3
+Horvath-pan-mammalian	cg06807725	0.014084636	clock3
+Horvath-pan-mammalian	cg07071132	0.117906669	clock3
+Horvath-pan-mammalian	cg04902782	-4.82E-05	clock3
+Horvath-pan-mammalian	cg09716123	-0.006024135	clock3
+Horvath-pan-mammalian	cg11124915	0.048435238	clock3
+Horvath-pan-mammalian	cg11742933	-0.362812432	clock3
+Horvath-pan-mammalian	cg12591580	0.295839801	clock3
+Horvath-pan-mammalian	cg08375909	-0.030372929	clock3
+Horvath-pan-mammalian	cg09462662	-0.015136679	clock3
+Horvath-pan-mammalian	cg10677704	-0.627960421	clock3
+Horvath-pan-mammalian	cg24597392	0.261008913	clock3
+Horvath-pan-mammalian	cg17905888	-0.19592542	clock3
+Horvath-pan-mammalian	cg18419637	-0.451312862	clock3
+Horvath-pan-mammalian	cg18433728	-0.374013641	clock3
+Horvath-pan-mammalian	cg19707231	-0.092232763	clock3
+Horvath-pan-mammalian	cg19719141	7.55057E-06	clock3
+Horvath-pan-mammalian	cg03320248	0.08862498	clock3
+Horvath-pan-mammalian	cg02968236	-0.143674636	clock3
+Horvath-pan-mammalian	cg02322553	-0.044122312	clock3
+Horvath-pan-mammalian	cg04725401	0.165054018	clock3
+Horvath-pan-mammalian	cg05052242	0.022114964	clock3
+Horvath-pan-mammalian	cg05401971	0.951121379	clock3
+Horvath-pan-mammalian	cg06059859	-0.290504721	clock3
+Horvath-pan-mammalian	cg17718834	0.066655416	clock3
+Horvath-pan-mammalian	cg18481180	-0.145891777	clock3
+Horvath-pan-mammalian	cg18543660	0.00997077	clock3
+Horvath-pan-mammalian	cg19291010	-0.347719188	clock3
+Horvath-pan-mammalian	cg19411464	-0.004233437	clock3
+Horvath-pan-mammalian	cg00296110	-0.178103835	clock3
+Horvath-pan-mammalian	cg00422680	-0.001260052	clock3
+Horvath-pan-mammalian	cg13153497	-0.060454359	clock3
+Horvath-pan-mammalian	cg14116948	-0.031352523	clock3
+Horvath-pan-mammalian	cg14360110	0.250060265	clock3
+Horvath-pan-mammalian	cg14794469	-0.028079475	clock3
+Horvath-pan-mammalian	cg07900685	0.048824927	clock3
+Horvath-pan-mammalian	cg08396875	-0.139144333	clock3
+Horvath-pan-mammalian	cg27052685	-0.046864041	clock3
+Horvath-pan-mammalian	cg27435767	-0.098367103	clock3
+Horvath-pan-mammalian	cg25530799	0.001232845	clock3
+Horvath-pan-mammalian	cg15301611	0.038017238	clock3
+Horvath-pan-mammalian	cg17783618	0.068498767	clock3
+Horvath-pan-mammalian	cg17820491	-0.085017091	clock3
+Horvath-pan-mammalian	cg18918349	-0.350811425	clock3
+Horvath-pan-mammalian	cg19109204	-0.262151629	clock3
+Horvath-pan-mammalian	cg19323953	0.099599113	clock3
+Horvath-pan-mammalian	cg21351544	0.453299203	clock3
+Horvath-pan-mammalian	cg19051359	0.107015183	clock3
+Horvath-pan-mammalian	cg10801485	0.188971473	clock3
+Horvath-pan-mammalian	cg11355954	0.17845333	clock3
+Horvath-pan-mammalian	cg11458204	0.011371505	clock3
+Horvath-pan-mammalian	cg12818872	0.550764025	clock3
+Horvath-pan-mammalian	cg08026739	-0.024783201	clock3
+Horvath-pan-mammalian	cg08160490	-0.063817555	clock3
+Horvath-pan-mammalian	cg08538268	0.398301317	clock3
+Horvath-pan-mammalian	cg09009312	-0.030226717	clock3
+Horvath-pan-mammalian	cg10013179	-0.061485976	clock3
+Horvath-pan-mammalian	cg10439738	0.09893867	clock3
+Horvath-pan-mammalian	cg25073174	0.002404314	clock3
+Horvath-pan-mammalian	cg25468783	0.403062633	clock3
+Horvath-pan-mammalian	cg25960060	-0.156249994	clock3
+Horvath-pan-mammalian	cg26154615	0.028267114	clock3
+Horvath-pan-mammalian	cg26420776	0.100836212	clock3
+Horvath-pan-mammalian	cg26512254	2.638299422	clock3
+Horvath-pan-mammalian	cg26973693	0.193605553	clock3
+Horvath-pan-mammalian	cg02040024	0.3319775	clock3
+Horvath-pan-mammalian	cg02273345	-0.094024291	clock3
+Horvath-pan-mammalian	cg03513784	-0.015031399	clock3
+Horvath-pan-mammalian	cg09176584	0.01672638	clock3
+Horvath-pan-mammalian	cg09453226	0.011240456	clock3
+Horvath-pan-mammalian	cg11215098	0.234182825	clock3
+Horvath-pan-mammalian	cg11610869	0.101493014	clock3
+Horvath-pan-mammalian	cg11948733	-0.250775578	clock3
+Horvath-pan-mammalian	cg19663246	-0.237630503	clock3
+Horvath-pan-mammalian	cg07499079	0.061774617	clock3
+Horvath-pan-mammalian	cg08849105	-0.084105504	clock3
+Horvath-pan-mammalian	cg09482204	-0.171227843	clock3
+Horvath-pan-mammalian	cg10324939	0.000381435	clock3
+Horvath-pan-mammalian	cg11803466	-0.591410288	clock3
+Horvath-pan-mammalian	cg13608832	-0.207064319	clock3
+Horvath-pan-mammalian	cg01712842	0.396278993	clock3
+Horvath-pan-mammalian	cg14991111	0.504276666	clock3
+Horvath-pan-mammalian	cg11488183	-0.237432875	clock3
+Horvath-pan-mammalian	cg11541320	-0.135749846	clock3
+Horvath-pan-mammalian	cg12314723	-0.16620323	clock3
+Horvath-pan-mammalian	cg13935553	-0.058574935	clock3
+Horvath-pan-mammalian	cg14237002	-0.622681038	clock3
+Horvath-pan-mammalian	cg06158983	0.153012833	clock3
+Horvath-pan-mammalian	cg14676280	-0.085346039	clock3
+Horvath-pan-mammalian	cg14738500	0.079154474	clock3
+Horvath-pan-mammalian	cg14988489	-0.06796279	clock3
+Horvath-pan-mammalian	cg15444935	-0.019042973	clock3
+Horvath-pan-mammalian	cg16390944	0.777365974	clock3
+Horvath-pan-mammalian	cg16545804	0.000957502	clock3
+Horvath-pan-mammalian	cg22067905	0.465575031	clock3
+Horvath-pan-mammalian	cg22100382	0.038778668	clock3
+Horvath-pan-mammalian	cg22267613	-0.254160748	clock3
+Horvath-pan-mammalian	cg24713486	-0.013519039	clock3
+Horvath-pan-mammalian	cg24856447	-0.044223318	clock3
+Horvath-pan-mammalian	cg25034090	-0.198809703	clock3
+Horvath-pan-mammalian	cg25943666	0.238903185	clock3
+Horvath-pan-mammalian	cg26653463	-0.088647689	clock3
+Horvath-pan-mammalian	cg01409964	0.214952074	clock3
+Horvath-pan-mammalian	cg23207462	-0.428984257	clock3
+Horvath-pan-mammalian	cg23627331	0.068874785	clock3
+Horvath-pan-mammalian	cg24488281	-0.135394455	clock3
+Horvath-pan-mammalian	cg25118671	-0.000366098	clock3
+Horvath-pan-mammalian	cg26709300	-0.250809378	clock3
+Horvath-pan-mammalian	cg26922708	0.000730594	clock3
+Horvath-pan-mammalian	cg01309159	-0.115502335	clock3
+Horvath-pan-mammalian	cg04533279	-0.149080119	clock3
+Horvath-pan-mammalian	cg05261703	-0.160870435	clock3
+Horvath-pan-mammalian	cg12421693	0.06586464	clock3
+Horvath-pan-mammalian	cg12425327	0.163519366	clock3
+Horvath-pan-mammalian	cg04787747	0.395064496	clock3
+Horvath-pan-mammalian	cg08909367	0.080621474	clock3
+Horvath-pan-mammalian	cg11417778	0.53508254	clock3
+Horvath-pan-mammalian	cg01061575	0.225290178	clock3
+Horvath-pan-mammalian	cg01594275	0.902701811	clock3
+Horvath-pan-mammalian	cg02042055	-0.015263782	clock3
+Horvath-pan-mammalian	cg01063757	-0.065475822	clock3
+Horvath-pan-mammalian	cg01429475	0.713265653	clock3
+Horvath-pan-mammalian	cg01990759	-0.020936714	clock3
+Horvath-pan-mammalian	cg21871906	-0.100297555	clock3
+Horvath-pan-mammalian	cg22057106	-0.21001078	clock3
+Horvath-pan-mammalian	cg06250511	0.030755572	clock3
+Horvath-pan-mammalian	cg06878766	0.72576751	clock3
+Horvath-pan-mammalian	cg04368876	0.199793841	clock3
+Horvath-pan-mammalian	cg04706544	0.133010484	clock3
+Horvath-pan-mammalian	cg05801021	0.079315246	clock3
+Horvath-pan-mammalian	cg06571003	-0.459966935	clock3
+Horvath-pan-mammalian	cg24952195	0.388654918	clock3
+Horvath-pan-mammalian	cg27208811	-0.0038953	clock3
+Horvath-pan-mammalian	cg18024395	-0.496418442	clock3
+Horvath-pan-mammalian	cg05736341	0.082337273	clock3
+Horvath-pan-mammalian	cg05844902	-0.184806277	clock3
+Horvath-pan-mammalian	cg00817637	-0.102153608	clock3
+Horvath-pan-mammalian	cg00900456	-0.196112022	clock3
+Horvath-pan-mammalian	cg01036016	0.043625568	clock3
+Horvath-pan-mammalian	cg03225070	-0.035954055	clock3
+Horvath-pan-mammalian	cg03225697	-0.033915032	clock3
+Horvath-pan-mammalian	cg03856216	-0.018486658	clock3
+Horvath-pan-mammalian	cg04363039	0.042482335	clock3
+Horvath-pan-mammalian	cg04998737	0.77652788	clock3
+Horvath-pan-mammalian	cg02532525	0.645200864	clock3
+Horvath-pan-mammalian	cg02909927	-0.090581062	clock3
+Horvath-pan-mammalian	cg05474883	1.463495247	clock3
+Horvath-pan-mammalian	cg05584618	0.077621693	clock3
+Horvath-pan-mammalian	cg06679388	-0.096788269	clock3
+Horvath-pan-mammalian	cg06679868	-0.485470728	clock3
+Horvath-pan-mammalian	cg16391501	0.092342034	clock3
+Horvath-pan-mammalian	cg17357006	0.252350511	clock3
+Horvath-pan-mammalian	cg18974733	-0.002108245	clock3
+Horvath-pan-mammalian	cg19090691	-0.229115434	clock3
+Horvath-pan-mammalian	cg19275555	0.032906195	clock3
+Horvath-pan-mammalian	cg19425332	-0.08828666	clock3
+Horvath-pan-mammalian	cg25651791	-0.044638282	clock3
+Horvath-pan-mammalian	cg25905455	-0.199590221	clock3
+Horvath-pan-mammalian	cg26616379	-1.074544955	clock3
+Horvath-pan-mammalian	cg26920416	0.150984652	clock3
+Horvath-pan-mammalian	cg11252613	0.005653898	clock3
+Horvath-pan-mammalian	cg22234802	-0.344161736	clock3
+Horvath-pan-mammalian	cg23089474	0.57092582	clock3
+Horvath-pan-mammalian	cg22866580	-0.002187559	clock3
+Horvath-pan-mammalian	cg23053149	-0.288810608	clock3
+Horvath-pan-mammalian	cg24924928	0.08172459	clock3
+Horvath-pan-mammalian	cg24975211	-0.127923574	clock3
+Horvath-pan-mammalian	cg26072749	-0.141077514	clock3
+Horvath-pan-mammalian	cg26598122	-0.097926748	clock3
+Horvath-pan-mammalian	cg27294582	-0.022834228	clock3
+Horvath-pan-mammalian	cg27430422	0.503727168	clock3
+Horvath-pan-mammalian	cg27492942	-0.118860911	clock3
+Horvath-pan-mammalian	cg01352789	-0.110863183	clock3
+Horvath-pan-mammalian	cg01450059	-0.102338504	clock3
+Horvath-pan-mammalian	cg02184281	-0.024118013	clock3
+Horvath-pan-mammalian	cg27547112	0.087689373	clock3
+Horvath-pan-mammalian	cg01301326	-0.063319619	clock3
+Horvath-pan-mammalian	cg25410683	-0.052597306	clock3
+Horvath-pan-mammalian	cg01631669	-0.312270186	clock3
+Horvath-pan-mammalian	cg02376954	-0.625658462	clock3
+Horvath-pan-mammalian	cg02753151	0.070525764	clock3
+Horvath-pan-mammalian	cg20424997	0.731503702	clock3
+Horvath-pan-mammalian	cg23869573	-0.072702424	clock3
+Horvath-pan-mammalian	cg05817746	-0.006455397	clock3
+Horvath-pan-mammalian	cg05866252	-0.187102817	clock3
+Horvath-pan-mammalian	cg06004718	-0.209343459	clock3
+Horvath-pan-mammalian	cg06244551	-0.079194018	clock3
+Horvath-pan-mammalian	cg06392591	-0.021838112	clock3
+Horvath-pan-mammalian	cg06413694	-0.05055116	clock3
+Horvath-pan-mammalian	cg06607996	-0.351765383	clock3
+Horvath-pan-mammalian	cg15254020	0.027928649	clock3
+Horvath-pan-mammalian	cg16571746	0.04790418	clock3
+Horvath-pan-mammalian	cg16764258	0.000148929	clock3
+Horvath-pan-mammalian	cg17437489	-0.363203186	clock3
+Horvath-pan-mammalian	cg17516812	-0.074905312	clock3
+Horvath-pan-mammalian	cg04707251	-0.243036498	clock3
+Horvath-pan-mammalian	cg05243338	-0.156998923	clock3
+Horvath-pan-mammalian	cg05322294	-0.006753101	clock3
+Horvath-pan-mammalian	cg05359706	0.000826214	clock3
+Horvath-pan-mammalian	cg05535461	0.159065181	clock3
+Horvath-pan-mammalian	cg08402704	0.144376177	clock3
+Horvath-pan-mammalian	cg25139325	-0.469892649	clock3
+Horvath-pan-mammalian	cg25278124	0.242845815	clock3
+Horvath-pan-mammalian	cg25323457	-0.038107517	clock3
+Horvath-pan-mammalian	cg25687751	-0.643612656	clock3
+Horvath-pan-mammalian	cg21633990	0.031235546	clock3
+Horvath-pan-mammalian	cg01772613	0.181563521	clock3
+Horvath-pan-mammalian	cg03163184	0.027285849	clock3
+Horvath-pan-mammalian	cg27228973	-0.071520127	clock3
+Horvath-pan-mammalian	cg27245416	0.003333606	clock3
+Horvath-pan-mammalian	cg02553441	-0.017165325	clock3
+Horvath-pan-mammalian	cg00587168	0.014934192	clock3
+Horvath-pan-mammalian	cg00643485	0.2041363	clock3
+Horvath-pan-mammalian	cg01571965	0.060989714	clock3
+Horvath-pan-mammalian	cg00489428	0.451606302	clock3
+Horvath-pan-mammalian	cg01209550	-0.006643228	clock3
+Horvath-pan-mammalian	cg01293647	-0.090441516	clock3
+Horvath-pan-mammalian	cg11642756	-0.056704496	clock3
+Horvath-pan-mammalian	cg14443903	-0.005264774	clock3
+Horvath-pan-mammalian	cg14919591	-0.885338833	clock3
+Horvath-pan-mammalian	cg15237969	-0.051187636	clock3
+Horvath-pan-mammalian	cg15253243	0.241310633	clock3
+Horvath-pan-mammalian	cg19296119	-0.030187804	clock3
+Horvath-pan-mammalian	cg21883915	0.271452209	clock3
+Horvath-pan-mammalian	cg24504442	0.762227834	clock3
+Horvath-pan-mammalian	cg24866378	-0.246370936	clock3
+Horvath-pan-mammalian	cg25381383	0.033765255	clock3
+Horvath-pan-mammalian	cg25771548	-0.017574131	clock3
+Horvath-pan-mammalian	cg21907062	0.340355424	clock3
+Horvath-pan-mammalian	cg02553697	0.004054561	clock3
+Horvath-pan-mammalian	cg02658193	0.078476331	clock3
+Horvath-pan-mammalian	cg02783173	0.160911595	clock3
+Horvath-pan-mammalian	cg02953590	0.246125906	clock3
+Horvath-pan-mammalian	cg04577801	-0.052730603	clock3
+Horvath-pan-mammalian	cg12713245	-0.128752436	clock3
+Horvath-pan-mammalian	cg13058338	0.204865934	clock3
+Horvath-pan-mammalian	cg21086539	-0.138375644	clock3
+Horvath-pan-mammalian	cg22144210	0.093936868	clock3
+Horvath-pan-mammalian	cg22825729	-0.280353901	clock3
+Horvath-pan-mammalian	cg23059642	0.578902175	clock3
+Horvath-pan-mammalian	cg23126309	0.007334863	clock3
+Horvath-pan-mammalian	cg23510032	-0.127953179	clock3
+Horvath-pan-mammalian	cg24024857	-0.150887265	clock3
+Horvath-pan-mammalian	cg24638399	0.016383802	clock3
+Horvath-pan-mammalian	cg15701287	-0.030447681	clock3
+Horvath-pan-mammalian	cg17114460	0.321622952	clock3
+Horvath-pan-mammalian	cg17417202	0.037063532	clock3
+Horvath-pan-mammalian	cg17542246	-0.130667192	clock3
+Horvath-pan-mammalian	cg17554167	0.098616125	clock3
+Horvath-pan-mammalian	cg17942396	-0.024172757	clock3
+Horvath-pan-mammalian	cg18223258	-0.325534132	clock3
+Horvath-pan-mammalian	cg18281552	-0.194942786	clock3
+Horvath-pan-mammalian	cg18814344	-0.051187126	clock3
+Horvath-pan-mammalian	cg19683912	0.032065825	clock3
+Horvath-pan-mammalian	cg20432508	0.372522727	clock3
+Horvath-pan-mammalian	cg20453574	-0.024023174	clock3
+Horvath-pan-mammalian	cg20945212	9.87607E-05	clock3
+Horvath-pan-mammalian	cg21482536	-0.005529324	clock3
+Horvath-pan-mammalian	cg23320654	0.044461028	clock3
+Horvath-pan-mammalian	cg05844937	0.162402096	clock3
+Horvath-pan-mammalian	cg06472065	-0.076421703	clock3
+Horvath-pan-mammalian	cg07476673	0.257431391	clock3
+Horvath-pan-mammalian	cg22188876	-0.149965548	clock3
+Horvath-pan-mammalian	cg12382554	-0.184887548	clock3
+Horvath-pan-mammalian	cg12813831	0.027144764	clock3
+Horvath-pan-mammalian	cg07388493	-0.08473807	clock3
+Horvath-pan-mammalian	cg18349747	0.227616723	clock3
+Horvath-pan-mammalian	cg04996684	0.186591247	clock3
+Horvath-pan-mammalian	cg10945667	-0.400708539	clock3
+Horvath-pan-mammalian	cg13294690	-0.071546091	clock3
+Horvath-pan-mammalian	cg13943045	-0.055736719	clock3
+Horvath-pan-mammalian	cg15425194	0.181848899	clock3
+Horvath-pan-mammalian	cg07014363	0.110807787	clock3
+Horvath-pan-mammalian	cg07987507	0.054781106	clock3
+Horvath-pan-mammalian	cg05456580	0.043446044	clock3
+Horvath-pan-mammalian	cg18987683	-0.056409712	clock3
+Horvath-pan-mammalian	cg19054310	-0.116011627	clock3
+Horvath-pan-mammalian	cg07875786	0.493942107	clock3
+Horvath-pan-mammalian	cg08212459	0.030526829	clock3
+Horvath-pan-mammalian	cg08662919	-0.032322384	clock3
+Horvath-pan-mammalian	cg27300575	-0.186010205	clock3
+Horvath-pan-mammalian	cg00689383	-0.0170681	clock3
+Horvath-pan-mammalian	cg01224972	0.092310293	clock3
+Horvath-pan-mammalian	cg04080945	-0.075854427	clock3
+Horvath-pan-mammalian	cg03626038	-0.545398615	clock3
+Horvath-pan-mammalian	cg03909491	0.024160011	clock3
+Horvath-pan-mammalian	cg03917360	0.098044516	clock3
+Horvath-pan-mammalian	cg04817453	0.069853175	clock3
+Horvath-pan-mammalian	cg06736685	-0.232400342	clock3
+Horvath-pan-mammalian	cg08378313	-0.141158521	clock3
+Horvath-pan-mammalian	cg05750171	-0.198750683	clock3
+Horvath-pan-mammalian	cg06197482	-0.111734368	clock3
+Horvath-pan-mammalian	cg06459870	-0.067471905	clock3
+Horvath-pan-mammalian	cg06461219	-0.544014933	clock3
+Horvath-pan-mammalian	cg20140365	0.20360502	clock3
+Horvath-pan-mammalian	cg23783364	0.112686269	clock3
+Horvath-pan-mammalian	cg21510166	0.120863907	clock3
+Horvath-pan-mammalian	cg22063749	-0.006761592	clock3
+Horvath-pan-mammalian	cg22414596	0.004551734	clock3
+Horvath-pan-mammalian	cg22667099	-0.27575686	clock3
+Horvath-pan-mammalian	cg25195795	0.254922867	clock3
+Horvath-pan-mammalian	cg01759800	0.012859527	clock3
+Horvath-pan-mammalian	cg01975510	0.874906982	clock3
+Horvath-pan-mammalian	cg02073955	-0.309794322	clock3
+Horvath-pan-mammalian	cg18221275	0.054334773	clock3
+Horvath-pan-mammalian	cg12923877	0.30902316	clock3
+Horvath-pan-mammalian	cg13581054	-0.096933726	clock3
+Horvath-pan-mammalian	cg13705955	0.003423817	clock3
+Horvath-pan-mammalian	cg14258341	-0.070259047	clock3
+Horvath-pan-mammalian	cg17829569	0.126888068	clock3
+Horvath-pan-mammalian	cg19604874	0.304835722	clock3
+Horvath-pan-mammalian	cg00292639	-0.158644765	clock3
+Horvath-pan-mammalian	cg15546160	-0.008666375	clock3
+Horvath-pan-mammalian	cg15913680	0.176597543	clock3
+Horvath-pan-mammalian	cg12449245	0.137090626	clock3
+Horvath-pan-mammalian	cg12967137	0.004198906	clock3
+Horvath-pan-mammalian	cg13313332	-0.070683094	clock3
+Horvath-pan-mammalian	cg14006844	-0.180874786	clock3
+Horvath-pan-mammalian	cg12830057	0.435922245	clock3
+Horvath-pan-mammalian	cg12965599	-0.09349389	clock3
+Horvath-pan-mammalian	cg13655781	-0.000179108	clock3
+Horvath-pan-mammalian	cg04228573	0.322903409	clock3
+Horvath-pan-mammalian	cg04353319	0.003270907	clock3
+Horvath-pan-mammalian	cg04404159	-0.20351729	clock3
+Horvath-pan-mammalian	cg05506474	-0.044036761	clock3
+Horvath-pan-mammalian	cg06386724	-0.001169925	clock3
+Horvath-pan-mammalian	cg06391468	-0.444432263	clock3
+Horvath-pan-mammalian	cg06493080	1.451140076	clock3
+Horvath-pan-mammalian	cg07493901	-1.057702693	clock3
+Horvath-pan-mammalian	cg15405572	-0.09868336	clock3
+Horvath-pan-mammalian	cg25639084	0.003591662	clock3
+Horvath-pan-mammalian	cg09161688	-0.021773657	clock3
+DunedinPACE	cgO0112187	-0.14	
+DunedinPACE	cgO0151250	0.152	
+DunedinPACE	cgO0359421	0.106	
+DunedinPACE	cgO0513564	-0.121	
+DunedinPACE	cgO0532802	0.047	
+DunedinPACE	cg00574958	-0.265	
+DunedinPACE	cgO0668559	-0.091	
+DunedinPACE	cgO0782811	0.076	
+DunedinPACE	cgO0835193	-0.058	
+DunedinPACE	cgO1055871	-0.232	
+DunedinPACE	cgO1101459	0.063	
+DunedinPACE	cgO1360413	0.015	
+DunedinPACE	cgO1554316	0.515	
+DunedinPACE	cgO1936220	-0.036	
+DunedinPACE	cg02004723	0.009	
+DunedinPACE	cgO2079413	0.209	
+DunedinPACE	cgO2229095	0.024	
+DunedinPACE	cgO2300147	0.148	
+DunedinPACE	cgO2307277	0.037	
+DunedinPACE	cgO2571857	0.091	
+DunedinPACE	cg02650017	-0.594	
+DunedinPACE	cgO2949067	-0.146	
+DunedinPACE	cgO2997983	0.028	
+DunedinPACE	cgO3604011	0.129	
+DunedinPACE	cg03776935	0.158	
+DunedinPACE	cgO3810769	0.027	
+DunedinPACE	cgO3868770	-0.039	
+DunedinPACE	cg04051458	0.168	
+DunedinPACE	cgO4105250	0.111	
+DunedinPACE	cgO4305539	-0.012	
+DunedinPACE	cgO4565261	0.064	
+DunedinPACE	cg04600984	0.18	
+DunedinPACE	cgO4624885	0.074	
+DunedinPACE	cgO4927537	0.044	
+DunedinPACE	cgO5068951	0.023	
+DunedinPACE	cg05085844	0.076	
+DunedinPACE	cgO5239308	0.003	
+DunedinPACE	cgO5304729	0.305	
+DunedinPACE	cgO5487507	-0.051	
+DunedinPACE	cgO5492170	0.04	
+DunedinPACE	cgO5671350	0.099	
+DunedinPACE	cgO5991820	0.011	
+DunedinPACE	cgO6182811	-0.056	
+DunedinPACE	cg06230206	0.043	
+DunedinPACE	cgO6458557	0.104	
+DunedinPACE	cgO6500161	0.575	
+DunedinPACE	cgO6570125	0.617	
+DunedinPACE	cgO6797880	0.011	
+DunedinPACE	cgO6961233	0.113	
+DunedinPACE	cg07019072	0.124	
+DunedinPACE	cg07075169	-0.015	
+DunedinPACE	cgO7123481	0.066	
+DunedinPACE	cgO7244253	-0.021	
+DunedinPACE	cg7471256	0.028	
+DunedinPACE	cgO7550819	-0.007	
+DunedinPACE	cg07589381	-0.047	
+DunedinPACE	cgO8011245	0.062	
+DunedinPACE	cg08225398	0.017	
+DunedinPACE	cg08335662	-0.049	
+DunedinPACE	cg08790676	0.04	
+DunedinPACE	cgO9022325	0.144	
+DunedinPACE	cgO9233395	-0.002	
+DunedinPACE	cgO9349128	-0.227	
+DunedinPACE	cgO9423875	-0.115	
+DunedinPACE	cgO9626521	-0.019	
+DunedinPACE	cg09756865	0.043	
+DunedinPACE	cg09760057	0.105	
+DunedinPACE	cgO9867945	0.134	
+DunedinPACE	cgO9933458	0.008	
+DunedinPACE	cgO9974965	-0.046	
+DunedinPACE	cg10017843	-0.037	
+DunedinPACE	cg10026495	0.112	
+DunedinPACE	cg10053507	0.13	
+DunedinPACE	cg10365246	0.081	
+DunedinPACE	cg10919522	-0.3	
+DunedinPACE	cg11095122	0.02	
+DunedinPACE	cg11103390	0.013	
+DunedinPACE	cg11202345	0.031	
+DunedinPACE	cg11452501	-0.12	
+DunedinPACE	cg11787522	0.024	
+DunedinPACE	cg11835347	-0.122	
+DunedinPACE	cg12041401	-0.062	
+DunedinPACE	cg12446629	-0.036	
+DunedinPACE	cg12547807	-0.185	
+DunedinPACE	cg12820481	0.037	
+DunedinPACE	cg13274938	0.303	
+DunedinPACE	cg13300580	0.071	
+DunedinPACE	cg13548189	0.006	
+DunedinPACE	cg13586425	0.11	
+DunedinPACE	cg13614083	0.034	
+DunedinPACE	cg13702222	0.076	
+DunedinPACE	cg13945148	0.042	
+DunedinPACE	cg14110709	0.053	
+DunedinPACE	cg14200569	0.026	
+DunedinPACE	cg14702960	-0.295	
+DunedinPACE	cg14816825	0.129	
+DunedinPACE	cg14851284	0.064	
+DunedinPACE	cg14876603	0.022	
+DunedinPACE	cg14893274	0.035	
+DunedinPACE	cg15192750	0.354	
+DunedinPACE	cg15815084	-0.053	
+DunedinPACE	cg15829969	0.027	
+DunedinPACE	cg15919431	-0.025	
+DunedinPACE	cg15948836	0.176	
+DunedinPACE	cg16098955	0.111	
+DunedinPACE	cg16413763	0.027	
+DunedinPACE	cg16416715	0.04	
+DunedinPACE	cg16609260	0.022	
+DunedinPACE	cg16739178	0.095	
+DunedinPACE	cg16924010	0.267	
+DunedinPACE	cg16969872	-0.208	
+DunedinPACE	cg17018786	0.367	
+DunedinPACE	cg17061862	-0.077	
+DunedinPACE	cg17439800	0.267	
+DunedinPACE	cg17460386	0.44	
+DunedinPACE	cg17501210	-0.395	
+DunedinPACE	cg17749946	0.09	
+DunedinPACE	cg17765387	0.042	
+DunedinPACE	cg17804112	0.019	
+DunedinPACE	cg17841545	0.048	
+DunedinPACE	cg17901584	-0.182	
+DunedinPACE	cg17966227	-0.004	
+DunedinPACE	cg18181703	-0.359	
+DunedinPACE	cg18500368	0.005	
+DunedinPACE	cg18513344	-0.038	
+DunedinPACE	cg18519757	0.043	
+DunedinPACE	cg20025658	0.101	
+DunedinPACE	cg20964064	0.06	
+DunedinPACE	cg21355338	0.01	
+DunedinPACE	cg21439498	-0.199	
+DunedinPACE	cg21486834	0.213	
+DunedinPACE	cg21566642	-0.199	
+DunedinPACE	cg21787176	-0.039	
+DunedinPACE	cg21885107	0.042	
+DunedinPACE	cg22029879	0	
+DunedinPACE	cg22036538	0.02	
+DunedinPACE	cg22157099	0.011	
+DunedinPACE	cg22367678	-0.154	
+DunedinPACE	cg22488164	0.05	
+DunedinPACE	cg22891595	0.101	
+DunedinPACE	cg22912834	0.019	
+DunedinPACE	cg23119487	0.019	
+DunedinPACE	cg23152235	0.039	
+DunedinPACE	cg23798387	-0.01	
+DunedinPACE	cg23966795	0.028	
+DunedinPACE	cg23997508	0.069	
+DunedinPACE	cg24125710	0.179	
+DunedinPACE	cg24174557	-0.058	
+DunedinPACE	cg24268161	-0.134	
+DunedinPACE	cg24318091	-0.022	
+DunedinPACE	cg24352561	0.009	
+DunedinPACE	cg24396875	-0.035	
+DunedinPACE	cg24403644	0.011	
+DunedinPACE	cg24531955	-0.115	
+DunedinPACE	cg24737193	0.022	
+DunedinPACE	cg24865132	-0.017	
+DunedinPACE	cg24891125	0.044	
+DunedinPACE	cg25243766	0.132	
+DunedinPACE	cg25368647	-0.05	
+DunedinPACE	cg25427524	0.083	
+DunedinPACE	cg25683495	-0.146	
+DunedinPACE	cg25751054	0.013	
+DunedinPACE	cg25772418	0.03	
+DunedinPACE	cg25923729	0.001	
+DunedinPACE	cg26094651	0.012	
+DunedinPACE	cg26180383	0.016	
+DunedinPACE	cg26264318	0.067	
+DunedinPACE	cg26275850	-0.043	
+DunedinPACE	cg26470501	-0.462	
+DunedinPACE	cg26497348	0.131	
+DunedinPACE	cg26981978	-0.095	
+DunedinPACE	cg27113548	-0.037	
+DunedinPACE	cg27165794	-0.3	
