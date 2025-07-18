@@ -28,7 +28,6 @@ if __name__ == "__main__":
     args = parse_arguments()
     input_dir = args.input_dir
 
-    # You can now use `input_dir` in your existing logic, e.g.,
     # for file in os.listdir(input_dir): ...
 
 def prepare_mData(beta_file):
@@ -95,7 +94,7 @@ if __name__ == "__main__":
             combined_results = run_clocks(mDNA)
             ofile = path+file.replace(".txt",".biolearn.csv")
             fOut = open (ofile,'w')
-            fOut.write('Horvath,Hannum,Levine,skinHorvath,PedBE,DUNEDIN\n')# header that match Methyclock ...
+            fOut.write('Horvath,Hannum,Levine,skinHorvath,PedBE,DUNEDIN\n')# header 
 
             combined_results.to_csv(ofile,index=False)
             print("___________________________________________")

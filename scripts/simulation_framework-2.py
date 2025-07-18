@@ -25,14 +25,12 @@ def parse_arguments():
 if __name__ == "__main__":
     args = parse_arguments()
 
-    # These variables can now be used in the original function logic
+    # These variables are used in the function logic
     mutation_file = args.mutation_file
     intersected_data_dir = args.intersected_data_dir
     beta_file = args.beta_file
 
-    # You may now call the original functions using these variables
-    # Example:
-    # mutations_data = read_mutations_file(mutation_file)
+
 
 def read_mutations_file(mutation_file):
     file_name = mutation_file.split("/")
@@ -158,12 +156,12 @@ def read_DNAm_dataset(DNAm_dataset,data, zygosity_df,i,selected_per_sample):
                     
                     # Update the beta value in the DataFrame
                     df_new.at[cpg, sample] = new_beta
-            else:# Oct27
+            else:
                 missing_cpgs_from_450k = ['cg06094762','cg08724636','cg10959651','cg11620135','cg14361627','cg17238334','cg18769120','cg20674577','cg21944491','cg22029879','cg22512531','cg23091758','cg26311454','cg26665419']
                 if cpg in missing_cpgs_from_450k:
                     not_found.append(cpg)
-    not_found = list(set(not_found))# Oct27
-    print(not_found)# Oct27
+    not_found = list(set(not_found))
+    print(not_found)
     outfile = DNAm_dataset.replace('.txt','.simulated_ii.{}.txt'.format(i))
     df_new.to_csv(outfile, sep='\t', index=True)
     # Verify the file creation
@@ -188,6 +186,6 @@ if __name__ == "__main__":
     # create tracker  ...
     selected_per_sample = develope_tracker(sys.argv[3])
     # generate simulated dataset ...
-    for i in range (3): # 10 simulations ...
+    for i in range (10): # set simulations iterations # 10  ...
         read_DNAm_dataset(sys.argv[3],data,zygosity_df, i,selected_per_sample)
 

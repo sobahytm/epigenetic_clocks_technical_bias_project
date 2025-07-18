@@ -27,9 +27,6 @@ if __name__ == "__main__":
     original_table = args.original_table
     simulation_tables_dir = args.simulation_tables_dir
 
-    # Example usage in your logic:
-    # df_orig = read_table(original_table)
-    # sim_files = [os.path.join(simulation_tables_dir, f) for f in os.listdir(simulation_tables_dir) if f.endswith(".csv")]
 
 
 def read_table(file):

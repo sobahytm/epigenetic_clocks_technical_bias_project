@@ -12,8 +12,7 @@ import seaborn as sns
 import plotly.graph_objects as go
 import matplotlib.pyplot as plt
 import json
-#version 2.1 is introducing new approach of the analysis... 
-#This is to prepare and analyze the clocks coefficient values...
+
 try:
     if len(sys.argv) < 3:
         print("USAGE: python clocks_coefficient.txt path_to_intersected_data")
@@ -90,10 +89,8 @@ def adding_mutation(path,clocks):
     return clocks
 #
 def analyzing_clocks(clocks):
-    # NEW CODE Jan. 2025 ...
-    # get the mean and median of mCpG & nmCpG ...
-    fOutNew = open ("coefficients_stat.2025.txt","w")
-    fOutNew.write("clock\tmCpG_mean\tnmCpG_mean\tmCpG_median\tnmCpG_median\tnomalicy_test(shapiro)\tnon-parametric(mann-whitney u test)\n")
+    fOut = open ("coefficients_stat.txt","w")
+    fOut.write("clock\tmCpG_mean\tnmCpG_mean\tmCpG_median\tnmCpG_median\tnomalicy_test(shapiro)\tnon-parametric(mann-whitney u test)\n")
 
     data_scaled_all = {};data_all={}
     output = {}
@@ -153,7 +150,7 @@ def analyzing_clocks(clocks):
 
         print("=================={}====================".format(clock))
   
-        fOutNew.write("{}\t{}\t{}\t{}\t{}\t{}\t{}s\n".format(clock,np.mean(mCpG),np.mean(nmCpG),np.median(mCpG),np.median(nmCpG),normalicy_p_value,non_parametric_p_value))
+        fOut.write("{}\t{}\t{}\t{}\t{}\t{}\t{}s\n".format(clock,np.mean(mCpG),np.mean(nmCpG),np.median(mCpG),np.median(nmCpG),normalicy_p_value,non_parametric_p_value))
         
 
     return 

@@ -25,14 +25,11 @@ def parse_arguments():
 if __name__ == "__main__":
     args = parse_arguments()
 
-    # These will be passed to the original function logic
+    # These will be passed to the function logic
     mutation_file = args.mutation_file
     intersected_data_dir = args.intersected_data_dir
     beta_file = args.beta_file
 
-    # You can now proceed here with calling your existing functions, e.g.:
-    # read_mutations_file(mutation_file)
-    # ...
 
 def read_mutations_file(mutation_file):
     file_name = mutation_file.split("/")
@@ -187,7 +184,7 @@ if __name__ == "__main__":
     updated_data, selected_per_cpg = process_intersected_data(sys.argv[2],data)
     print('NOTICE: Tracker is created ...')
     # generate simulated dataset ...
-    for i in range (4): # 10 simulations ...
+    for i in range (10): # set simulations iterations # 10 ...
         read_DNAm_dataset(sys.argv[3],data,zygosity_df, i,selected_per_cpg)
  
 
